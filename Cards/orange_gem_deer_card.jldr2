@@ -1,0 +1,17 @@
+{
+  "name": "orange_gem_deer",
+  "modPrefix": "dontstarve",
+  "displayedName": "Orange Gem Deer",
+  "description": "A hasty deer. Its orange gem is valuable...",
+  "metaCategories": [ "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "tribes": [ "Hooved" ],
+  "abilities": [ "Strafe", "GainGemOrange" ],
+  "appearanceBehaviour": [ "DefaultEmission" ],
+  "emissionTexture": "orange_gem_deer_emission.png",
+  "texture": "orange_gem_deer.png",
+  "pixelTexture": "px_orange_gem_deer.png"
+}

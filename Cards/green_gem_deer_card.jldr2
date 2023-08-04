@@ -1,0 +1,17 @@
+{
+    "name": "green_gem_deer",
+    "modPrefix": "dontstarve",
+    "displayedName": "Green Gem Deer",
+    "description": "A hasty deer. Its green gem is valuable...",
+    "metaCategories": [ "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "tribes": [ "Hooved" ],
+    "abilities": [ "Strafe", "GainGemGreen" ],
+    "appearanceBehaviour": [ "DefaultEmission" ],
+    "emissionTexture": "green_gem_deer_emission.png",
+    "texture": "green_gem_deer.png",
+    "pixelTexture": "px_green_gem_deer.png"
+  }

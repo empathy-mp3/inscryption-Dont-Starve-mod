@@ -1,0 +1,26 @@
+{
+    "name": "blue_gem_deer",
+    "modPrefix": "dontstarve",
+    "displayedName": "Blue Gem Deer",
+    "description": "A hasty deer. Its blue gem is valuable...",
+    "metaCategories": [ "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "extensionProperties": {
+        "CSDIsSideDeck": "true",
+        "CSDSideDeckType": "Configurable",
+        "CSDNumCards": "10",
+        "CSDNumOptions": "3",
+        "CSDOption1": "dontstarve_blue_gem_deer",
+        "CSDOption2": "dontstarve_green_gem_deer",
+        "CSDOption3": "dontstarve_orange_gem_deer"
+      },
+    "tribes": [ "Hooved" ],
+    "abilities": [ "Strafe", "GainGemBlue" ],
+    "appearanceBehaviour": [ "DefaultEmission" ],
+    "emissionTexture": "blue_gem_deer_emission.png",
+    "texture": "blue_gem_deer.png",
+    "pixelTexture": "px_blue_gem_deer.png"
+  }
