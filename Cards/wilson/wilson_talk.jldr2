@@ -1,0 +1,129 @@
+{
+    "cardName": "dontstarve_wilson",
+    "faceSprite": "wilson_face.png",
+    "eyeSprites": {
+      "open": "wilson_eyes_open.png",
+      "closed": "wilson_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "wilson_mouth_open.png",
+      "closed": "wilson_mouth_closed.png"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 0.1,
+      "voiceSoundPitch": 0.8
+    },
+    "emotions": [
+        {
+            "emotion": "Anger",
+            "eyeSprites": {
+                "open": "wilson_angry_eyes_open.png",
+                "closed": "wilson_angry_eyes_closed.png"
+            }
+        },
+        {
+            "emotion": "Quiet",
+            "eyeSprites": {
+                "open": "wilson_quiet_eyes_open.png",
+                "closed": "wilson_eyes_closed.png"
+            }
+        },
+        {
+            "emotion": "Surprise",
+            "eyeSprites": {
+                "open": "wilson_surprise_eyes_open.png",
+                "closed": "wilson_surprise_eyes_closed.png"
+            }
+        },
+        {
+            "emotion": "Laughter",
+            "eyeSprites": {
+                "open": "wilson_angry_eyes_open",
+                "closed": "wilson_angry_eyes_closed"
+            },
+            "mouthSprites": {
+                "open": "wilson_laughter_mouth_open",
+                "closed": "wilson_laughter_mouth_closed"
+            }
+        }
+    ],
+    "dialogueEvents": [
+      {
+        "eventName": "OnDrawn",
+        "mainLines": [
+            [
+                "[e:3]First [c:R]Maxwell, [w:0.5]",
+                "[e:2][c:dlGr]Now this old man...[leshy:Quiet.][w:0.5]",
+                "[e:3][c:dB]When will I be free?[w:0.2]"
+            ],
+            [
+                "At least I can still[w:0.2]",
+                "[e:3][c:B]do science here...[w:0.3]"
+            ]
+        ],
+        "repeatLines": [
+          ["Good day.[w:0.2]"],
+          ["Greetings.[w:0.2]"],
+          ["[e:1]Decent day to you![w:0.2]"]
+        ]
+      },
+      {
+        "eventName": "OnPlayFromHand",
+        "mainLines": [ 
+            "Stand back.[w:1]",
+            "[e:1][c:B]I'm going to do SCIENCE!" 
+        ],
+        "repeatLines": [
+            ["[e:1][c:lGr]Let's do some science."],
+            ["[e:2][c:B]Go for the eyes!"],
+            ["Stand back.[w:0.6]",
+            "[e:1][c:B]I'm going to do SCIENCE!"],
+            ["This spot should work..."],
+            ["[e:3]Try not to kill me..."]
+        ]
+      },
+      {
+        "eventName": "OnAttacked",
+        "repeatLines": [
+            ["[e:4][c:bR]OW!"],
+            ["[e:2][c:R]Ow![w:0.2] Quit it!"],
+            ["[e:4][c:bR]Agh![w:0.4] [e:2]Stay away!"]
+        ]
+      },
+      {
+        "eventName": "OnSacrificed",
+        "repeatLines": [
+            ["[e:4][c:R]Ow![w:0.2] This isn't science!"],
+            ["[e:4][c:R]Magic has gone too far!"]
+        ]
+      },
+      {
+        "eventName": "OnBecomeSelectableNegative",
+        "repeatLines": [
+            ["[e:3]I don't like the look of this."],
+            ["[e:3]I'm not sure about this..."]
+        ]
+      },
+      {
+        "eventName": "OnBecomeSelectablePositive",
+        "mainLines": ["Pick me![w:0.4] For science!"],
+        "repeatLines": [
+            ["Pick me![w:0.4] For science!"],
+            ["This looks interesting."]
+        ]
+      },
+      {
+        "eventName": "OnSelectedForCardRemove",
+        "mainLines": ["Hey![w:0.2] Stop!"],
+        "repeatLines": ["No![w:0.2] Stop!"]
+      },
+      {
+        "eventName": "OnSelectedForDeckTrial",
+        "repeatLines": [
+            ["[e:1]Good luck!"],
+            ["Good luck."]
+        ]
+      }
+    ]
+  }
