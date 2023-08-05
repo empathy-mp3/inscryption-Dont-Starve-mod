@@ -1,129 +1,155 @@
 {
-    "cardName": "dontstarve_wilson",
-    "faceSprite": "wilson_face.png",
-    "eyeSprites": {
-      "open": "wilson_eyes_open.png",
-      "closed": "wilson_eyes_closed.png"
+  "cardName": "dontstarve_wilson",
+  "faceSprite": "wilson_face.png",
+  "eyeSprites": {
+    "open": "wilson_eyes_open.png",
+    "closed": "wilson_eyes_closed.png"
+  },
+  "mouthSprites": {
+    "open": "wilson_mouth_open.png",
+    "closed": "wilson_mouth_closed.png"
+  },
+  "emissionSprites": {
+    "open": "wilson_eyes_open.png",
+    "closed": "wilson_eyes_closed.png"
+  },
+  "faceInfo": {
+    "voiceId": "female1_voice",
+    "blinkRate": 3,
+    "voiceSoundPitch": 1
+  },
+  "emotions": [
+    {
+      "emotion": "Anger",
+      "eyeSprites": {
+        "open": "wilson_angry_eyes_open.png",
+        "closed": "wilson_angry_eyes_closed.png"
+      }
     },
-    "mouthSprites": {
-      "open": "wilson_mouth_open.png",
-      "closed": "wilson_mouth_closed.png"
-    },
-    "faceInfo": {
-      "voiceId": "female1_voice",
-      "blinkRate": 0.1,
-      "voiceSoundPitch": 0.8
-    },
-    "emotions": [
-        {
-            "emotion": "Anger",
-            "eyeSprites": {
-                "open": "wilson_angry_eyes_open.png",
-                "closed": "wilson_angry_eyes_closed.png"
-            }
-        },
-        {
-            "emotion": "Quiet",
-            "eyeSprites": {
-                "open": "wilson_quiet_eyes_open.png",
-                "closed": "wilson_eyes_closed.png"
-            }
-        },
-        {
-            "emotion": "Surprise",
-            "eyeSprites": {
-                "open": "wilson_surprise_eyes_open.png",
-                "closed": "wilson_surprise_eyes_closed.png"
-            }
-        },
-        {
-            "emotion": "Laughter",
-            "eyeSprites": {
-                "open": "wilson_angry_eyes_open",
-                "closed": "wilson_angry_eyes_closed"
-            },
-            "mouthSprites": {
-                "open": "wilson_laughter_mouth_open",
-                "closed": "wilson_laughter_mouth_closed"
-            }
+    {
+        "emotion": "Quiet",
+        "eyeSprites": {
+            "open": "wilson_quiet_eyes_open.png",
+            "closed": "wilson_eyes_closed.png"
         }
-    ],
+    },
+    {
+        "emotion": "Surprise",
+        "eyeSprites": {
+            "open": "wilson_surprise_eyes_open.png",
+            "closed": "wilson_surprise_eyes_closed.png"
+        }
+    },
+    {
+        "emotion": "Laughter",
+        "eyeSprites": {
+            "open": "wilson_angry_eyes_open.png",
+            "closed": "wilson_angry_eyes_closed.png"
+        },
+        "mouthSprites": {
+            "open": "wilson_laughter_mouth_open.png",
+            "closed": "wilson_laughter_mouth_closed.png"
+        }
+    }
+  ],
     "dialogueEvents": [
       {
         "eventName": "OnDrawn",
         "mainLines": [
-            [
-                "[e:3]First [c:R]Maxwell, [w:0.5]",
-                "[e:2][c:dlGr]Now this old man...[leshy:Quiet.][w:0.5]",
-                "[e:3][c:dB]When will I be free?[w:0.2]"
-            ],
-            [
-                "At least I can still[w:0.2]",
-                "[e:3][c:B]do science here...[w:0.3]"
-            ]
+          [
+              "Hello.[w:0.2]"
+          ],
+          [
+              "Nice to meet you.[w:0.2]"
+          ]
         ],
         "repeatLines": [
-          ["Good day.[w:0.2]"],
-          ["Greetings.[w:0.2]"],
-          ["[e:1]Decent day to you![w:0.2]"]
-        ]
-      },
-      {
-        "eventName": "OnPlayFromHand",
-        "mainLines": [ 
-            "Stand back.[w:1]",
-            "[e:1][c:B]I'm going to do SCIENCE!" 
-        ],
-        "repeatLines": [
-            ["[e:1][c:lGr]Let's do some science."],
-            ["[e:2][c:B]Go for the eyes!"],
-            ["Stand back.[w:0.6]",
-            "[e:1][c:B]I'm going to do SCIENCE!"],
-            ["This spot should work..."],
-            ["[e:3]Try not to kill me..."]
+          ["[e:quiet]Good day.[w:0.2]"],
+          ["[e:quiet]Greetings.[w:0.2]"],
+          ["[e:laughter]Decent day to you![w:0.2]"]
         ]
       },
       {
         "eventName": "OnAttacked",
+        "mainLines": [
+          ["[e:surprise]Ow!"]
+        ],
         "repeatLines": [
-            ["[e:4][c:bR]OW!"],
-            ["[e:2][c:R]Ow![w:0.2] Quit it!"],
-            ["[e:4][c:bR]Agh![w:0.4] [e:2]Stay away!"]
+          ["[e:surprise]Youch!"],
+          ["[e:surprise][c:bR]OW!"],
+          ["[e:anger][c:R]Ow![w:0.2] Quit it!"],
+          ["[e:surprise][c:bR]Agh![w:0.2] [e:anger]Stay away!"]
         ]
       },
       {
-        "eventName": "OnSacrificed",
+        "eventName": "OnPlayFromHand",
+        "mainLines": [
+          ["[e:laughter]Here we go!"]
+        ],
         "repeatLines": [
-            ["[e:4][c:R]Ow![w:0.2] This isn't science!"],
-            ["[e:4][c:R]Magic has gone too far!"]
+          ["[e:laughter][c:dlGr]Let's do some science."],
+          ["[e:anger]Go for the eyes!"],
+          ["Stand back,[w:0.4]",
+          "[e:1][c:dlGr]I'm going to do SCIENCE!"],
+          ["[e:quiet]This spot should work..."],
+          ["[e:quiet]Try not to kill me..."]
         ]
       },
       {
         "eventName": "OnBecomeSelectableNegative",
+        "mainLines": [
+          [
+            "I'm not sure about this..."
+          ]
+        ],
         "repeatLines": [
-            ["[e:3]I don't like the look of this."],
-            ["[e:3]I'm not sure about this..."]
+          ["[e:quiet]I'm not sure about this..."],
+          ["[e:quiet][c:R]..."],
+          ["[e:quiet]Hmm..."],
+          ["[e:quiet]I don't like the look of this..."]
+        ]
+      },
+      {
+        "eventName": "OnSacrificed",
+        "mainLines": [
+          ["Wait![w:0.2]This isn't science!"]
+        ],
+        "repeatLines": [
+          ["[e:surprise]Wait![w:0.2]This isn't science!"],
+          ["[e:surprise]Hey, wait![w:0.2] Stop!"],
+          ["[e:surprise]No![w:0.2] Stop!"]
         ]
       },
       {
         "eventName": "OnBecomeSelectablePositive",
-        "mainLines": ["Pick me![w:0.4] For science!"],
+        "mainLines": [
+          ["[c:laughter]Pick me![w:0.2][c:dlGr] For Science!"]
+        ],
         "repeatLines": [
-            ["Pick me![w:0.4] For science!"],
-            ["This looks interesting."]
+          ["[c:laughter]Pick me![w:0.2][c:dlGr] For Science!"],
+          ["[c:laughter][c:dlGr]Let's experiment!"],
+          ["This looks interesting."]
+        ]
+      },
+      {
+        "eventName": "OnSelectedForDeckTrial",
+        "mainLines": [
+          ["Good Luck."]
+        ],
+        "repeatLines": [
+          ["[e:laughter]Good luck!"],
+          ["Good luck."]
         ]
       },
       {
         "eventName": "OnSelectedForCardRemove",
-        "mainLines": ["Hey![w:0.2] Stop!"],
-        "repeatLines": ["No![w:0.2] Stop!"]
-      },
-      {
-        "eventName": "OnSelectedForDeckTrial",
+        "mainLines": [
+          ["[e:surprise][c:R]NO![w:0.2]STOP!"]
+        ],
         "repeatLines": [
-            ["[e:1]Good luck!"],
-            ["Good luck."]
+          ["[e:surprise][c:R]NO![w:0.2]STOP!"],
+          ["[e:surprise][c:R]THIS ISN'T SCIENCE!"]
         ]
       }
     ]
-  }
+}

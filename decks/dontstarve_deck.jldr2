@@ -3,7 +3,7 @@
         {
             "name": "deck1",
             "iconTexture": "deck3.png",
-            "cards": [ "dontstarve_wilson", "dontstarve_wilson", "dontstarve_wilson" ]
+            "cards": [ "dontstarve_wilson", "Wolf", "Bullfrog" ]
         }
     ]
 }

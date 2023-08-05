@@ -1,16 +1,15 @@
 {
-    "name": "wilson",
-    "modPrefix": "dontstarve",
-    "displayedName": "Wilson",
-    "description": "A survivor. Do with him what you will...",
-    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
-    "cardComplexity": "Simple",
-    "temple": "Nature",
-    "baseAttack": 1,
-    "baseHealth": 3,
-    "energyCost": 2,
-    "tribes": [ "Hooved" ],
-    "abilities": [ "GainBattery" ],
-    "appearanceBehaviour": [ "RareCardBackground" ],
-    "pixelTexture": "px_wilson.png"
-  }
+  "name": "wilson",
+  "modPrefix": "dontstarve",
+  "displayedName": "Wilson",
+  "description": "A survivor. Do with him what you will...",
+  "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "energyCost": 2,
+  "abilities": [ "GainBattery" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "pixelTexture": "px_wilson.png"
+}
