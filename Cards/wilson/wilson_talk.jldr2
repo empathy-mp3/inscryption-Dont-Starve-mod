@@ -58,15 +58,14 @@
         "mainLines": [
           [
               "Hello.[w:0.2]"
-          ],
-          [
-              "Nice to meet you.[w:0.2]"
           ]
         ],
         "repeatLines": [
           ["[e:quiet]Good day.[w:0.2]"],
           ["[e:quiet]Greetings.[w:0.2]"],
-          ["[e:laughter]Decent day to you![w:0.2]"]
+          ["[e:laughter]Decent day to you![w:0.2]"],
+          ["Nice to meet you.[w:0.2]"],
+          ["Hello.[w:0.2]"]
         ]
       },
       {
@@ -87,10 +86,10 @@
           ["[e:laughter]Here we go!"]
         ],
         "repeatLines": [
-          ["[e:laughter][c:dlGr]Let's do some science."],
+          ["[e:laughter]Here we go!"],
           ["[e:anger]Go for the eyes!"],
           ["Stand back,[w:0.4]",
-          "[e:1][c:dlGr]I'm going to do SCIENCE!"],
+          "[e:1]I'm going to do SCIENCE!"],
           ["[e:quiet]This spot should work..."],
           ["[e:quiet]Try not to kill me..."]
         ]
@@ -104,7 +103,7 @@
         ],
         "repeatLines": [
           ["[e:quiet]I'm not sure about this..."],
-          ["[e:quiet][c:R]..."],
+          ["[e:quiet]..."],
           ["[e:quiet]Hmm..."],
           ["[e:quiet]I don't like the look of this..."]
         ]
@@ -112,10 +111,10 @@
       {
         "eventName": "OnSacrificed",
         "mainLines": [
-          ["Wait![w:0.2]This isn't science!"]
+          ["[e:surprise]Hey, wait![w:0.2] Stop!"]
         ],
         "repeatLines": [
-          ["[e:surprise]Wait![w:0.2]This isn't science!"],
+          ["[e:surprise]Again?"],
           ["[e:surprise]Hey, wait![w:0.2] Stop!"],
           ["[e:surprise]No![w:0.2] Stop!"]
         ]
@@ -123,12 +122,12 @@
       {
         "eventName": "OnBecomeSelectablePositive",
         "mainLines": [
-          ["[c:laughter]Pick me![w:0.2][c:dlGr] For Science!"]
+          ["[e:laughter]Pick me!"]
         ],
         "repeatLines": [
-          ["[c:laughter]Pick me![w:0.2][c:dlGr] For Science!"],
-          ["[c:laughter][c:dlGr]Let's experiment!"],
-          ["This looks interesting."]
+          ["[e:laughter][c:dlGr]Let's experiment!"],
+          ["This looks interesting."],
+          ["[e:laughter]Pick me!"]
         ]
       },
       {

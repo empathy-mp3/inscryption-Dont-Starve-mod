@@ -1,0 +1,15 @@
+{
+    "name": "crawling_horror",
+    "modPrefix": "dontstarve",
+    "displayedName": "Crawling Horror",
+    "description": "It slowly crawls towards you, driving you insane...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 3,
+    "gemsCost": ["Blue"],
+    "abilities": [ "Strafe", "GemDependant" ],
+    "texture": "crawling_horror.png",
+    "pixelTexture": "px_crawling_horror.png"
+  }

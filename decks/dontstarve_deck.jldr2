@@ -1,9 +1,9 @@
 {
     "decks": [
         {
-            "name": "deck1",
-            "iconTexture": "deck3.png",
-            "cards": [ "dontstarve_wilson", "Wolf", "Bullfrog" ]
+            "name": "wilson_deck",
+            "iconTexture": "wilson_deck.png",
+            "cards": [ "dontstarve_wilson", "dontstarve_crawling_horror", "dontstarve_terrorbeak" ]
         }
     ]
 }

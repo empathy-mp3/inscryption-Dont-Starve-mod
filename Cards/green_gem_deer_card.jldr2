@@ -11,6 +11,7 @@
     "tribes": [ "Hooved" ],
     "abilities": [ "Strafe", "GainGemGreen" ],
     "appearanceBehaviour": [ "DefaultEmission" ],
+    "traits": ["Gem"],
     "tailName": "Tail_Furry",
     "emissionTexture": "green_gem_deer_emission.png",
     "texture": "green_gem_deer.png",

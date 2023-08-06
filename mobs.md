@@ -6,10 +6,11 @@ every "lunar aligned" enemy should be blue gem
 every "shadow aligned" enemy should be other gem?
 useful page: https://dontstarve.fandom.com/wiki/Mobs#All
 custom tribes: machine, shadow, spider, sea, moon
+fin=finished
 
 | mob                          | tribe                | temple         | rare |
 | ---------------------------- | -------------------- | -------------- | ---- |
-| wilson                       | tribeless            | tech           | yes  |
+| wilson (fin)                 | tribeless            | tech           | yes  |
 | willow                       | tribeless            | death          | yes  |
 | wolfgang                     | tribeless            | nature         | yes  |
 | wendy                        | tribeless            | death          | yes  |
@@ -280,8 +281,8 @@ custom tribes: machine, shadow, spider, sea, moon
 | queen of the moon quay       | monkey               | nature         | no   |
 | houndius shootius            | machine              | tech           | no   |
 | shadow eyes                  | shadow               | wizard         | no   |
-| terrorbeak                   | shadow               | wizard         | no   |
-| crawling horror              | shadow               | wizard         | no   |
+| terrorbeak (fin)             | shadow               | wizard         | no   |
+| crawling horror (fin)        | shadow               | wizard         | no   |
 | mr. skits                    | shadow               | wizard         | no   |
 | shadow hand                  | shadow               | wizard         | no   |
 | shadow watcher               | shadow               | wizard         | no   |

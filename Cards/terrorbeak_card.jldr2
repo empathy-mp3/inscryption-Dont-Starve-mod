@@ -1,0 +1,15 @@
+{
+    "name": "terrorbeak",
+    "modPrefix": "dontstarve",
+    "displayedName": "Terrorbeak",
+    "description": "A terrifying visage. A mere sight of it will drive you to insanity...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 2,
+    "gemsCost": ["Blue"],
+    "abilities": [ "StrafePush", "GemDependant" ],
+    "texture": "terrorbeak.png",
+    "pixelTexture": "px_terrorbeak.png"
+  }
