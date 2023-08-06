@@ -10,6 +10,7 @@
     "bloodCost": 1,
     "abilities": [ "StrafePush" ],
     "appearanceBehaviour": [ "RareCardBackground" ],
+    "tribes": ["Hooved"],
     "emissionTexture": "weremoose_emission.png",
     "texture": "weremoose.png"
 }

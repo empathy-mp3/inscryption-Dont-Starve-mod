@@ -12,6 +12,7 @@
     "bloodCost": 1,
     "traits": ["Terrain"],
     "abilities": ["CorpseEater" ],
+    "iceCubeName": "dontstarve_birchnutter",
     "appearanceBehaviour": ["TerrainBackground"],
     "texture": "treeguard.png",
     "pixelTexture": "px_treeguard.png"

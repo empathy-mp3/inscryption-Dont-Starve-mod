@@ -5,12 +5,12 @@
     "abilityBehaviour": [
         {
             "trigger": {
-                "triggerType": "OnPreDeath"
+                "triggerType": "OnResolveOnBoard"
             },
             "placeCards": [
                 {   
                     "slot": {
-                        "index": "([BaseCard.Slot.Index] + 1)",
+                        "index": "([BaseCard.Slot.Index])",
                         "isOpponentSlot": "false"
                     },
                     "card": {

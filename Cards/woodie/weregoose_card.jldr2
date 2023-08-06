@@ -9,6 +9,7 @@
     "baseHealth": 1,
     "bloodCost": 1,
     "abilities": [ "Flying" ],
+    "tribes": ["Bird"],
     "appearanceBehaviour": [ "RareCardBackground" ],
     "emissionTexture": "weregoose_emission.png",
     "texture": "weregoose.png"
