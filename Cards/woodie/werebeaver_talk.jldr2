@@ -1,0 +1,41 @@
+{
+    "cardName": "dontstarve_werebeaver",
+    "faceSprite": "werebeaver_face.png",
+    "eyeSprites": {
+      "open": "werebeaver_eyes.png",
+      "closed": "werebeaver_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "_",
+      "closed": "_"
+    },
+    "emissionSprites": {
+      "open": "werebeaver_eyes_emission.png",
+      "closed": "werebeaver_emission"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 3,
+      "voiceSoundPitch": 0.7
+    },
+    "emotions": [
+        {
+          "emotion": "Anger",
+          "eyeSprites": {
+            "open": "werebeaver_eyes.png",
+            "closed": "werebeaver_eyes_closed.png"
+          }
+        }
+    ],
+    "dialogueEvents": [
+        {
+            "eventName": "OnDrawn",
+            "mainLines": [
+                [""]    
+            ],
+            "repeatLines": [
+                [""]
+            ]
+        }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "name": "weregoose",
+    "modPrefix": "dontstarve",
+    "displayedName": "Woodie",
+    "description": "A survivor. He loves the forest so much it's driven him insane...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "abilities": [ "Flying" ],
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "emissionTexture": "weregoose_emission.png",
+    "texture": "weregoose.png"
+}

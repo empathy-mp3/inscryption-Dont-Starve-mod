@@ -1,0 +1,15 @@
+{
+    "name": "werebeaver",
+    "modPrefix": "dontstarve",
+    "displayedName": "Woodie",
+    "description": "A survivor. He loves the forest so much it's driven him insane...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "abilities": [ "DoubleStrike" ],
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "emissionTexture": "werebeaver_emission.png",
+    "texture": "werebeaver.png"
+}

@@ -56,9 +56,7 @@
       {
         "eventName": "OnDrawn",
         "mainLines": [
-          [
-              "Hello.[w:0.2]"
-          ]
+          "Hello.[w:0.2]"
         ],
         "repeatLines": [
           ["[e:quiet]Good day.[w:0.2]"],
@@ -70,9 +68,7 @@
       },
       {
         "eventName": "OnAttacked",
-        "mainLines": [
-          ["[e:surprise]Ow!"]
-        ],
+        "mainLines": ["[e:surprise]Ow!"],
         "repeatLines": [
           ["[e:surprise]Youch!"],
           ["[e:surprise][c:bR]OW!"],
@@ -82,9 +78,7 @@
       },
       {
         "eventName": "OnPlayFromHand",
-        "mainLines": [
-          ["[e:laughter]Here we go!"]
-        ],
+        "mainLines": ["[e:laughter]Here we go!"],
         "repeatLines": [
           ["[e:laughter]Here we go!"],
           ["[e:anger]Go for the eyes!"],
@@ -96,11 +90,7 @@
       },
       {
         "eventName": "OnBecomeSelectableNegative",
-        "mainLines": [
-          [
-            "I'm not sure about this..."
-          ]
-        ],
+        "mainLines": ["I'm not sure about this..."],
         "repeatLines": [
           ["[e:quiet]I'm not sure about this..."],
           ["[e:quiet]..."],
@@ -110,9 +100,7 @@
       },
       {
         "eventName": "OnSacrificed",
-        "mainLines": [
-          ["[e:surprise]Hey, wait![w:0.2] Stop!"]
-        ],
+        "mainLines": ["[e:surprise]Hey, wait![w:0.2] Stop!"],
         "repeatLines": [
           ["[e:surprise]Again?"],
           ["[e:surprise]Hey, wait![w:0.2] Stop!"],
@@ -121,9 +109,7 @@
       },
       {
         "eventName": "OnBecomeSelectablePositive",
-        "mainLines": [
-          ["[e:laughter]Pick me!"]
-        ],
+        "mainLines": ["[e:laughter]Pick me!"],
         "repeatLines": [
           ["[e:laughter][c:dlGr]Let's experiment!"],
           ["This looks interesting."],
@@ -132,9 +118,7 @@
       },
       {
         "eventName": "OnSelectedForDeckTrial",
-        "mainLines": [
-          ["Good Luck."]
-        ],
+        "mainLines": ["Good Luck."],
         "repeatLines": [
           ["[e:laughter]Good luck!"],
           ["Good luck."]
@@ -142,9 +126,7 @@
       },
       {
         "eventName": "OnSelectedForCardRemove",
-        "mainLines": [
-          ["[e:surprise][c:R]NO![w:0.2]STOP!"]
-        ],
+        "mainLines": ["[e:surprise][c:R]NO![w:0.2]STOP!"],
         "repeatLines": [
           ["[e:surprise][c:R]NO![w:0.2]STOP!"],
           ["[e:surprise][c:R]THIS ISN'T SCIENCE!"]

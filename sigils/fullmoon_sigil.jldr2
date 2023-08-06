@@ -1,0 +1,25 @@
+{
+    "name": "Full Moon",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnPreDeath"
+            },
+            "placeCards": [
+                {   
+                    "slot": {
+                        "index": "([BaseCard.Slot.Index] + 1)",
+                        "isOpponentSlot": "false"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "(Random('dontstarve_werebeaver', 'dontstarve_weregoose', 'dontstarve_weremoose'))"
+                    },
+                    "replace": "true"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "cardName": "dontstarve_woodie",
+    "faceSprite": "woodie_face.png",
+    "eyeSprites": {
+      "open": "woodie_eyes_open.png",
+      "closed": "woodie_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "woodie_mouth_open.png",
+      "closed": "woodie_mouth_closed.png"
+    },
+    "emissionSprites": {
+      "open": "_",
+      "closed": "_"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 3,
+      "voiceSoundPitch": 0.7
+    },
+    "emotions": [
+        {
+          "emotion": "Anger",
+          "eyeSprites": {
+            "open": "woodie_eyes_open.png",
+            "closed": "woodie_eyes_closed.png"
+          }
+        }
+    ],
+    "dialogueEvents": [
+        {
+            "eventName": "OnDrawn",
+            "mainLines": ["Heya."],
+            "repeatLines": [
+                ["Heya."]
+            ]
+        },
+        {
+            "eventName": "OnPlayFromHand",
+            "mainLines": ["Arright, here we go."],
+            "repeatLines": [
+                ["Arright, here we go."]
+            ]
+        },
+        {
+            "eventName": "OnAttacked",
+            "mainLines": [
+                "[c:R]fuck[w:0.3]",
+                "[c:O]shit[w:0.3]",
+                "[c:B]fuck[w:0.3]",
+                "[c:dB]shit[w:0.3]"
+            ],
+            "repeatLines": [
+                ["[c:R]fuck[w:0.3]"],
+                ["[c:O]shit[w:0.3]"],
+                ["[c:B]fuck[w:0.3]"],
+                ["[c:dB]shit[w:0.3]"]
+            ]
+        }
+    ]
+}

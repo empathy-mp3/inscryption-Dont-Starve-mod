@@ -1,0 +1,41 @@
+{
+    "cardName": "dontstarve_weremoose",
+    "faceSprite": "weremoose_face.png",
+    "eyeSprites": {
+      "open": "weremoose_eyes.png",
+      "closed": "weremoose_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "_",
+      "closed": "_"
+    },
+    "emissionSprites": {
+      "open": "weremoose_emission.png",
+      "closed": "_"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 3,
+      "voiceSoundPitch": 0.7
+    },
+    "emotions": [
+        {
+          "emotion": "Anger",
+          "eyeSprites": {
+            "open": "weremoose_eyes.png",
+            "closed": "weremoose_eyes_closed.png"
+          }
+        }
+    ],
+    "dialogueEvents": [
+        {
+            "eventName": "OnDrawn",
+            "mainLines": [
+                [""]    
+            ],
+            "repeatLines": [
+                [""]
+            ]
+        }
+    ]
+}

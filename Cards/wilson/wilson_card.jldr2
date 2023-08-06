@@ -9,7 +9,6 @@
   "baseAttack": 1,
   "baseHealth": 3,
   "energyCost": 2,
-  "abilities": [ "GainBattery" ],
   "appearanceBehaviour": [ "RareCardBackground" ],
   "pixelTexture": "px_wilson.png"
 }

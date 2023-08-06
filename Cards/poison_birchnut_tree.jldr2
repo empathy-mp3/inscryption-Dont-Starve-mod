@@ -1,0 +1,18 @@
+{
+    "name": "poison_birchnut_tree",
+    "modPrefix": "dontstarve",
+    "displayedName": "Poison Birchnut Tree",
+    "description": "The trees are angered... their fury is not to be underestimated",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 2,
+    "bonesCost": 4,
+    "traits": ["Terrain"],
+    "abilities": ["IceCube"],
+    "iceCubeName": "dontstarve_birchnutter",
+    "appearanceBehaviour": ["TerrainBackground"],
+    "texture": "poison_birchnut_tree.png",
+    "pixelTexture": "px_poison_birchnut_tree.png"
+  }

@@ -7,7 +7,7 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 2,
-    "baseHealth": 2,
+    "baseHealth": 1,
     "gemsCost": ["Blue"],
     "abilities": [ "StrafePush", "GemDependant" ],
     "texture": "terrorbeak.png",

@@ -4,6 +4,11 @@
             "name": "wilson_deck",
             "iconTexture": "wilson_deck.png",
             "cards": [ "dontstarve_wilson", "dontstarve_crawling_horror", "dontstarve_terrorbeak" ]
+        },
+        {
+            "name": "woodie_deck",
+            "iconTexture": "deck3.png",
+            "cards": ["dontstarve_woodie", "dontstarve_poison_birchnut_tree", "dontstarve_treeguard"]
         }
     ]
 }

@@ -1,0 +1,16 @@
+{
+    "name": "woodie",
+    "modPrefix": "dontstarve",
+    "displayedName": "Woodie",
+    "description": "A survivor. He loves the forest so much it's driven him insane...",
+    "metaCategories": [ "Rare" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Full Moon"],
+    "appearanceBehaviour": [ "RareCardBackground", "TerrainLayout" ],
+    "texture": "woodie.png",
+    "pixelTexture": "px_woodie.png"
+}

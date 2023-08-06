@@ -1,0 +1,15 @@
+{
+    "name": "weremoose",
+    "modPrefix": "dontstarve",
+    "displayedName": "Woodie",
+    "description": "A survivor. He loves the forest so much it's driven him insane...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 3,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "abilities": [ "StrafePush" ],
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "emissionTexture": "weremoose_emission.png",
+    "texture": "weremoose.png"
+}
