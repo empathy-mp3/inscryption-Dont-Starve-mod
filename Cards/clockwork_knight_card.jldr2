@@ -1,0 +1,16 @@
+{
+    "name": "clockwork_knight",
+    "modPrefix": "dontstarve",
+    "displayedName": "Clockwork Knight",
+    "description": "The knight... it strikes where other cards cannot reach...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "energyCost": 5,
+    "abilities": ["SplitStrike"],
+    "texture": "clockwork_knight.png",
+    "pixelTexture": "px_clockwork_knight.png",
+    "emissionTexture": "clockwork_knight_emission.png"
+  }

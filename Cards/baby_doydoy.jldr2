@@ -1,0 +1,18 @@
+{
+    "name": "baby_doydoy",
+    "modPrefix": "dontstarve",
+    "displayedName": "Baby Doydoy",
+    "description": "Its life will certainly be one of hardship...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bonesCost": 3,
+    "tribes": ["Bird"],
+    "abilities": ["Evolve"],
+    "evolveIntoName": "dontstarve_teen_doydoy",
+    "texture": "baby_doydoy.png",
+    "pixelTexture": "px_baby_doydoy.png",
+    "emissionTexture": "baby_doydoy_emission.png"
+  }

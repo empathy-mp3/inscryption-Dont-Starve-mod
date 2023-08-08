@@ -1,0 +1,16 @@
+{
+    "name": "clockwork_rook",
+    "modPrefix": "dontstarve",
+    "displayedName": "Clockwork Rook",
+    "description": "The rook... it strikes where other cards cannot reach...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 3,
+    "energyCost": 6,
+    "abilities": ["StrafeSwap"],
+    "texture": "clockwork_rook.png",
+    "pixelTexture": "px_clockwork_rook.png",
+    "emissionTexture": "clockwork_rook_emission.png"
+  }

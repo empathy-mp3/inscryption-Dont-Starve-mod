@@ -1,0 +1,16 @@
+{
+    "name": "clockwork_bishop",
+    "modPrefix": "dontstarve",
+    "displayedName": "Clockwork Bishop",
+    "description": "The bishop... it can strike you from where you cannot see...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "energyCost": 4,
+    "abilities": ["Sniper"],
+    "texture": "clockwork_bishop.png",
+    "pixelTexture": "px_clockwork_bishop.png",
+    "emissionTexture": "clockwork_bishop_emission.png"
+  }

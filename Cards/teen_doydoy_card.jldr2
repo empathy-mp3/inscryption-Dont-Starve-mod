@@ -1,0 +1,18 @@
+{
+    "name": "teen_doydoy",
+    "modPrefix": "dontstarve",
+    "displayedName": "Teen Doydoy",
+    "description": "I doubt it'll live much longer...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bonesCost": 2,
+    "tribes": ["Bird"],
+    "abilities": ["Evolve"],
+    "evolveIntoName": "dontstarve_doydoy",
+    "texture": "teen_doydoy.png",
+    "pixelTexture": "px_teen_doydoy.png",
+    "emissionTexture": "teen_doydoy_emission.png"
+  }

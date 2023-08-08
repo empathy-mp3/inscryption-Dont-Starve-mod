@@ -2,16 +2,16 @@
     "name": "doydoy",
     "modPrefix": "dontstarve",
     "displayedName": "Doydoy",
-    "description": "A tiny servant of the forest.",
+    "description": "It's a miracle it's survived this long...",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",
-    "baseAttack": 2,
-    "baseHealth": 2,
-    "bonesCost": 2,
-    "traits": ["Terrain"],
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bonesCost": 1,
     "tribes": ["Bird"],
-    "appearanceBehaviour": ["TerrainBackground"],
+    "abilities": ["Brittle"],
     "texture": "doydoy.png",
-    "pixelTexture": "px_doydoy.png"
+    "pixelTexture": "px_doydoy.png",
+    "emissionTexture": "doydoy_emission.png"
   }
