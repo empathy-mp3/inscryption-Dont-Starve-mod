@@ -10,7 +10,7 @@
     "baseHealth": 1,
     "bloodCost": 1,
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Full Moon"],
-    "appearanceBehaviour": [ "RareCardBackground", "TerrainLayout" ],
+    "appearanceBehaviour": [ "RareCardBackground" ],
     "texture": "woodie.png",
     "pixelTexture": "px_woodie.png"
 }

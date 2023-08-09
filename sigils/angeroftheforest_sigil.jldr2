@@ -1,0 +1,70 @@
+{
+    "name": "Anger Of The Forest",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "priority": 5,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnResolveOnBoard"
+            },
+            "transformCards": [
+                {   
+                    "runOnCondition": "(HasTrait(Trait('Terrain'))",
+                    "slot": {
+                        "isOpponentSlot": "false",
+                        "index": "0"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_lesser_treeguard"
+                    }
+                },
+                {   
+                    "runOnCondition": "(HasTrait(Trait('Terrain'))",
+                    "slot": {
+                        "isOpponentSlot": "false",
+                        "index": "1"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_lesser_treeguard"
+                    }
+                },
+                {   
+                    "runOnCondition": "(HasTrait(Trait('Terrain'))",
+                    "slot": {
+                        "isOpponentSlot": "false",
+                        "index": "2"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_lesser_treeguard"
+                    }
+                },
+                {   
+                    "runOnCondition": "(HasTrait(Trait('Terrain'))",
+                    "slot": {
+                        "isOpponentSlot": "false",
+                        "index": "3"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_lesser_treeguard"
+                    }
+                },
+                {   
+                    "runOnCondition": "(HasTrait(Trait('Terrain'))",
+                    "slot": {
+                        "isOpponentSlot": "false",
+                        "index": "4"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_lesser_treeguard"
+                    }
+                }
+            ]
+        }
+    ]
+}

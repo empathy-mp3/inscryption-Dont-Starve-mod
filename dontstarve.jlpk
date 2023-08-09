@@ -1,0 +1,7 @@
+{
+	"Title": "dontstarve",
+	"Description": "The many creatures of Don't Starve.",
+	"ModPrefix": "dontstarve",
+	"PackArt": "dontstarve_pack.png",
+    "ValidFor": ["LeshyPack"]
+}

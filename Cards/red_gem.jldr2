@@ -6,9 +6,10 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 0,
-    "baseHealth": 2,
+    "baseHealth": 1,
     "abilities": ["GainGemBlue", "GainGemOrange"],
+    "traits": ["Terrain"],
     "texture": "red_gem.png",
-    "appearanceBehaviour": ["DefaultEmission"],
+    "appearanceBehaviour": ["DefaultEmission", "TerrainBackground"],
     "emissionTexture": "red_gem_emission.png"
   }

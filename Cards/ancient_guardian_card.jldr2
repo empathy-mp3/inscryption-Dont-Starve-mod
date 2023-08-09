@@ -10,7 +10,7 @@
     "baseHealth": 6,
     "bloodCost": 2,
     "abilities": ["StrafePush"],
-    "specialAbilities": ["empathymp3.inscryption.dontstarve.Gem Strafe"],
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Gem Drop"],
     "tribes": ["Hooved"],
     "appearanceBehaviour": ["RareCardBackground"],
     "texture": "ancient_guardian.png",

@@ -1,16 +1,16 @@
 {
-    "name": "Gem Strafe",
+    "name": "Gem Drop",
     "GUID": "empathymp3.inscryption.dontstarve",
     "isSpecialAbility": true,
     "abilityBehaviour": [
         {
             "trigger": {
-                "triggerType": "OnMove"
+                "triggerType": "OnDie"
             },
             "placeCards": [
                 {   
                     "slot": {
-                        "index": "([OldSlot])",
+                        "index": "([DeathSlot.Index])",
                         "isOpponentSlot": "false"
                     },
                     "card": {

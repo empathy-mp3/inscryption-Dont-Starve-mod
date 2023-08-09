@@ -1,9 +1,8 @@
 {
-    "name": "treeguard",
+    "name": "lesser_treeguard",
     "modPrefix": "dontstarve",
     "displayedName": "Treeguard",
     "description": "The trees are angered... their fury is not to be underestimated",
-    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
@@ -12,8 +11,7 @@
     "traits": ["Terrain"],
     "abilities": ["Reach"],
     "iceCubeName": "dontstarve_birchnutter",
-    "specialAbilities": ["empathymp3.inscryption.dontstarve.Anger Of The Forest"],
-    "appearanceBehaviour": ["TerrainBackground", "GoldEmission"],
+    "appearanceBehaviour": ["TerrainBackground"],
     "texture": "treeguard.png",
     "pixelTexture": "px_treeguard.png"
   }
