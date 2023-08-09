@@ -1,0 +1,18 @@
+{
+    "name": "ancient_guardian",
+    "modPrefix": "dontstarve",
+    "displayedName": "Ancient Guardian",
+    "description": "A gargantuan beast. It's brimming with valuables...",
+    "metaCategories": [ "Rare" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 3,
+    "baseHealth": 6,
+    "bloodCost": 2,
+    "abilities": ["StrafePush"],
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Gem Strafe"],
+    "tribes": ["Hooved"],
+    "appearanceBehaviour": ["RareCardBackground"],
+    "texture": "ancient_guardian.png",
+    "emissionTexture": "ancient_guardian_emission.png"
+  }

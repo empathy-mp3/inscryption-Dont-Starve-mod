@@ -8,7 +8,6 @@
     "temple": "Nature",
     "baseAttack": 1,
     "baseHealth": 1,
-    "bonesCost": 1,
     "tribes": ["Bird"],
     "abilities": ["Brittle"],
     "texture": "doydoy.png",

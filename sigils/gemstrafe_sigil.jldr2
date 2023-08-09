@@ -1,0 +1,25 @@
+{
+    "name": "Gem Strafe",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnMove"
+            },
+            "placeCards": [
+                {   
+                    "slot": {
+                        "index": "([OldSlot])",
+                        "isOpponentSlot": "false"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "(Random('dontstarve_red_gem', 'dontstarve_yellow_gem', 'dontstarve_purple_gem'))"
+                    },
+                    "replace": "true"
+                }
+            ]
+        }
+    ]
+}

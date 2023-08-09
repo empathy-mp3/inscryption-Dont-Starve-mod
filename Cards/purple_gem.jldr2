@@ -1,0 +1,14 @@
+{
+    "name": "purple_gem",
+    "modPrefix": "dontstarve",
+    "displayedName": "Purple Gem",
+    "description": "You shouldn't be seeing this message...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "abilities": ["GainGemGreen", "GainGemBlue"],
+    "texture": "purple_gem.png",
+    "appearanceBehaviour": ["DefaultEmission"],
+    "emissionTexture": "purple_gem_emission.png"
+  }

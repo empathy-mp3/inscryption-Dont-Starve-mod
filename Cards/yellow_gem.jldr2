@@ -1,0 +1,14 @@
+{
+    "name": "yellow_gem",
+    "modPrefix": "dontstarve",
+    "displayedName": "Yellow Gem",
+    "description": "You shouldn't be seeing this message...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "abilities": ["GainGemGreen", "GainGemOrange"],
+    "texture": "yellow_gem.png",
+    "appearanceBehaviour": ["DefaultEmission"],
+    "emissionTexture": "yellow_gem_emission.png"
+  }

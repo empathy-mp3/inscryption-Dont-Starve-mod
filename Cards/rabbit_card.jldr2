@@ -1,0 +1,14 @@
+{
+    "name": "rabbit",
+    "modPrefix": "dontstarve",
+    "displayedName": "Rabbit",
+    "description": "Its life will certainly be one of hardship...",
+    "metaCategories": [ "TraderOffer", "ChoiceNode" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "evolveIntoName": "dontstarve_teen_doydoy",
+    "texture": "rabbit.png",
+    "emissionTexture": "rabbit_emission.png"
+  }

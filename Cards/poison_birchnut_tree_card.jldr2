@@ -7,7 +7,7 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
-    "baseHealth": 2,
+    "baseHealth": 1,
     "bonesCost": 3,
     "traits": ["Terrain"],
     "abilities": ["IceCube"],

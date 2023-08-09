@@ -7,7 +7,7 @@
         },
         {
             "name": "woodie_deck",
-            "iconTexture": "deck3.png",
+            "iconTexture": "woodie_deck.png",
             "cards": ["dontstarve_woodie", "dontstarve_poison_birchnut_tree", "dontstarve_treeguard"]
         }
     ]

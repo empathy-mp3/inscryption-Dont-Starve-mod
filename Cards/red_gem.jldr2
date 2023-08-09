@@ -1,0 +1,14 @@
+{
+    "name": "red_gem",
+    "modPrefix": "dontstarve",
+    "displayedName": "Red Gem",
+    "description": "You shouldn't be seeing this message...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "abilities": ["GainGemBlue", "GainGemOrange"],
+    "texture": "red_gem.png",
+    "appearanceBehaviour": ["DefaultEmission"],
+    "emissionTexture": "red_gem_emission.png"
+  }
