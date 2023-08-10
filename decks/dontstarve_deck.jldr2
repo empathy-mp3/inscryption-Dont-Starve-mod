@@ -9,6 +9,11 @@
             "name": "woodie_deck",
             "iconTexture": "woodie_deck.png",
             "cards": ["dontstarve_woodie", "dontstarve_poison_birchnut_tree", "dontstarve_treeguard"]
+        },
+        {
+            "name": "wendy_deck",
+            "iconTexture": "deck3.png",
+            "cards": ["dontstarve_wendy", "dontstarve_pipspook", "dontstarve_gestalt"]
         }
     ]
 }

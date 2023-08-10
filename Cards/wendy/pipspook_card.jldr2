@@ -1,0 +1,15 @@
+{
+    "name": "pipspook",
+    "modPrefix": "dontstarve",
+    "displayedName": "pipspook",
+    "description": "Having returned from the grave, it understands death...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "bonesCost": 1,
+    "abilities": ["BoneDigger"],
+    "emissionTexture": "pipspook_emission.png",
+    "texture": "pipspook.png",
+    "pixelTexture": "px_pipspook.png"
+}

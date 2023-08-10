@@ -36,13 +36,6 @@
             ]
         },
         {
-            "eventName": "OnPlayFromHand",
-            "mainLines": ["Arright, here we go."],
-            "repeatLines": [
-                ["Arright, here we go."]
-            ]
-        },
-        {
             "eventName": "OnAttacked",
             "mainLines": [
                 "[c:R]fuck[w:0.3]",

@@ -1,0 +1,39 @@
+{
+    "cardName": "dontstarve_abigail",
+    "faceSprite": "abigail_face.png",
+    "eyeSprites": {
+      "open": "abigail_eyes.png",
+      "closed": "abigail_eyes.png"
+    },
+    "mouthSprites": {
+      "open": "_",
+      "closed": "_"
+    },
+    "emissionSprites": {
+      "open": "abigail_emission.png",
+      "closed": "abigail_emission.png"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 10,
+      "voiceSoundPitch": 1.2
+    },
+    "emotions": [
+        {
+          "emotion": "Anger",
+          "eyeSprites": {
+            "open": "abigail_eyes.png",
+            "closed": "abigail_eyes.png"
+          }
+        }
+    ],
+    "dialogueEvents": [
+        {
+            "eventName": "OnSelectedForDeckTrial",
+            "mainLines": ["Does it matter?"],
+            "repeatLines": [
+                ["Does it matter?"]
+            ]
+        }
+    ]
+  }

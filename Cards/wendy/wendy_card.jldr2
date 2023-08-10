@@ -1,0 +1,15 @@
+{
+    "name": "wendy",
+    "modPrefix": "dontstarve",
+    "displayedName": "Wendy",
+    "description": "A survivor. Her dead sister follows her wherever she goes...",
+    "metaCategories": [ "Rare" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 2,
+    "bonesCost": 3,
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Twins Of Death"],
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "pixelTexture": "px_wendy.png"
+  }

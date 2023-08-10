@@ -1,0 +1,43 @@
+{
+    "name": "Twins Of Death",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnResolveOnBoard"
+            },
+            "placeCards": [
+                {   
+                    "slot": {
+                        "index": "([BaseCard.Slot.Index] + 1)",
+                        "isOpponentSlot": "false"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_abigail"
+                    },
+                    "replace": "false"
+                }
+            ]
+        },
+        {
+            "trigger": {
+                "triggerType": "OnStartOfTurn"
+            },
+            "placeCards": [
+                {
+                    "slot": {
+                        "index": "([BaseCard.Slot.Index] + 1)",
+                        "isOpponentSlot": "false"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_abigail"
+                    },
+                    "replace": "false"
+                }
+            ]
+        }
+    ]
+}

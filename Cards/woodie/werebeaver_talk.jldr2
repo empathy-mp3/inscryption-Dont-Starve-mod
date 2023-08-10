@@ -11,7 +11,7 @@
     },
     "emissionSprites": {
       "open": "werebeaver_eyes_emission.png",
-      "closed": "werebeaver_emission"
+      "closed": "werebeaver_emission.png"
     },
     "faceInfo": {
       "voiceId": "female1_voice",
@@ -30,9 +30,7 @@
     "dialogueEvents": [
         {
             "eventName": "OnDrawn",
-            "mainLines": [
-                [""]    
-            ],
+            "mainLines": [""],
             "repeatLines": [
                 [""]
             ]

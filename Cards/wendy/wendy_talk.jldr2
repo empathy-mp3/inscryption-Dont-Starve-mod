@@ -1,0 +1,107 @@
+{
+    "cardName": "dontstarve_wendy",
+    "faceSprite": "wendy_face.png",
+    "eyeSprites": {
+      "open": "wendy_eyes_open.png",
+      "closed": "wendy_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "wendy_mouth_open.png",
+      "closed": "wendy_mouth_closed.png"
+    },
+    "emissionSprites": {
+      "open": "wendy_emission.png",
+      "closed": "_"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 10,
+      "voiceSoundPitch": 1.2
+    },
+    "emotions": [
+        {
+          "emotion": "Anger",
+          "eyeSprites": {
+            "open": "wendy_eyes_open.png",
+            "closed": "wendy_eyes_closed.png"
+          }
+        }
+    ],
+    "dialogueEvents": [
+        {
+            "eventName": "OnDrawn",
+            "mainLines": ["Oh... hello."],
+            "repeatLines": [
+                ["Oh... hello."],
+                ["How do you do?"],
+                ["How are you coping?"]
+            ]
+        },
+        {
+            "eventName": "OnPlayFromHand",
+            "mainLines": [
+                "Death will find you."
+            ],
+            "repeatLines": [
+                ["Death will find you."],
+                ["Suffer, worm!"],
+                ["Let death embrace you."]
+            ]
+        },
+        {
+            "eventName": "OnAttacked",
+            "mainLines": [
+                "So close to death,[w:0.2]","yet so far."
+            ],
+            "repeatLines": [
+                ["Ow! Fires of Hell!"],
+                ["So close to death,[w:0.2]","yet so far."],
+                ["What's the point."]
+            ]
+        },
+        {
+            "eventName": "OnSacrificed",
+            "mainLines": [
+                "The darkness has swallowed me."
+            ],
+            "repeatLines": [
+                ["The darkness has swallowed me."],
+                ["I suppose this is how it ends..."],
+                ["Not all deaths are the same."]
+            ]
+        },
+        {
+            "eventName": "OnBecomeSelectableNegative",
+            "mainLines": ["Do what you will..."],
+            "repeatLines": [
+                ["Do what you will..."],
+                ["It's not like I have anything[w:0.2]","better to do."],
+                ["If you must..."]
+            ]
+        },
+        {
+            "eventName": "OnBecomeSelectablePositive",
+            "mainLines": ["Do what you will..."],
+            "repeatLines": [
+                ["Do what you will..."],
+                ["If you must..."]
+            ]
+        },
+        {
+            "eventName": "OnSelectedForCardRemove",
+            "mainLines": ["...Suffering..."],
+            "repeatLines": [
+                ["...Suffering..."],
+                ["Death is coming..."],
+                ["The abyss gazes into me!"]
+            ]
+        },
+        {
+            "eventName": "OnSelectedForDeckTrial",
+            "mainLines": ["Does it matter?"],
+            "repeatLines": [
+                ["Does it matter?"]
+            ]
+        }
+    ]
+  }
