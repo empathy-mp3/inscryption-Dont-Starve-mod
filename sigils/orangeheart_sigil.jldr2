@@ -3,7 +3,7 @@
     "GUID": "empathymp3.inscryption.dontstarve",
     "description": "When a card bearing this sigil perishes, a Orange Gem is created in its place.",
     "texture": "orangeheart.png",
-    "powerLevel": 0,
+    "powerLevel": 1,
     "priority": 4,
     "opponentUsable": false,
     "canStack": false,
@@ -16,7 +16,7 @@
                 {   
                     "slot": {
                         "index": "([DeathSlot.Index])",
-                        "isOpponentSlot": "false"
+                        "isOpponentSlot": "(![DeathSlot.IsPlayerSlot])"
                     },
                     "card": {
                         "retainMods": "false",

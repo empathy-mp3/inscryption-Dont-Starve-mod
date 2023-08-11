@@ -1,0 +1,28 @@
+{
+    "name": "Venom",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "description": "When a card bearing this sigil strikes another card, that card gains the Poison sigil.",
+    "texture": "venom.png",
+    "powerLevel": -1,
+    "priority": 4,
+    "opponentUsable": false,
+    "canStack": false,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnDamage"
+            },
+            "buffCards": [
+                {   
+                    "targetCard": "([VictimCard])",
+                    "addAbilities": [
+                        {
+                            "name": "empathymp3.inscryption.dontstarve.Poison",
+                            "infused": "true"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -3,7 +3,6 @@
     "modPrefix": "dontstarve",
     "displayedName": "Green Gem",
     "description": "You shouldn't be seeing this message...",
-    "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 0,

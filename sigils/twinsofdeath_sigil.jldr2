@@ -11,7 +11,7 @@
                 {   
                     "slot": {
                         "index": "([BaseCard.Slot.Index] + 1)",
-                        "isOpponentSlot": "false"
+                        "isOpponentSlot": "([BaseCard.OpponentCard])"
                     },
                     "card": {
                         "retainMods": "true",
@@ -29,7 +29,7 @@
                 {
                     "slot": {
                         "index": "([BaseCard.Slot.Index] + 1)",
-                        "isOpponentSlot": "false"
+                        "isOpponentSlot": "([BaseCard.OpponentCard])"
                     },
                     "card": {
                         "retainMods": "true",

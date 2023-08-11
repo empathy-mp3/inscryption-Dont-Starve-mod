@@ -2,6 +2,7 @@
     "name": "Gem Drop",
     "GUID": "empathymp3.inscryption.dontstarve",
     "isSpecialAbility": true,
+    "priority": 3,
     "abilityBehaviour": [
         {
             "trigger": {
@@ -11,7 +12,7 @@
                 {   
                     "slot": {
                         "index": "([DeathSlot.Index])",
-                        "isOpponentSlot": "false"
+                        "isOpponentSlot": "(![DeathSlot.IsPlayerSlot])"
                     },
                     "card": {
                         "retainMods": "true",
