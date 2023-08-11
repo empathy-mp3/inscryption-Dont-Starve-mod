@@ -1,0 +1,16 @@
+{
+    "name": "blue_hound",
+    "modPrefix": "dontstarve",
+    "displayedName": "Blue Hound",
+    "description": "The fearsome hound... ",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 2,
+    "bloodCost": 1,
+    "gemsCost": ["Blue"],
+    "abilities": ["GuardDog", "empathymp3.inscryption.dontstarve.Blue Heart"],
+    "tribes": ["Canine"],
+    "emissionTexture": "blue_hound_emission.png",
+    "texture": "blue_hound.png"
+}

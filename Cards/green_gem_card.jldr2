@@ -1,0 +1,16 @@
+{
+    "name": "green_gem",
+    "modPrefix": "dontstarve",
+    "displayedName": "Green Gem",
+    "description": "You shouldn't be seeing this message...",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "abilities": ["GainGemGreen"],
+    "traits": ["Terrain"],
+    "texture": "green_gem.png",
+    "appearanceBehaviour": ["DefaultEmission", "TerrainBackground"],
+    "emissionTexture": "green_gem_emission.png"
+  }

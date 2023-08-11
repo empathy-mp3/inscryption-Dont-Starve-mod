@@ -1,0 +1,15 @@
+{
+    "name": "piko",
+    "modPrefix": "dontstarve",
+    "displayedName": "Piko",
+    "description": "A very swift creature. it can be very annoying...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 2,
+    "bloodCost": 1,
+    "abilities": ["MoveBeside", "Reach"],
+    "emissionTexture": "piko_emission.png",
+    "texture": "piko.png",
+    "pixelTexture": "px_piko.png"
+}

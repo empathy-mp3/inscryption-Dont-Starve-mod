@@ -1,0 +1,17 @@
+{
+    "name": "red_hound",
+    "modPrefix": "dontstarve",
+    "displayedName": "Red Hound",
+    "description": "The fearsome hound... ",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 2,
+    "bloodCost": 1,
+    "gemsCost": ["Orange"],
+    "abilities": ["GuardDog", "empathymp3.inscryption.dontstarve.Orange Heart"],
+    "tribes": ["Canine"],
+    "emissionTexture": "red_hound_emission.png",
+    "texture": "red_hound.png"
+}

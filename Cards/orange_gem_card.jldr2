@@ -1,0 +1,15 @@
+{
+    "name": "orange_gem",
+    "modPrefix": "dontstarve",
+    "displayedName": "Orange Gem",
+    "description": "You shouldn't be seeing this message...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "abilities": ["GainGemOrange"],
+    "traits": ["Terrain"],
+    "texture": "orange_gem.png",
+    "appearanceBehaviour": ["DefaultEmission", "TerrainBackground"],
+    "emissionTexture": "orange_gem_emission.png"
+  }

@@ -10,35 +10,32 @@
             },
             "transformCards": [
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(0, false, 'Card.Info.name'), Trait('Terrain')))",
+                    "runOnCondition": "(HasTrait(GetSlot(0, false, 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(0, false, 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"
                     }
                 },
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(1, false, 'Card.Info.name'), Trait('Terrain')))",
+                    "runOnCondition": "(HasTrait(GetSlot(1, false, 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(1, false, 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"
                     }
                 },
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(2, false, 'Card.Info.name'), Trait('Terrain')))",
+                    "runOnCondition": "(HasTrait(GetSlot(2, false, 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(2, false, 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"
                     }
                 },
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(3, false, 'Card.Info.name'), Trait('Terrain')))",
-                    "card": {
-                        "retainMods": "true",
-                        "name": "dontstarve_lesser_treeguard"
-                    }
-                },
-                {   
-                    "runOnCondition": "(HasTrait(GetSlot(4, false, 'Card.Info.name'), Trait('Terrain')))",
+                    "runOnCondition": "(HasTrait(GetSlot(3, false, 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(3, false, 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"

@@ -1,0 +1,16 @@
+{
+    "name": "hound",
+    "modPrefix": "dontstarve",
+    "displayedName": "Hound",
+    "description": "The fearsome hound... ",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 2,
+    "bloodCost": 2,
+    "abilities": ["GuardDog"],
+    "tribes": ["Canine"],
+    "emissionTexture": "hound_emission.png",
+    "texture": "hound.png"
+}
