@@ -10,6 +10,7 @@
     "baseHealth": 1,
     "energyCost": 5,
     "abilities": ["SplitStrike"],
+    "tribes": ["Hooved"],
     "texture": "clockwork_knight.png",
     "pixelTexture": "px_clockwork_knight.png",
     "emissionTexture": "clockwork_knight_emission.png"

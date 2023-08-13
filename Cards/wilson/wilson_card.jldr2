@@ -10,5 +10,6 @@
   "baseHealth": 3,
   "energyCost": 2,
   "appearanceBehaviour": [ "RareCardBackground" ],
+  "specialAbilities": ["Sentry"],
   "pixelTexture": "px_wilson.png"
 }
