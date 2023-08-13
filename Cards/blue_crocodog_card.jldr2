@@ -1,0 +1,17 @@
+{
+    "name": "blue_crocodog",
+    "modPrefix": "dontstarve",
+    "displayedName": "Blue Crocodog",
+    "description": "",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "gemsCost": ["Blue"],
+    "abilities": ["GuardDog", "SubmergeSquid"],
+    "tribes": ["Canine", "Reptile"],
+    "emissionTexture": "crocodog_emission.png",
+    "texture": "yellow_crocodog.png"
+}

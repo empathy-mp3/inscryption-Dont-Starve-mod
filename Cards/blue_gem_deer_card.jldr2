@@ -18,7 +18,7 @@
         "CSDOption3": "dontstarve_orange_gem_deer"
       },
     "tribes": [ "Hooved" ],
-    "abilities": [ "Strafe", "GainGemBlue" ],
+    "abilities": [ "Strafe", "GainGemBlue", "ConduitNull" ],
     "appearanceBehaviour": [ "DefaultEmission" ],
     "traits": ["Gem"],
     "tailName": "Tail_Furry",

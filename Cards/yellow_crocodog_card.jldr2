@@ -1,0 +1,17 @@
+{
+    "name": "yellow_crocodog",
+    "modPrefix": "dontstarve",
+    "displayedName": "Yellow Crocodog",
+    "description": "Its yellow color warns of its deathly touch...",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "gemsCost": ["Green"],
+    "abilities": ["GuardDog", "Deathtouch"],
+    "tribes": ["Canine", "Reptile"],
+    "emissionTexture": "crocodog_emission.png",
+    "texture": "yellow_crocodog.png"
+}

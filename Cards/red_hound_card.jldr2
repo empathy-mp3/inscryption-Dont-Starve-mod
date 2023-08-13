@@ -2,7 +2,7 @@
     "name": "red_hound",
     "modPrefix": "dontstarve",
     "displayedName": "Red Hound",
-    "description": "The fearsome hound... ",
+    "description": "The power of fire resides within it...",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

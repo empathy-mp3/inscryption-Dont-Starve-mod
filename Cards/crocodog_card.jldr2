@@ -1,0 +1,17 @@
+{
+    "name": "crocodog",
+    "modPrefix": "dontstarve",
+    "displayedName": "Crocodog",
+    "description": "Through land and water, it keeps pursuing...",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 2,
+    "bloodCost": 1,
+    "bonesCost": 2,
+    "abilities": ["GuardDog", "Submerge"],
+    "tribes": ["Canine", "Reptile"],
+    "emissionTexture": "crocodog_emission.png",
+    "texture": "crocodog.png"
+}

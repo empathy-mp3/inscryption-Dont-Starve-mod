@@ -9,7 +9,7 @@
     "baseAttack": 0,
     "baseHealth": 1,
     "tribes": [ "Hooved" ],
-    "abilities": [ "Strafe", "GainGemGreen" ],
+    "abilities": [ "Strafe", "GainGemGreen", "ConduitNull" ],
     "appearanceBehaviour": [ "DefaultEmission" ],
     "traits": ["Gem"],
     "tailName": "Tail_Furry",

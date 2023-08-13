@@ -8,3 +8,4 @@
 -   Blue is utility
 -   Green is vitality, health, growth, and ramping ability
 -   Orange is combat, violence, military, and set power
+-   rebalance hounds and crocodogs because you can sacrifice the moxes you use to play mox blood cards
