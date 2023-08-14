@@ -8,7 +8,7 @@
     "baseAttack": 0,
     "baseHealth": 1,
     "abilities": ["GainGemBlue", "GainGemOrange"],
-    "traits": ["Terrain"],
+    "traits": ["Terrain", "Gem"],
     "texture": "red_gem.png",
     "appearanceBehaviour": ["DefaultEmission", "TerrainBackground"],
     "emissionTexture": "red_gem_emission.png"

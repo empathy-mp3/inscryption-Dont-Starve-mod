@@ -10,6 +10,7 @@
     "baseHealth": 3,
     "gemsCost": ["Green"],
     "abilities": [ "Strafe", "GemDependant" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
     "texture": "crawling_horror.png",
     "pixelTexture": "px_crawling_horror.png"
   }

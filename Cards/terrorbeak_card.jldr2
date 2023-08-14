@@ -10,6 +10,7 @@
     "baseHealth": 1,
     "gemsCost": ["Blue"],
     "abilities": [ "StrafePush", "GemDependant" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
     "texture": "terrorbeak.png",
     "pixelTexture": "px_terrorbeak.png"
   }

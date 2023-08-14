@@ -17,7 +17,6 @@
         "CSDOption2": "dontstarve_green_gem_deer",
         "CSDOption3": "dontstarve_orange_gem_deer"
       },
-    "tribes": [ "Hooved" ],
     "abilities": [ "Strafe", "GainGemBlue", "ConduitNull" ],
     "appearanceBehaviour": [ "DefaultEmission" ],
     "traits": ["Gem"],

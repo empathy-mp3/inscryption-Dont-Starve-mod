@@ -13,6 +13,7 @@
     "abilities": ["IceCube"],
     "iceCubeName": "dontstarve_birchnutter",
     "appearanceBehaviour": ["TerrainBackground"],
+    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "texture": "poison_birchnut_tree.png",
     "pixelTexture": "px_poison_birchnut_tree.png"
   }

@@ -8,7 +8,7 @@
     "temple": "Nature",
     "baseAttack": 1,
     "baseHealth": 1,
-    "bloodCost": 1,
+    "bloodCost": 2,
     "gemsCost": ["Green"],
     "abilities": ["GuardDog", "Deathtouch"],
     "tribes": ["Canine", "Reptile"],

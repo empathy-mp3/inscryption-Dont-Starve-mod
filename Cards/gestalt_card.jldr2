@@ -10,6 +10,7 @@
     "gemsCost": ["Orange"],
     "abilities": ["OpponentBones"],
     "appearanceBehaviour": [ "DefaultEmission" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Lunar"],
     "texture": "gestalt_a.png",
     "emissionTexture": "gestalt.png",
     "pixelTexture": "px_gestalt.png"

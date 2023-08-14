@@ -11,7 +11,7 @@
     "bloodCost": 2,
     "abilities": ["StrafePush"],
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Gem Drop"],
-    "tribes": ["Hooved"],
+    "tribes": ["Hooved", "empathymp3.inscryption.dontstarve.Shadow"],
     "appearanceBehaviour": ["RareCardBackground"],
     "texture": "ancient_guardian.png",
     "emissionTexture": "ancient_guardian_emission.png"

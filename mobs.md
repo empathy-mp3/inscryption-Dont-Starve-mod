@@ -5,7 +5,7 @@
 every "lunar aligned" enemy should be blue gem
 every "shadow aligned" enemy should be other gem?
 useful page: https://dontstarve.fandom.com/wiki/Mobs#All
-custom tribes: machine, shadow, spider, moon, plant, sea
+custom tribes: machine, shadow, spider, moon, plant, pig, monkey
 fin=finished
 
 | mob                          | tribe                | temple         | rare | fin? |
@@ -21,15 +21,15 @@ fin=finished
 | wagstaff                     | tribeless            | tech           | yes  |      |
 | wigfrid                      | tribeless            | death          | yes  |      |
 | webber                       | spider               | nature         | yes  |      |
-| walani                       | sea                  | wizard         | yes  |      |
+| walani                       | tribeless            | wizard         | yes  |      |
 | warly                        | tribeless            | wizard         | yes  |      |
-| woodlegs                     | sea                  | death          | yes  |      |
+| woodlegs                     | tribeless            | death          | yes  |      |
 | wilba                        | pig                  | nature         | yes  |      |
 | wormwood                     | plant                | nature         | yes  |      |
 | wheeler                      | tribeless            | tech           | yes  |      |
 | winona                       | tribeless            | tech           | yes  |      |
 | wortox                       | tribeless            | death          | yes  |      |
-| wurt                         | reptile, sea         | nature         | yes  |      |
+| wurt                         | reptile              | nature         | yes  |      |
 | walter                       | tribeless            | nature         | yes  |      |
 | wanda                        | tribeless            | wizard         | yes  |      |
 | spider                       | spider               | nature         | no   |      |
@@ -47,11 +47,11 @@ fin=finished
 | red hound                    | canine               | nature, wizard | no   |      |
 | blue hound                   | canine               | nature, wizard | no   |      |
 | varg                         | canine               | nature         | no   |      |
-| crocodog                     | canine, reptile, sea | nature         | no   |      |
-| red crocodog                 | canine, reptile, sea | nature, wizard | no   |      |
-| blue crocodog                | canine, sea          | nature, wizard | no   |      |
-| sea hound                    | canine, sea          | nature         | no   |      |
-| dogfish                      | canine, sea          | nature         | no   |      |
+| crocodog                     | canine, reptile      | nature         | no   |      |
+| red crocodog                 | canine, reptile      | nature, wizard | no   |      |
+| blue crocodog                | canine, reptile      | nature, wizard | no   |      |
+| sea hound                    | canine               | nature         | no   |      |
+| dogfish                      | canine               | nature         | no   |      |
 | pugalisk                     | canine, reptile      | nature         | yes  |      |
 | pog                          | canine               | nature         | no   |      |
 | vargling                     | canine               | nature         | no   |      |
@@ -115,12 +115,12 @@ fin=finished
 | glomglom                     | bug                  | nature         | no   |      |
 | worm hole                    | bug                  | nature         | no   |      |
 | rock lobster                 | tribeless            | tech           | no   |      |
-| crabbit                      | sea                  | nature         | no   |      |
-| wobster                      | sea                  | nature         | no   |      |
+| crabbit                      | tribeless            | nature         | no   |      |
+| wobster                      | tribeless            | nature         | no   |      |
 | scorpion                     | tribeless            | nature         | no   |      |
-| crab king                    | sea, moon            | nature         | yes  |      |
-| crabby hermit                | sea                  | nature         | no   |      |
-| lunar wobster                | sea, moon            | nature         | no   |      |
+| crab king                    | tribeless, moon      | nature         | yes  |      |
+| crabby hermit                | tribeless            | nature         | no   |      |
+| lunar wobster                | moon                 | nature         | no   |      |
 | ewecus                       | hooved               | nature         | no   |      |
 | beefalo                      | hooved               | nature         | no   |      |
 | teen beefalo                 | hooved               | nature         | no   |      |
@@ -136,9 +136,9 @@ fin=finished
 | mossling                     | hooved, avian        | nature         | no   |      |
 | volt goat                    | hooved               | nature, tech   | no   |      |
 | charged volt goat            | hooved               | nature, tech   | no   |      |
-| water beefalo                | hooved, sea          | nature         | no   |      |
-| baby water beefalo           | hooved, sea          | nature         | no   |      |
-| hippopotamoose               | hooved, sea          | nature         | no   |      |
+| water beefalo                | hooved               | nature         | no   |      |
+| baby water beefalo           | hooved               | nature         | no   |      |
+| hippopotamoose               | hooved               | nature         | no   |      |
 | klaus                        | hooved               | nature         | yes  |      |
 | no-eyed deer                 | hooved               | nature         | no   |      |
 | gem deer                     | hooved               | nature         | no   |      |
@@ -155,13 +155,13 @@ fin=finished
 | naked mole bat               | tribeless            | nature         | no   |      |
 | carrat                       | plant, moon          | nature         | no   |      |
 | catcoon                      | tribeless            | nature         | no   |      |
-| sharkitten                   | sea                  | nature         | no   |      |
-| tiger shark                  | sea                  | nature         | yes  |      |
+| sharkitten                   | tribeless            | nature         | no   |      |
+| tiger shark                  | tribeless            | nature         | yes  |      |
 | kittykit                     | tribeless            | nature         | no   |      |
 | crow                         | avian                | nature         | no   |      |
 | red bird                     | avian                | nature         | no   |      |
 | snowbird                     | avian                | nature         | no   |      |
-| pengull                      | avian, sea           | nature         | no   |      |
+| pengull                      | avian                | nature         | no   |      |
 | tallbird                     | avian                | nature         | no   |      |
 | teenbird                     | avian                | nature         | no   |      |
 | smallbird                    | avian                | nature         | no   |      |
@@ -169,14 +169,14 @@ fin=finished
 | buzzard                      | avian                | nature         | no   |      |
 | parrot                       | avian                | nature         | no   |      |
 | parrot pirate                | avian                | nature         | no   |      |
-| seagull                      | avian, sea           | nature         | no   |      |
+| seagull                      | avian                | nature         | no   |      |
 | toucan                       | avian                | nature         | no   |      |
-| cormorant                    | avian, sea           | nature         | no   |      |
+| cormorant                    | avian                | nature         | no   |      |
 | packim baggims               | avian                | nature         | no   |      |
 | doydoy                       | avian                | nature         | no   |      |
 | teen doydoy                  | avian                | nature         | no   |      |
 | baby doydoy                  | avian                | nature         | no   |      |
-| kingfisher                   | avian, sea           | nature         | no   |      |
+| kingfisher                   | avian                | nature         | no   |      |
 | peagawk                      | avian, plant         | nature         | no   |      |
 | thunderbird                  | avian                | nature         | no   |      |
 | ro bin                       | avian                | nature         | no   |      |
@@ -197,7 +197,7 @@ fin=finished
 | frog                         | reptile              | nature         | no   |      |
 | bigfoot                      | reptile              | nature         | no   |      |
 | dragoon                      | reptile              | nature         | no   |      |
-| fishermerm                   | reptile, sea         | nature         | no   |      |
+| fishermerm                   | reptile              | nature         | no   |      |
 | snake                        | reptile              | nature         | no   |      |
 | poison snake                 | reptile              | nature         | no   |      |
 | viper                        | reptile              | nature         | no   |      |
@@ -215,23 +215,23 @@ fin=finished
 | big tentacle                 | tribeless            | nature         | yes  |      |
 | baby tentacle                | tribeless            | nature         | no   |      |
 | shadow tentacle              | shadow               | wizard         | no   |      |
-| yaarctopus                   | sea                  | nature         | yes  |      |
-| quacken                      | sea                  | nature         | no   |      |
-| skittersquid                 | sea                  | nature         | no   |      |
+| yaarctopus                   | tribeless            | nature         | yes  |      |
+| quacken                      | tribeless            | nature         | no   |      |
+| skittersquid                 | tribeless            | nature         | no   |      |
 | mactusk                      | tribeless            | nature         | no   |      |
 | weetuck                      | tribeless            | nature         | no   |      |
-| sealnado                     | sea                  | nature         | yes  |      |
-| seal                         | sea                  | nature         | no   |      |
-| jellyfish                    | sea                  | nature         | no   |      |
-| rainbow jellyfish            | sea                  | nature         | no   |      |
-| flup                         | sea                  | nature         | no   |      |
-| bottlenose ballphin          | sea                  | nature         | no   |      |
-| blue whale                   | sea                  | nature         | no   |      |
-| white whale                  | sea                  | nature         | no   |      |
-| stink ray                    | sea                  | nature         | no   |      |
-| gnarwail                     | sea                  | nature         | no   |      |
-| rockjaw                      | sea                  | nature         | no   |      |
-| swordfish                    | sea                  | nature         | no   |      |
+| sealnado                     | tribeless            | nature         | yes  |      |
+| seal                         | tribeless            | nature         | no   |      |
+| jellyfish                    | tribeless            | nature         | no   |      |
+| rainbow jellyfish            | tribeless            | nature         | no   |      |
+| flup                         | tribeless            | nature         | no   |      |
+| bottlenose ballphin          | tribeless            | nature         | no   |      |
+| blue whale                   | tribeless            | nature         | no   |      |
+| white whale                  | tribeless            | nature         | no   |      |
+| stink ray                    | tribeless            | nature         | no   |      |
+| gnarwail                     | tribeless            | nature         | no   |      |
+| rockjaw                      | tribeless            | nature         | no   |      |
+| swordfish                    | tribeless            | nature         | no   |      |
 | friendly peeper              | tribeless            | nature         | no   |      |
 | suspicious peeper            | tribeless            | nature         | no   |      |
 | eye of terror                | tribeless            | nature         | yes  |      |
@@ -288,9 +288,9 @@ fin=finished
 | shadow watcher               | shadow               | wizard         | no   |      |
 | shadow puppet                | shadow               | wizard         | no   |      |
 | shadow skittish              | shadow               | wizard         | no   |      |
-| swimming horror              | shadow, sea          | wizard         | no   |      |
-| wavey jones                  | shadow, sea          | wizard         | no   |      |
-| terrorclaw                   | shadow, sea          | wizard         | no   |      |
+| swimming horror              | shadow               | wizard         | no   |      |
+| wavey jones                  | shadow               | wizard         | no   |      |
+| terrorclaw                   | shadow               | wizard         | no   |      |
 | parasitic shadeling          | shadow               | wizard         | no   |      |
 | shadow knight                | shadow               | wizard         | no   |      |
 | shadow bishop                | shadow               | wizard         | no   |      |
@@ -318,8 +318,8 @@ fin=finished
 | celestial champion           | moon                 | wizard         | yes  |      |
 | pipspook                     | tribeless            | death          | no   |      |
 | ghost                        | tribeless            | death          | no   |      |
-| cookie cutter                | sea                  | death          | no   |      |
-| crustashine                  | sea                  | nature         | no   |      |
+| cookie cutter                | tribeless            | death          | no   |      |
+| crustashine                  | tribeless            | nature         | no   |      |
 | extra-adorable lavae         | tribeless            | nature         | no   |      |
 
 | terrain                       | tribe     | temple | rare |

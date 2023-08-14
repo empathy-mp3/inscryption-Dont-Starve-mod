@@ -1,0 +1,25 @@
+{
+  "tribes": [
+    {
+      "name": "Shadow",
+      "guid": "empathymp3.inscryption.dontstarve",
+      "tribeIcon": "shadow_icon.png",
+      "appearInTribeChoices": true,
+      "choiceCardBackTexture": "shadow_card_back.png"
+    },
+    {
+      "name": "Lunar",
+      "guid": "empathymp3.inscryption.dontstarve",
+      "tribeIcon": "lunar_icon.png",
+      "appearInTribeChoices": true,
+      "choiceCardBackTexture": "lunar_card_back.png"
+    },
+    {
+      "name": "Plant",
+      "guid": "empathymp3.inscryption.dontstarve",
+      "tribeIcon": "plant_icon.png",
+      "appearInTribeChoices": true,
+      "choiceCardBackTexture": "plant_card_back.png"
+    }
+  ]
+}

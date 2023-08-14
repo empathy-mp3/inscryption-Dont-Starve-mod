@@ -1,4 +1,4 @@
-#notes
+# notes
 
 -   treeguard is broken again for some reason when i changed nothing (on opponent and player side of board)
 -   add good sigil to wilson

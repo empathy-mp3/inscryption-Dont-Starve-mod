@@ -12,6 +12,7 @@
     "abilities": ["Reach", "DoubleStrike"],
     "iceCubeName": "dontstarve_birchnutter",
     "appearanceBehaviour": ["TerrainBackground"],
+    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "texture": "treeguard.png",
     "pixelTexture": "px_treeguard.png"
   }

@@ -11,6 +11,7 @@
     "bonesCost": 2,
     "traits": ["Terrain"],
     "appearanceBehaviour": ["TerrainBackground"],
+    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "texture": "birchnutter.png",
     "pixelTexture": "px_birchnutter.png"
   }
