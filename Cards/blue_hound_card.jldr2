@@ -3,6 +3,7 @@
     "modPrefix": "dontstarve",
     "displayedName": "Blue Hound",
     "description": "The blue hound's gem is powerful...",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,

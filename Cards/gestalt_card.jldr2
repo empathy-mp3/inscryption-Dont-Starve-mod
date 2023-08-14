@@ -3,6 +3,7 @@
     "modPrefix": "dontstarve",
     "displayedName": "Gestalt",
     "description": "An envoy of the moon. Its powers are strange...",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,

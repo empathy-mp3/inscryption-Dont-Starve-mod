@@ -4,6 +4,7 @@
     "displayedName": "pipspook",
     "description": "Having returned from the grave, it understands death...",
     "cardComplexity": "Simple",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
     "temple": "Nature",
     "baseAttack": 0,
     "baseHealth": 2,
