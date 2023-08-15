@@ -6,12 +6,13 @@
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
-    "baseAttack": 0,
     "baseHealth": 1,
-    "bloodCost": 1,
+    "bloodCost": 2,
     "gemsCost": ["Blue"],
-    "abilities": ["GuardDog", "SubmergeSquid"],
+    "specialStatIcon": "CardsInHand",
     "tribes": ["Canine", "Reptile"],
+    "abilities": ["Submerge"],
+    "specialAbilities": ["CardsInHand"],
     "emissionTexture": "crocodog_emission.png",
     "texture": "yellow_crocodog.png"
 }

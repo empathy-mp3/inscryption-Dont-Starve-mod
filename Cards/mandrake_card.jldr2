@@ -1,0 +1,16 @@
+{
+    "name": "mandrake",
+    "modPrefix": "dontstarve",
+    "displayedName": "Mandrake",
+    "description": "This annoying thing won't stop following you arround.",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 6,
+    "bloodCost": 1,
+    "gemsCost": ["Green"],
+    "abilities": [ "BuffEnemy", "WhackAMole" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
+    "texture": "mandrake.png",
+    "emissionTexture": "mandrake_emission.png"
+  }

@@ -7,7 +7,7 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
-    "baseHealth": 1,
+    "baseHealth": 3,
     "bloodCost": 2,
     "gemsCost": ["Green"],
     "abilities": ["GuardDog", "Deathtouch"],

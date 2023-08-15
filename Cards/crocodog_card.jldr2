@@ -10,7 +10,7 @@
     "baseHealth": 2,
     "bloodCost": 1,
     "bonesCost": 2,
-    "abilities": ["GuardDog", "Submerge"],
+    "abilities": ["Submerge"],
     "tribes": ["Canine", "Reptile"],
     "emissionTexture": "crocodog_emission.png",
     "texture": "crocodog.png"

@@ -1,0 +1,17 @@
+{
+    "name": "mandrake_sleeping",
+    "modPrefix": "dontstarve",
+    "displayedName": "Unassuming Plant",
+    "description": "It looks perfectly normal...",
+    "metaCategories": ["TraderOffer", "ChoiceNode"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "gemsCost": ["Green"],
+    "abilities": ["IceCube"],
+    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
+    "iceCubeName": "dontstarve_mandrake",
+    "texture": "mandrake_sleeping.png"
+  }
