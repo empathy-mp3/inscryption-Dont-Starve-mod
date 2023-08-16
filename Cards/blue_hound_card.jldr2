@@ -2,7 +2,7 @@
     "name": "blue_hound",
     "modPrefix": "dontstarve",
     "displayedName": "Blue Hound",
-    "description": "The blue hound's gem is powerful...",
+    "description": "The Blue Hound. The power of its gem can be bizzare properties.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

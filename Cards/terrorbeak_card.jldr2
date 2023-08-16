@@ -2,7 +2,7 @@
     "name": "terrorbeak",
     "modPrefix": "dontstarve",
     "displayedName": "Terrorbeak",
-    "description": "A terrifying visage. A mere sight of it will drive you to insanity...",
+    "description": "A terrifying visage. A mere sight of it will drive you to insanity.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

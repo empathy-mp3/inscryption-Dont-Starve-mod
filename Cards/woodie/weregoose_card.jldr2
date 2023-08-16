@@ -2,7 +2,7 @@
     "name": "weregoose",
     "modPrefix": "dontstarve",
     "displayedName": "Woodie",
-    "description": "A survivor. He loves the forest so much it's driven him insane...",
+    "description": "A survivor. He loves the forest so much it's driven him insane.",
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 2,

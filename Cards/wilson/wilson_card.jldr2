@@ -2,7 +2,7 @@
   "name": "wilson",
   "modPrefix": "dontstarve",
   "displayedName": "Wilson",
-  "description": "A survivor. Do with him what you will...",
+  "description": "A survivor. Do with him what you will.",
   "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",

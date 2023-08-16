@@ -2,7 +2,7 @@
     "name": "rabbit",
     "modPrefix": "dontstarve",
     "displayedName": "Rabbit",
-    "description": "Its life will certainly be one of hardship...",
+    "description": "The stray rabbit. Death comes quite easily to its kind.",
     "metaCategories": [ "TraderOffer", "ChoiceNode" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

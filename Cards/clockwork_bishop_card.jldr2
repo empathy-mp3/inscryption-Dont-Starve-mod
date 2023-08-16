@@ -2,7 +2,7 @@
     "name": "clockwork_bishop",
     "modPrefix": "dontstarve",
     "displayedName": "Clockwork Bishop",
-    "description": "The bishop... it can strike you from where you cannot see...",
+    "description": "The bishop. It can strike foes from where they cannot see.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

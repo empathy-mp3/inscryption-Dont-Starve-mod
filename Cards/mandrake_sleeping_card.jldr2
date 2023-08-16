@@ -2,7 +2,7 @@
     "name": "mandrake_sleeping",
     "modPrefix": "dontstarve",
     "displayedName": "Unassuming Plant",
-    "description": "It looks perfectly normal...",
+    "description": "A plant. It looks perfectly normal.",
     "metaCategories": ["TraderOffer", "ChoiceNode"],
     "cardComplexity": "Simple",
     "temple": "Nature",

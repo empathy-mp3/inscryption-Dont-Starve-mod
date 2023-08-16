@@ -2,7 +2,7 @@
     "name": "red_hound",
     "modPrefix": "dontstarve",
     "displayedName": "Red Hound",
-    "description": "The power of fire resides within it...",
+    "description": "The red hound. Its gem holds the power of fire.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

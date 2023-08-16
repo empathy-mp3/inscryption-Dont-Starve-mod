@@ -2,7 +2,7 @@
     "name": "clockwork_knight",
     "modPrefix": "dontstarve",
     "displayedName": "Clockwork Knight",
-    "description": "The knight... it strikes where other cards cannot reach...",
+    "description": "The knight. It strikes where others cannot reach.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

@@ -2,7 +2,7 @@
     "name": "hound",
     "modPrefix": "dontstarve",
     "displayedName": "Hound",
-    "description": "The fearsome hound... ever vigilant on your trail",
+    "description": "The fearsome hound, ever vigilant on its mark.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

@@ -2,7 +2,7 @@
   "name": "orange_gem_deer",
   "modPrefix": "dontstarve",
   "displayedName": "Orange Gem Deer",
-  "description": "A hasty deer. Its orange gem is valuable...",
+  "description": "A hasty deer. Its orange gem is valuable.",
   "metaCategories": [ "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",

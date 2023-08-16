@@ -2,7 +2,7 @@
     "name": "clockwork_rook",
     "modPrefix": "dontstarve",
     "displayedName": "Clockwork Rook",
-    "description": "The rook... it strikes where other cards cannot reach...",
+    "description": "The rook. This complete powerhouse finds difficulty slowing down.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

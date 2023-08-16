@@ -2,7 +2,7 @@
     "name": "lesser_treeguard",
     "modPrefix": "dontstarve",
     "displayedName": "Treeguard",
-    "description": "The trees are angered... their fury is not to be underestimated",
+    "description": "The trees are angered, and their fury is not to be underestimated.",
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,

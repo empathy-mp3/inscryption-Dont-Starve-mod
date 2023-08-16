@@ -1,8 +1,8 @@
 {
     "name": "pipspook",
     "modPrefix": "dontstarve",
-    "displayedName": "pipspook",
-    "description": "Having returned from the grave, it understands death...",
+    "displayedName": "Pipspook",
+    "description": "The quiet Pipspook. Having returned from the grave, it understands death.",
     "cardComplexity": "Simple",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "temple": "Nature",

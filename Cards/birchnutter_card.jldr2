@@ -2,7 +2,7 @@
     "name": "birchnutter",
     "modPrefix": "dontstarve",
     "displayedName": "Birchnutter",
-    "description": "A tiny servant of the forest.",
+    "description": "A loyal Birchnutter. A tiny servant of the forest.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

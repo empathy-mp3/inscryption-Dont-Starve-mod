@@ -2,7 +2,7 @@
     "name": "ancient_guardian",
     "modPrefix": "dontstarve",
     "displayedName": "Ancient Guardian",
-    "description": "A gargantuan beast. It's brimming with valuables...",
+    "description": "A gargantuan beast. It is brimming with valuables.",
     "metaCategories": [ "Rare" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

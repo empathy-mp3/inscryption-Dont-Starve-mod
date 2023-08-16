@@ -2,7 +2,7 @@
     "name": "blue_gem",
     "modPrefix": "dontstarve",
     "displayedName": "Blue Gem",
-    "description": "You shouldn't be seeing this message...",
+    "description": "You shouldn't be seeing this message.",
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 0,

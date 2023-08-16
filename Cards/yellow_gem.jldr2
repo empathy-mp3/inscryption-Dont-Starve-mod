@@ -2,7 +2,7 @@
     "name": "yellow_gem",
     "modPrefix": "dontstarve",
     "displayedName": "Yellow Gem",
-    "description": "You shouldn't be seeing this message...",
+    "description": "You shouldn't be seeing this message.",
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 0,
