@@ -1,0 +1,17 @@
+{
+    "name": "wortox",
+    "modPrefix": "dontstarve",
+    "displayedName": "Wortox",
+    "description": "A survivor. He's halfway to demonhood.",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 5,
+    "bonesCost": 5,
+    "abilities": ["GainAttackOnKill"],
+    "specialAbilities": ["UnendingBloodLust"],
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "texture": "wortox.png",
+    "pixelTexture": "px_wortox.png"
+  }
