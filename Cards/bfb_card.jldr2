@@ -8,10 +8,10 @@
     "temple": "Nature",
     "baseAttack": 2,
     "baseHealth": 9,
-    "bloodCost": 2,
-    "bonesCost": 4,
+    "bloodCost": 3,
+    "bonesCost": 3,
     "abilities": ["AllStrike"],
-    "appearanceBehaviour": ["RareCardBackground", "DefaultEmission"],
+    "appearanceBehaviour": ["RareCardBackground"],
     "texture": "BFB.png",
     "emissionTexture": "BFB_emission.png"
   }
