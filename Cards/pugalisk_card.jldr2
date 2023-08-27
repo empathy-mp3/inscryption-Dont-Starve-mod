@@ -1,0 +1,17 @@
+{
+    "name": "pugalisk",
+    "modPrefix": "dontstarve",
+    "displayedName": "Pugalisk",
+    "description": "Fear for how it digs up and down...",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 8,
+    "bloodCost": 2,
+    "abilities": ["WhackAMole"],
+    "appearanceBehaviour": ["RareCardBackground"],
+    "tribes": ["Reptile", "Canine"],
+    "texture": "pugalisk.png",
+    "emissionTexture": "pugalisk_emission.png"
+  }

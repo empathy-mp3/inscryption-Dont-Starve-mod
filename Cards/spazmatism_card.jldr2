@@ -1,0 +1,17 @@
+{
+    "name": "spazmatism",
+    "modPrefix": "dontstarve",
+    "displayedName": "Spazmatism",
+    "description": "Beware of its accurate laser.",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 6,
+    "energyCost": 4,
+    "gemsCost": ["Green"],
+    "abilities": ["Sniper"],
+    "appearanceBehaviour": ["RareCardBackground", "DefaultEmission"],
+    "texture": "spazmatism.png",
+    "emissionTexture": "spazmatism_emission.png"
+  }

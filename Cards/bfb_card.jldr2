@@ -1,0 +1,17 @@
+{
+    "name": "bfb",
+    "modPrefix": "dontstarve",
+    "displayedName": "BFB",
+    "description": "An enormous goliath. You can barely see its head...",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 9,
+    "bloodCost": 2,
+    "bonesCost": 4,
+    "abilities": ["AllStrike"],
+    "appearanceBehaviour": ["RareCardBackground", "DefaultEmission"],
+    "texture": "BFB.png",
+    "emissionTexture": "BFB_emission.png"
+  }

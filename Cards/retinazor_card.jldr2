@@ -1,0 +1,17 @@
+{
+    "name": "retinazor",
+    "modPrefix": "dontstarve",
+    "displayedName": "Retinazor",
+    "description": "Beware of its cursed flames.",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 3,
+    "baseHealth": 6,
+    "energyCost": 4,
+    "gemsCost": ["Orange"],
+    "abilities": ["Strafe"],
+    "appearanceBehaviour": ["RareCardBackground", "DefaultEmission"],
+    "texture": "retinazor.png",
+    "emissionTexture": "retinazor_emission.png"
+  }
