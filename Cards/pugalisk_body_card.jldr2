@@ -1,0 +1,13 @@
+{
+    "name": "pugalisk_body",
+    "modPrefix": "dontstarve",
+    "displayedName": "Pugalisk Body",
+    "description": "How it keeps twisting and turning...",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "appearanceBehaviour": ["RareCardBackground"],
+    "tribes": ["Reptile", "Canine"],
+    "texture": "pugalisk_body.png"
+  }

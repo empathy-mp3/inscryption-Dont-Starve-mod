@@ -1,0 +1,25 @@
+{
+    "name": "Life Serpent",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnMove"
+            },
+            "placeCards": [
+                {   
+                    "slot": {
+                        "index": "([OldSlot.Index])",
+                        "isOpponentSlot": "(![OldSlot.IsPlayerSlot])"
+                    },
+                    "card": {
+                        "retainMods": "true",
+                        "name": "dontstarve_pugalisk_body"
+                    },
+                    "replace": "true"
+                }
+            ]
+        }
+    ]
+}

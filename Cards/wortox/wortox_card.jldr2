@@ -7,11 +7,10 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
-    "baseHealth": 5,
-    "bonesCost": 5,
+    "baseHealth": 3,
+    "bonesCost": 4,
     "abilities": ["GainAttackOnKill"],
-    "specialAbilities": ["UnendingBloodLust"],
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Soul Hop"],
     "appearanceBehaviour": [ "RareCardBackground" ],
-    "texture": "wortox.png",
-    "pixelTexture": "px_wortox.png"
+    "texture": "wortox.png"
   }

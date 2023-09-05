@@ -9,6 +9,6 @@
     "baseAttack": 1,
     "baseHealth": 1,
     "energyCost": 3,
-    "appearanceBehaviour": [ "RareCardBackground" ],
-    "pixelTexture": "px_wx_78.png"
+    "abilities": ["CellTriStrike"],
+    "appearanceBehaviour": [ "RareCardBackground" ]
   }

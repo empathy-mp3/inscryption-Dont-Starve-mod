@@ -5,8 +5,8 @@
     "description": "The ghost that follows her sister. Their bond is very close.",
     "cardComplexity": "Simple",
     "temple": "Nature",
-    "baseAttack": 2,
+    "baseAttack": 1,
     "baseHealth": 1,
-    "bonesCost": 3,
+    "bonesCost": 4,
     "appearanceBehaviour": [ "RareCardBackground" ]
   }

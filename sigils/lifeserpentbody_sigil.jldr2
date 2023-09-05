@@ -1,0 +1,22 @@
+{
+    "name": "Life Serpent Body",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnStartOfTurn"
+            },
+            "damageSlots": [
+                {   
+                    "runOnCondition": "(![dontstarve_pugalisk.OnBoard])",
+                    "slot": {
+                        "index": "([BaseCard.Slot.Index])",
+                        "isOpponentSlot": "(![BaseCard.Slot.IsPlayerSlot])"
+                    },
+                    "damage": "99"
+                }
+            ]
+        }
+    ]
+}

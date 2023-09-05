@@ -7,7 +7,7 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 2,
-    "baseHealth": 9,
+    "baseHealth": 4,
     "bloodCost": 3,
     "bonesCost": 3,
     "abilities": ["AllStrike"],

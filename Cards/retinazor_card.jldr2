@@ -2,7 +2,7 @@
     "name": "retinazor",
     "modPrefix": "dontstarve",
     "displayedName": "Retinazor",
-    "description": "Beware of its cursed flames.",
+    "description": "Beware of its hefty charges.",
     "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",
@@ -11,6 +11,7 @@
     "energyCost": 4,
     "gemsCost": ["Orange"],
     "abilities": ["Strafe"],
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Red Twin"],
     "appearanceBehaviour": ["RareCardBackground", "DefaultEmission"],
     "texture": "retinazor.png",
     "emissionTexture": "retinazor_emission.png"
