@@ -11,6 +11,6 @@
     "abilities": [ "StrafePush" ],
     "appearanceBehaviour": [ "RareCardBackground" ],
     "tribes": ["Hooved"],
-    "emissionTexture": "weremoose_emission.png",
+    "emissionTexture": "weremoose_e.png",
     "texture": "weremoose.png"
 }

@@ -10,6 +10,6 @@
     "bloodCost": 1,
     "abilities": [ "DoubleStrike" ],
     "appearanceBehaviour": [ "RareCardBackground" ],
-    "emissionTexture": "werebeaver_emission.png",
+    "emissionTexture": "werebeaver_e.png",
     "texture": "werebeaver.png"
 }

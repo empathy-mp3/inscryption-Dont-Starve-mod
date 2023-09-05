@@ -10,8 +10,8 @@
       "closed": "_"
     },
     "emissionSprites": {
-      "open": "werebeaver_eyes_emission.png",
-      "closed": "werebeaver_emission.png"
+      "open": "werebeaver_eyes_e.png",
+      "closed": "werebeaver_e.png"
     },
     "faceInfo": {
       "voiceId": "female1_voice",

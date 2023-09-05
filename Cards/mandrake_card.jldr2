@@ -12,5 +12,5 @@
     "abilities": [ "BuffEnemy", "WhackAMole" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "texture": "mandrake.png",
-    "emissionTexture": "mandrake_emission.png"
+    "emissionTexture": "mandrake_e.png"
   }

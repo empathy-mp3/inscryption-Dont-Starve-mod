@@ -10,5 +10,5 @@
     "baseHealth": 1,
     "evolveIntoName": "dontstarve_teen_doydoy",
     "texture": "rabbit.png",
-    "emissionTexture": "rabbit_emission.png"
+    "emissionTexture": "rabbit_e.png"
   }

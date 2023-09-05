@@ -21,7 +21,7 @@
     "appearanceBehaviour": [ "DefaultEmission" ],
     "traits": ["Gem"],
     "tailName": "Tail_Furry",
-    "emissionTexture": "blue_gem_deer_emission.png",
+    "emissionTexture": "blue_gem_deer_e.png",
     "texture": "blue_gem_deer.png",
     "pixelTexture": "px_blue_gem_deer.png"
   }

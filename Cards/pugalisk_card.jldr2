@@ -14,5 +14,5 @@
     "appearanceBehaviour": ["RareCardBackground"],
     "tribes": ["Reptile", "Canine"],
     "texture": "pugalisk.png",
-    "emissionTexture": "pugalisk_emission.png"
+    "emissionTexture": "pugalisk_e.png"
   }

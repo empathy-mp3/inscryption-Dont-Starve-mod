@@ -10,7 +10,7 @@
       "closed": "wendy_mouth_closed.png"
     },
     "emissionSprites": {
-      "open": "wendy_emission.png",
+      "open": "wendy_e.png",
       "closed": "_"
     },
     "faceInfo": {

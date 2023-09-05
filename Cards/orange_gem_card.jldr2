@@ -11,5 +11,5 @@
     "traits": ["Terrain", "Gem"],
     "texture": "orange_gem.png",
     "appearanceBehaviour": ["DefaultEmission", "TerrainBackground"],
-    "emissionTexture": "orange_gem_emission.png"
+    "emissionTexture": "orange_gem_e.png"
   }

@@ -12,6 +12,6 @@
     "gemsCost": ["Orange"],
     "abilities": ["GuardDog", "DropRubyOnDeath"],
     "tribes": ["Canine"],
-    "emissionTexture": "red_hound_emission.png",
+    "emissionTexture": "red_hound_e.png",
     "texture": "red_hound.png"
 }

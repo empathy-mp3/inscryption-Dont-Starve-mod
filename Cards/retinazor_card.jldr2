@@ -14,5 +14,5 @@
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Red Twin"],
     "appearanceBehaviour": ["RareCardBackground", "DefaultEmission"],
     "texture": "retinazor.png",
-    "emissionTexture": "retinazor_emission.png"
+    "emissionTexture": "retinazor_e.png"
   }

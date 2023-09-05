@@ -11,5 +11,5 @@
     "traits": ["Terrain", "Gem"],
     "texture": "red_gem.png",
     "appearanceBehaviour": ["DefaultEmission", "TerrainBackground"],
-    "emissionTexture": "red_gem_emission.png"
+    "emissionTexture": "red_gem_e.png"
   }

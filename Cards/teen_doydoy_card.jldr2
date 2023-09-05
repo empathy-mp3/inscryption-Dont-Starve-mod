@@ -14,5 +14,5 @@
     "evolveIntoName": "dontstarve_doydoy",
     "texture": "teen_doydoy.png",
     "pixelTexture": "px_teen_doydoy.png",
-    "emissionTexture": "teen_doydoy_emission.png"
+    "emissionTexture": "teen_doydoy_e.png"
   }

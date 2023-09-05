@@ -12,5 +12,5 @@
     "abilities": ["Sniper"],
     "texture": "clockwork_bishop.png",
     "pixelTexture": "px_clockwork_bishop.png",
-    "emissionTexture": "clockwork_bishop_emission.png"
+    "emissionTexture": "clockwork_bishop_e.png"
   }

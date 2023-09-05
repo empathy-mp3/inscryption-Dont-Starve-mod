@@ -10,7 +10,7 @@
     "baseHealth": 2,
     "bonesCost": 1,
     "abilities": ["BoneDigger"],
-    "emissionTexture": "pipspook_emission.png",
+    "emissionTexture": "pipspook_e.png",
     "texture": "pipspook.png",
     "pixelTexture": "px_pipspook.png"
 }

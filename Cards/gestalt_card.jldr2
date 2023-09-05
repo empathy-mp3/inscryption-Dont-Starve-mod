@@ -13,6 +13,6 @@
     "appearanceBehaviour": [ "DefaultEmission" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Lunar"],
     "texture": "gestalt.png",
-    "emissionTexture": "gestalt_emission.png",
+    "emissionTexture": "gestalt_e.png",
     "pixelTexture": "px_gestalt.png"
   }

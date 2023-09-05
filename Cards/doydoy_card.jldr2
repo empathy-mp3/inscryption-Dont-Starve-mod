@@ -12,5 +12,5 @@
     "abilities": ["Brittle"],
     "texture": "doydoy.png",
     "pixelTexture": "px_doydoy.png",
-    "emissionTexture": "doydoy_emission.png"
+    "emissionTexture": "doydoy_e.png"
   }

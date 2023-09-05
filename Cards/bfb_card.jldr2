@@ -13,5 +13,5 @@
     "abilities": ["AllStrike"],
     "appearanceBehaviour": ["RareCardBackground"],
     "texture": "BFB.png",
-    "emissionTexture": "BFB_emission.png"
+    "emissionTexture": "BFB_e.png"
   }

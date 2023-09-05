@@ -10,8 +10,8 @@
       "closed": "_"
     },
     "emissionSprites": {
-      "open": "abigail_emission.png",
-      "closed": "abigail_emission.png"
+      "open": "abigail_e.png",
+      "closed": "abigail_e.png"
     },
     "faceInfo": {
       "voiceId": "female1_voice",

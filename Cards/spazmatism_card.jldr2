@@ -14,5 +14,5 @@
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Green Twin"],
     "appearanceBehaviour": ["RareCardBackground", "DefaultEmission"],
     "texture": "spazmatism.png",
-    "emissionTexture": "spazmatism_emission.png"
+    "emissionTexture": "spazmatism_e.png"
   }

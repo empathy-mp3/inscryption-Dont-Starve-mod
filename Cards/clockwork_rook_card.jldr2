@@ -13,5 +13,5 @@
     "tribes": ["Hooved"],
     "texture": "clockwork_rook.png",
     "pixelTexture": "px_clockwork_rook.png",
-    "emissionTexture": "clockwork_rook_emission.png"
+    "emissionTexture": "clockwork_rook_e.png"
   }

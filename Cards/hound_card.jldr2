@@ -11,6 +11,6 @@
     "bloodCost": 2,
     "abilities": ["GuardDog"],
     "tribes": ["Canine"],
-    "emissionTexture": "hound_emission.png",
+    "emissionTexture": "hound_e.png",
     "texture": "hound.png"
 }

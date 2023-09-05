@@ -13,6 +13,6 @@
     "tribes": ["Canine", "Reptile"],
     "abilities": ["Submerge"],
     "specialAbilities": ["CardsInHand"],
-    "emissionTexture": "crocodog_emission.png",
+    "emissionTexture": "crocodog_e.png",
     "texture": "yellow_crocodog.png"
 }

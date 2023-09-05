@@ -12,6 +12,6 @@
     "gemsCost": ["Blue"],
     "abilities": ["GuardDog", "GemsDraw"],
     "tribes": ["Canine"],
-    "emissionTexture": "blue_hound_emission.png",
+    "emissionTexture": "blue_hound_e.png",
     "texture": "blue_hound.png"
 }

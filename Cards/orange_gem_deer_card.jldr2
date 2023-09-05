@@ -12,7 +12,7 @@
   "appearanceBehaviour": [ "DefaultEmission" ],
   "traits": ["Gem"],
   "tailName": "Tail_Furry",
-  "emissionTexture": "orange_gem_deer_emission.png",
+  "emissionTexture": "orange_gem_deer_e.png",
   "texture": "orange_gem_deer.png",
   "pixelTexture": "px_orange_gem_deer.png"
 }

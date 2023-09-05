@@ -10,5 +10,5 @@
     "traits": ["Terrain"],
     "texture": "torch.png",
     "appearanceBehaviour": ["DefaultEmission", "TerrainBackground"],
-    "emissionTexture": "torch_emission.png"
+    "emissionTexture": "torch_e.png"
 }

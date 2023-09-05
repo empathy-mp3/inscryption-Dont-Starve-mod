@@ -12,6 +12,6 @@
     "gemsCost": ["Green"],
     "abilities": ["GuardDog", "Deathtouch"],
     "tribes": ["Canine", "Reptile"],
-    "emissionTexture": "crocodog_emission.png",
+    "emissionTexture": "crocodog_e.png",
     "texture": "yellow_crocodog.png"
 }
