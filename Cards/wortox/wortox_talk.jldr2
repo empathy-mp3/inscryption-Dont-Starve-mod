@@ -1,0 +1,85 @@
+{
+    "cardName": "dontstarve_wortox",
+    "faceSprite": "wortox_face.png",
+    "eyeSprites": {
+      "open": "wortox_eyes.png",
+      "closed": "wortox_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "wortox_mouth_open.png",
+      "closed": "wortox_mouth_closed.png"
+    },
+    "emissionSprites": {
+      "open": "wortox_eyes_e.png",
+      "closed": "_"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 3,
+      "voiceSoundPitch": 1.1
+    },
+    "emotions": [
+        {
+          "emotion": "Anger",
+          "eyeSprites": {
+            "open": "wortox_eyes.png",
+            "closed": "wortox_eyes_closed.png"
+          }
+        }
+    ],
+    "dialogueEvents": [
+        {
+            "eventName": "OnDrawn",
+            "mainLines": [
+                "Play me how you please."   
+            ],
+            "repeatLines": [
+                ["Play me how you please."],
+                ["You look like fun."],
+                ["Time to come out and play!"],
+                ["Never fear, the imp is here!"]
+            ]
+        },
+        {
+            "eventName": "OnPlayFromHand",
+            "mainLines": [
+                "Let's have some fun!"
+            ],
+            "repeatLines": [
+                ["Let's have some fun!"],
+                ["Hyuyu![w:0.2] Dance with me!"],
+                ["Let's play,[w:0.2] Let's play!"]
+            ]
+        },
+        {
+            "eventName": "OnAttacked",
+            "mainLines": ["Oh dear[w:0.2], oh dear."],
+            "repeatLines": [
+                ["Oh dear[w:0.2], oh dear."],
+                ["My soul hangs by a thread."],
+                ["Ouch![w:0.2] Hyuyu!"]
+            ]
+        },
+        {
+            "eventName": "OnBecomeSelectableNegative",
+            "mainLines": ["I can't[w:0.2], I won't[w:0.2], I shan't."],
+            "repeatLines": [
+                ["I can't[w:0.2], I won't[w:0.2], I shan't."],
+                [
+                    "I do not think so,[w:0.3]",
+                    "no[w:0.2], no[w:0.2], no!"
+                ],
+                ["Not here[w:0.2], my dear."]
+            ]
+        },
+        {
+            "eventName": "OnSacrificed",
+            "mainLines": ["Hyuyu, fare thee well!"],
+            "repeatLines": [
+                ["Hyuyu[w:0.2], fare thee well!"],
+                ["Stop[w:0.2], abort!"],
+                ["Goodbye[w:0.2], sweet soul."]
+            ]
+        }
+    ]
+  }
