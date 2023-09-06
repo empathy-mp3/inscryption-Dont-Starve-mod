@@ -30,10 +30,60 @@
     "dialogueEvents": [
         {
             "eventName": "OnDrawn",
-            "mainLines": [""],
+            "mainLines": ["GREETINGS[w:0.2], FLESH BEING"],
             "repeatLines": [
-                [""]
+                ["GREETINGS[w:0.2], FLESH BEING"],
+                ["DETECTING LIFEFORMS"]
             ]
+        },
+        {
+          "eventName": "OnPlayFromHand",
+          "mainLines": ["COMMENCING VIOLENCE"],
+          "repeatLines": [
+            ["COMMENCING VIOLENCE"],
+            ["COMBAT ENGAGED"],
+            ["EXTERMINATE"],
+            ["HELLO WORLD"]
+          ]
+        },
+        {
+          "eventName": "OnAttacked",
+          "mainLines": ["DAMAGE DETECTED"],
+          "repeatLines": [
+            ["DAMAGE DETECTED"],
+            ["DANGER"],
+            ["YOU WILL BE TERMINATED"],
+            ["HELP"],
+            ["WARNING[w:0.2]: CHASSIS DAMAGE"]
+          ]
+        },
+        {
+          "eventName": "OnBecomeSelectableNegative",
+          "mainLines": ["THIS DOESN'T MEAN YOU'RE SUPERIOR"],
+          "repeatLines": [
+            ["THIS DOESN'T MEAN YOU'RE SUPERIOR"],
+            ["WARNING[w:0.2]: DANGER"],
+            ["ERROR[w:0.2]: DON'T WANT TO"]
+          ]
+        },
+        {
+          "eventName": "OnBecomeSelectablePositive",
+          "mainLines": ["YOU MAY EMPOWER ME[w:0.2], INFERIOR"],
+          "repeatLines": [
+            ["YOU MAY EMPOWER ME[w:0.2], INFERIOR"],
+            ["INSUFFICIENT POWER"],
+            ["PRIORITY: HIGH"]
+          ]
+        },
+        {
+          "eventName": "OnSacrificed",
+          "mainLines": ["ANOMALY DETECTED"],
+          "repeatLines": [
+            ["ANOMALY DETECTED"],
+            ["ERROR: NULL VALUE"],
+            ["NO"],
+            ["SUCH SENSELESS VIOLENCE"]
+          ]
         }
     ]
   }

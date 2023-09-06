@@ -5,7 +5,7 @@
 every "lunar aligned" enemy should be blue gem
 every "shadow aligned" enemy should be other gem?
 useful page: https://dontstarve.fandom.com/wiki/Mobs#All
-custom tribes: machine, shadow, spider, moon, plant, pig, monkey
+custom tribes: shadow, moon, plant
 fin=finished
 
 | mob                          | tribe                | temple         | rare | fin? |
@@ -13,46 +13,47 @@ fin=finished
 | wilson                       | tribeless            | tech           | yes  | fin  |
 | willow                       | tribeless            | death          | yes  |      |
 | wolfgang                     | tribeless            | nature         | yes  |      |
-| wendy                        | tribeless            | death          | yes  |      |
-| wx-78                        | machine              | tech           | yes  |      |
+| wendy                        | tribeless            | death          | yes  | fin  |
+| wx-78                        | tribeless            | tech           | yes  |      |
 | wickerbottom                 | tribeless            | wizard         | yes  |      |
 | woodie                       | tribeless            | nature         | yes  | fin  |
 | maxwell                      | shadow               | wizard         | yes  |      |
 | wagstaff                     | tribeless            | tech           | yes  |      |
 | wigfrid                      | tribeless            | death          | yes  |      |
-| webber                       | spider               | nature         | yes  |      |
+| webber                       | bug                  | nature         | yes  |      |
 | walani                       | tribeless            | wizard         | yes  |      |
 | warly                        | tribeless            | wizard         | yes  |      |
+| wilbur                       | tribeless            | nature         | yes  |      |
 | woodlegs                     | tribeless            | death          | yes  |      |
-| wilba                        | pig                  | nature         | yes  |      |
+| wilba                        | tribeless            | nature         | yes  |      |
 | wormwood                     | plant                | nature         | yes  |      |
 | wheeler                      | tribeless            | tech           | yes  |      |
 | winona                       | tribeless            | tech           | yes  |      |
-| wortox                       | tribeless            | death          | yes  |      |
+| wortox                       | tribeless            | death          | yes  | fin  |
 | wurt                         | reptile              | nature         | yes  |      |
 | walter                       | tribeless            | nature         | yes  |      |
 | wanda                        | tribeless            | wizard         | yes  |      |
-| spider                       | spider               | nature         | no   |      |
-| spider warrior               | spider               | nature         | no   |      |
-| dangling depth dweller       | spider               | nature         | no   |      |
-| cave spider                  | spider               | nature         | no   |      |
-| spitter                      | spider               | nature         | no   |      |
-| spider queen                 | spider               | nature         | yes  |      |
-| poison spider warrior        | spider               | nature         | no   |      |
-| spider monkey                | spider, monkey       | nature         | no   |      |
-| nurse spider                 | spider               | nature         | no   |      |
-| sea strider                  | spider               | nature         | no   |      |
-| shattered spider             | spider, moon         | nature, wizard | no   |      |
-| hound                        | canine               | nature         | no   |      |
-| red hound                    | canine               | nature, wizard | no   |      |
-| blue hound                   | canine               | nature, wizard | no   |      |
+| spider                       | bug                  | nature         | no   |      |
+| spider warrior               | bug                  | nature         | no   |      |
+| dangling depth dweller       | bug                  | nature         | no   |      |
+| cave spider                  | bug                  | nature         | no   |      |
+| spitter                      | bug                  | nature         | no   |      |
+| spider queen                 | bug                  | nature         | yes  |      |
+| poison spider warrior        | bug                  | nature         | no   |      |
+| spider monkey                | bug                  | nature         | no   |      |
+| nurse spider                 | bug                  | nature         | no   |      |
+| sea strider                  | bug                  | nature         | no   |      |
+| shattered spider             | bug, moon            | nature, wizard | no   |      |
+| hound                        | canine               | nature         | no   | fin  |
+| red hound                    | canine               | nature, wizard | no   | fin  |
+| blue hound                   | canine               | nature, wizard | no   | fin  |
 | varg                         | canine               | nature         | no   |      |
-| crocodog                     | canine, reptile      | nature         | no   |      |
-| red crocodog                 | canine, reptile      | nature, wizard | no   |      |
-| blue crocodog                | canine, reptile      | nature, wizard | no   |      |
+| crocodog                     | canine, reptile      | nature         | no   | fin  |
+| red crocodog                 | canine, reptile      | nature, wizard | no   | fin  |
+| blue crocodog                | canine, reptile      | nature, wizard | no   | fin  |
 | sea hound                    | canine               | nature         | no   |      |
 | dogfish                      | canine               | nature         | no   |      |
-| pugalisk                     | canine, reptile      | nature         | yes  |      |
+| pugalisk                     | canine, reptile      | nature         | yes  | fin  |
 | pog                          | canine               | nature         | no   |      |
 | vargling                     | canine               | nature         | no   |      |
 | varglet                      | canine               | nature         | no   |      |
@@ -62,23 +63,23 @@ fin=finished
 | clay varg                    | canine               | nature         | no   |      |
 | clay hound                   | canine               | nature         | no   |      |
 | gingerbread varg             | canine               | nature         | no   |      |
-| clockwork bishop             | machine              | tech           | no   |      |
-| damaged bishop               | machine, shadow      | tech           | no   |      |
-| clockwork rook               | machine              | tech           | no   |      |
-| damaged rook                 | machine, shadow      | tech           | no   |      |
-| clockwork knight             | machine              | tech           | no   |      |
-| damaged knight               | machine, shadow      | tech           | no   |      |
-| floaty boaty knight          | machine              | tech           | no   |      |
-| iron hulk (ribs)             | machine              | tech           | no   |      |
-| iron hulk (arm)              | machine              | tech           | no   |      |
-| iron hulk (leg)              | machine              | tech           | no   |      |
-| iron hulk (head)             | machine              | tech           | no   |      |
-| large iron hulk              | machine              | tech           | yes  |      |
-| bio scanalyzer               | machine              | tech           | no   |      |
-| sentrypede husk              | machine, bug         | tech           | no   |      |
-| ancient sentrypede           | machine, bug         | tech           | no   |      |
-| retinazor                    | machine              | tech           | yes  |      |
-| spazmatism                   | machine              | tech           | yes  |      |
+| clockwork bishop             | tribeless            | tech           | no   |      |
+| damaged bishop               | shadow               | tech           | no   |      |
+| clockwork rook               | tribeless            | tech           | no   |      |
+| damaged rook                 | shadow               | tech           | no   |      |
+| clockwork knight             | tribeless            | tech           | no   |      |
+| damaged knight               | shadow               | tech           | no   |      |
+| floaty boaty knight          | tribeless            | tech           | no   |      |
+| iron hulk (ribs)             | tribeless            | tech           | no   |      |
+| iron hulk (arm)              | tribeless            | tech           | no   |      |
+| iron hulk (leg)              | tribeless            | tech           | no   |      |
+| iron hulk (head)             | tribeless            | tech           | no   |      |
+| large iron hulk              | tribeless            | tech           | yes  |      |
+| bio scanalyzer               | tribeless            | tech           | no   |      |
+| sentrypede husk              | bug                  | tech           | no   |      |
+| ancient sentrypede           | bug                  | tech           | no   |      |
+| retinazor                    | tribeless            | tech           | yes  | fin  |
+| spazmatism                   | tribeless            | tech           | yes  | fin  |
 | fireflies                    | bug                  | nature         | no   |      |
 | bee                          | bug                  | nature         | no   |      |
 | killer bee                   | bug                  | nature         | no   |      |
@@ -141,14 +142,14 @@ fin=finished
 | hippopotamoose               | hooved               | nature         | no   |      |
 | klaus                        | hooved               | nature         | yes  |      |
 | no-eyed deer                 | hooved               | nature         | no   |      |
-| gem deer                     | hooved               | nature         | no   |      |
+| gem deer                     | hooved               | nature         | no   | fin  |
 | ewelet                       | hooved               | nature         | no   |      |
-| rabbit                       | tribeless            | nature         | no   |      |
+| rabbit                       | tribeless            | nature         | no   | fin  |
 | batilisk                     | reptile              | nature         | no   |      |
 | slurper                      | tribeless            | nature         | no   |      |
 | bunnyman                     | tribeless            | nature         | no   |      |
 | bearger                      | tribeless            | nature         | yes  |      |
-| piko                         | tribeless            | nature         | no   |      |
+| piko                         | tribeless            | nature         | no   | fin  |
 | platapine                    | tribeless            | nature         | no   |      |
 | pangolden                    | tribeless            | nature         | no   |      |
 | vampire bat                  | tribeless            | nature, death  | no   |      |
@@ -173,14 +174,14 @@ fin=finished
 | toucan                       | avian                | nature         | no   |      |
 | cormorant                    | avian                | nature         | no   |      |
 | packim baggims               | avian                | nature         | no   |      |
-| doydoy                       | avian                | nature         | no   |      |
-| teen doydoy                  | avian                | nature         | no   |      |
-| baby doydoy                  | avian                | nature         | no   |      |
+| doydoy                       | avian                | nature         | no   | fin  |
+| teen doydoy                  | avian                | nature         | no   | fin  |
+| baby doydoy                  | avian                | nature         | no   | fin  |
 | kingfisher                   | avian                | nature         | no   |      |
 | peagawk                      | avian, plant         | nature         | no   |      |
 | thunderbird                  | avian                | nature         | no   |      |
 | ro bin                       | avian                | nature         | no   |      |
-| BFB (big fucking bird)       | avian                | nature         | yes  |      |
+| BFB (big fucking bird)       | avian                | nature         | yes  | fin  |
 | puffin                       | avian                | nature         | no   |      |
 | canary                       | avian                | nature         | no   |      |
 | misshapen bird               | avian, moon          | nature         | no   |      |
@@ -212,7 +213,7 @@ fin=finished
 | misery toadstool             | reptile, plant       | nature         | yes  |      |
 | saladmander                  | reptile, plant, moon | nature         | no   |      |
 | tentacle                     | tribeless            | nature         | no   |      |
-| big tentacle                 | tribeless            | nature         | yes  |      |
+| big tentacle                 | tribeless            | nature         | yes  | fin  |
 | baby tentacle                | tribeless            | nature         | no   |      |
 | shadow tentacle              | shadow               | wizard         | no   |      |
 | yaarctopus                   | tribeless            | nature         | yes  |      |
@@ -235,12 +236,12 @@ fin=finished
 | friendly peeper              | tribeless            | nature         | no   |      |
 | suspicious peeper            | tribeless            | nature         | no   |      |
 | eye of terror                | tribeless            | nature         | yes  |      |
-| mandrake                     | plant                | nature         | no   |      |
-| treeguard                    | plant                | nature         | yes  |      |
+| mandrake                     | plant                | nature         | no   | fin  |
+| treeguard                    | plant                | nature         | yes  | fin  |
 | lureplant                    | plant                | nature         | no   |      |
 | eyeplant                     | plant                | nature         | no   |      |
-| poison birchnut tree         | plant                | nature         | no   |      |
-| birchnutter                  | plant                | nature         | no   |      |
+| poison birchnut tree         | plant                | nature         | no   | fin  |
+| birchnutter                  | plant                | nature         | no   | fin  |
 | palm treeguard               | plant                | nature         | yes  |      |
 | snaptooth seedling 1         | plant                | nature         | no   |      |
 | snaptooth seedling 2         | plant                | nature         | no   |      |
@@ -251,35 +252,35 @@ fin=finished
 | mush gnome                   | plant, moon          | nature         | no   |      |
 | sea weed                     | plant                | nature         | no   |      |
 | deadly brightshade           | plant, moon          | nature         | no   |      |
-| pig                          | pig                  | nature         | no   |      |
-| guardian pig                 | pig                  | nature         | no   |      |
-| werepig                      | pig                  | nature         | no   |      |
-| pig king                     | pig                  | nature         | no   |      |
-| wildbore                     | pig                  | nature         | no   |      |
-| ancient spirit               | pig                  | death          | no   |      |
-| masked pig                   | pig                  | nature         | no   |      |
-| royal guard                  | pig                  | nature         | no   |      |
-| pig hatmaker                 | pig                  | nature         | no   |      |
-| pig miner                    | pig                  | nature         | no   |      |
-| pig professor                | pig                  | nature         | no   |      |
-| pig usher                    | pig                  | nature         | no   |      |
-| pig banker                   | pig                  | nature         | no   |      |
-| big beautician               | pig                  | nature         | no   |      |
-| pig collector                | pig                  | nature         | no   |      |
-| pig erudite                  | pig                  | nature         | no   |      |
-| pig farmer                   | pig                  | nature         | no   |      |
-| pig florist                  | pig                  | nature         | no   |      |
-| pig shopkeep                 | pig                  | nature         | no   |      |
-| pig worker                   | pig                  | nature         | no   |      |
-| pig queen                    | pig                  | nature         | no   |      |
-| nightmare werepig            | pig, shadow          | nature         | yes  |      |
-| splumonkey                   | monkey               | nature         | no   |      |
-| splumonkey alt               | monkey, shadow       | nature         | no   |      |
-| prime ape                    | monkey               | nature         | no   |      |
-| powder monkey                | monkey               | nature         | no   |      |
-| prime mate                   | monkey               | nature         | no   |      |
-| queen of the moon quay       | monkey               | nature         | no   |      |
-| houndius shootius            | machine              | tech           | no   |      |
+| pig                          | tribeless            | nature         | no   |      |
+| guardian pig                 | tribeless            | nature         | no   |      |
+| werepig                      | tribeless            | nature         | no   |      |
+| pig king                     | tribeless            | nature         | no   |      |
+| wildbore                     | tribeless            | nature         | no   |      |
+| ancient spirit               | tribeless            | death          | no   |      |
+| masked pig                   | tribeless            | nature         | no   |      |
+| royal guard                  | tribeless            | nature         | no   |      |
+| pig hatmaker                 | tribeless            | nature         | no   |      |
+| pig miner                    | tribeless            | nature         | no   |      |
+| pig professor                | tribeless            | nature         | no   |      |
+| pig usher                    | tribeless            | nature         | no   |      |
+| pig banker                   | tribeless            | nature         | no   |      |
+| pig beautician               | tribeless            | nature         | no   |      |
+| pig collector                | tribeless            | nature         | no   |      |
+| pig erudite                  | tribeless            | nature         | no   |      |
+| pig farmer                   | tribeless            | nature         | no   |      |
+| pig florist                  | tribeless            | nature         | no   |      |
+| pig shopkeep                 | tribeless            | nature         | no   |      |
+| pig worker                   | tribeless            | nature         | no   |      |
+| pig queen                    | tribeless            | nature         | no   |      |
+| nightmare werepig            | shadow               | nature         | yes  |      |
+| splumonkey                   | tribeless            | nature         | no   |      |
+| splumonkey alt               | shadow               | nature         | no   |      |
+| prime ape                    | tribeless            | nature         | no   |      |
+| powder monkey                | tribeless            | nature         | no   |      |
+| prime mate                   | tribeless            | nature         | no   |      |
+| queen of the moon quay       | tribeless            | nature         | no   |      |
+| houndius shootius            | tribeless            | tech           | no   |      |
 | shadow eyes                  | shadow               | wizard         | no   |      |
 | terrorbeak                   | shadow               | wizard         | no   | fin  |
 | crawling horror              | shadow               | wizard         | no   | fin  |
@@ -308,7 +309,7 @@ fin=finished
 | resting horror               | shadow               | wizard         | no   |      |
 | ancient herald               | shadow               | wizard         | yes  |      |
 | charlie                      | shadow               | wizard         | yes  |      |
-| abigail                      | tribeless            | death          | no   |      |
+| abigail                      | tribeless            | death          | no   | fin  |
 | bernie                       | shadow               | wizard         | no   |      |
 | bernie (large)               | shadow               | wizard         | no   |      |
 | gestalt                      | moon                 | wizard         | no   |      |
@@ -316,8 +317,8 @@ fin=finished
 | brightshade gestalt          | moon                 | wizard         | no   |      |
 | grazer                       | moon                 | wizard         | no   |      |
 | celestial champion           | moon                 | wizard         | yes  |      |
-| pipspook                     | tribeless            | death          | no   |      |
-| ghost                        | tribeless            | death          | no   |      |
+| pipspook                     | tribeless            | death          | no   | fin  |
+| ghost                        | tribeless            | death          | no   | fin  |
 | cookie cutter                | tribeless            | death          | no   |      |
 | crustashine                  | tribeless            | nature         | no   |      |
 | extra-adorable lavae         | tribeless            | nature         | no   |      |
