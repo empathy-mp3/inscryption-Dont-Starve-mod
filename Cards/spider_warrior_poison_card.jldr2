@@ -1,0 +1,18 @@
+{
+    "name": "spider_warrior_poison",
+    "modPrefix": "dontstarve",
+    "displayedName": "Spider Warrior",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseHealth": 1,
+    "bonesCost": 2,
+    "energyCost": 3,
+    "abilities": ["Deathtouch"],
+    "specialStatIcon": "Ants",
+    "tribes": ["Insect"],
+    "traits": ["Ant"],
+    "emissionTexture": "spider_warrior_poison_e.png",
+    "texture": "spider_warrior_poison.png"
+}

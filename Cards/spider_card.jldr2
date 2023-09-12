@@ -1,0 +1,16 @@
+{
+    "name": "spider",
+    "modPrefix": "dontstarve",
+    "displayedName": "Spider",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "specialStatIcon": "Ants",
+    "tribes": ["Insect"],
+    "traits": ["Ant"],
+    "emissionTexture": "spider_e.png",
+    "texture": "spider.png"
+}

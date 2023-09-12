@@ -1,0 +1,16 @@
+{
+    "name": "shattered_spider",
+    "modPrefix": "dontstarve",
+    "displayedName": "Shattered Spider",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseHealth": 1,
+    "gemsCost": ["Orange"],
+    "specialStatIcon": "Ants",
+    "tribes": ["Insect", "empathymp3.inscryption.dontstarve.Lunar"],
+    "traits": ["Ant"],
+    "emissionTexture": "shattered_spider_e.png",
+    "texture": "shattered_spider.png"
+}

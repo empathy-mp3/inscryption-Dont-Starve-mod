@@ -1,0 +1,17 @@
+{
+    "name": "spider_warrior",
+    "modPrefix": "dontstarve",
+    "displayedName": "Spider Warrior",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseHealth": 3,
+    "bonesCost": 2,
+    "energyCost": 2,
+    "specialStatIcon": "Ants",
+    "tribes": ["Insect"],
+    "traits": ["Ant"],
+    "emissionTexture": "spider_warrior_e.png",
+    "texture": "spider_warrior.png"
+}

@@ -2,7 +2,7 @@
     "name": "blue_crocodog",
     "modPrefix": "dontstarve",
     "displayedName": "Blue Crocodog",
-    "description": "The Blue Crocodog. If let live for long enough, its water will flood everywhere.",
+    "description": "The Blue Crocodog. If let live for long enough, it can become quite a nuisance.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

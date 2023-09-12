@@ -1,0 +1,19 @@
+{
+    "name": "spitter",
+    "modPrefix": "dontstarve",
+    "displayedName": "Spitter",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "energyCost": 3,
+    "specialStatIcon": "Ants",
+    "abilities": ["Sniper"],
+    "tribes": ["Insect"],
+    "traits": ["Ant"],
+    "appearanceBehaviour": ["RedEmission"],
+    "emissionTexture": "spitter_e.png",
+    "texture": "spitter.png"
+}

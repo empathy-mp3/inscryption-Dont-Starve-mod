@@ -1,0 +1,19 @@
+{
+    "name": "cave_spider",
+    "modPrefix": "dontstarve",
+    "displayedName": "Cave Spider",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "energyCost": 2,
+    "abilities": ["DeathShield"],
+    "specialStatIcon": "Ants",
+    "tribes": ["Insect"],
+    "traits": ["Ant"],
+    "appearanceBehaviour": ["RedEmission"],
+    "emissionTexture": "cave_spider_e.png",
+    "texture": "cave_spider.png"
+}

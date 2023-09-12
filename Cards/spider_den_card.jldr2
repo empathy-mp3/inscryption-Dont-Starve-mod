@@ -1,0 +1,18 @@
+{
+    "name": "spider_den",
+    "modPrefix": "dontstarve",
+    "displayedName": "Spider Den",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "energyCost": 3,
+    "traits": ["Terrain"],
+    "abilities": ["empathymp3.inscryption.dontstarve.Spider Spawner", "Evolve"],
+    "appearanceBehaviour": ["TerrainBackground", "TerrainLayout"],
+    "evolveIntoName": "dontstarve_spider_queen",
+    "evolveTurns": 3,
+    "texture": "spider_den.png"
+}

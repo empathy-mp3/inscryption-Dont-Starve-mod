@@ -1,0 +1,17 @@
+{
+    "name": "spider_monkey",
+    "modPrefix": "dontstarve",
+    "displayedName": "Spider Monkey",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseHealth": 4,
+    "bloodCost": 2,
+    "abilities": ["Reach"],
+    "specialStatIcon": "Ants",
+    "tribes": ["Insect"],
+    "traits": ["Ant"],
+    "emissionTexture": "spider_monkey_e.png",
+    "texture": "spider_monkey.png"
+}
