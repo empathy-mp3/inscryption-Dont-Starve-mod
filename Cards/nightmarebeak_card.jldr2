@@ -1,0 +1,17 @@
+{
+    "name": "nightmarebeak",
+    "modPrefix": "dontstarve",
+    "displayedName": "Nightmarebeak",
+    "description": "A terrifying visage. A mere sight of it will drive you to insanity.",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 1,
+    "gemsCost": ["Blue"],
+    "abilities": [ "StrafePush", "GainGemBlue"],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "appearanceBehaviour": ["RareCardBackground"],
+    "texture": "nightmarebeak.png",
+    "pixelTexture": "px_nightmarebeak.png"
+  }

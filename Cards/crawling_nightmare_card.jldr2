@@ -1,0 +1,17 @@
+{
+    "name": "crawling_nightmare",
+    "modPrefix": "dontstarve",
+    "displayedName": "Crawling Nightmare",
+    "description": "The Crawling Nightmare. It slowly crawls towards you, driving you insane.",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 3,
+    "gemsCost": ["Green"],
+    "abilities": [ "Strafe", "GainGemGreen" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "appearanceBehaviour": ["RareCardBackground"],
+    "texture": "crawling_nightmare.png",
+    "pixelTexture": "px_crawling_nightmare.png"
+  }
