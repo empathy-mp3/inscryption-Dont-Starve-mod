@@ -11,7 +11,7 @@
     "specialStatIcon": "Ants",
     "tribes": ["Insect"],
     "traits": ["Ant"],
-    "specialAbilities": ["empathymp3.inscryption.dontstarve.Spider Mayhem"],
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Spider Mayhem", "Ant"],
     "appearanceBehaviour": ["RareCardBackground"],
     "emissionTexture": "spider_queen_e.png",
     "texture": "spider_queen.png"

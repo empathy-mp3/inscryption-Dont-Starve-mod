@@ -11,6 +11,7 @@
     "energyCost": 2,
     "abilities": ["DeathShield"],
     "specialStatIcon": "Ants",
+    "specialAbilities": ["Ant"],
     "tribes": ["Insect"],
     "traits": ["Ant"],
     "appearanceBehaviour": ["RedEmission"],

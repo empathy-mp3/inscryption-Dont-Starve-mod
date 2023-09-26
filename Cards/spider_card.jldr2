@@ -11,6 +11,7 @@
     "specialStatIcon": "Ants",
     "tribes": ["Insect"],
     "traits": ["Ant"],
+    "specialAbilities": ["Ant"],
     "emissionTexture": "spider_e.png",
     "texture": "spider.png"
 }

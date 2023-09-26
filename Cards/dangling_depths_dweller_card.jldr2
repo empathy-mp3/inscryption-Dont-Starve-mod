@@ -10,6 +10,7 @@
     "energyCost": 4,
     "specialStatIcon": "Ants",
     "tribes": ["Insect"],
+    "specialAbilities": ["Ant"],
     "abilities": ["Flying"],
     "traits": ["Ant"],
     "appearanceBehaviour": ["RedEmission"],

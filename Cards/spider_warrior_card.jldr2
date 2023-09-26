@@ -13,5 +13,6 @@
     "tribes": ["Insect"],
     "traits": ["Ant"],
     "emissionTexture": "spider_warrior_e.png",
+    "specialAbilities": ["Ant"],
     "texture": "spider_warrior.png"
 }

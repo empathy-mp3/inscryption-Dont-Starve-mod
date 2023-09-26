@@ -12,6 +12,7 @@
     "specialStatIcon": "Ants",
     "abilities": ["BuffGems"],
     "tribes": ["Insect"],
+    "specialAbilities": ["Ant"],
     "traits": ["Ant"],
     "emissionTexture": "nurse_spider_e.png",
     "texture": "nurse_spider.png"

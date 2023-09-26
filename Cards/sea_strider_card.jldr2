@@ -10,6 +10,7 @@
     "gemsCost": ["Green"],
     "specialStatIcon": "Ants",
     "abilities": ["Submerge"],
+    "specialAbilities": ["Ant"],
     "tribes": ["Insect"],
     "traits": ["Ant"],
     "appearanceBehaviour": ["RedEmission"],

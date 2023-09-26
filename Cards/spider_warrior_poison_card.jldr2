@@ -12,6 +12,7 @@
     "abilities": ["Deathtouch"],
     "specialStatIcon": "Ants",
     "tribes": ["Insect"],
+    "specialAbilities": ["Ant"],
     "traits": ["Ant"],
     "emissionTexture": "spider_warrior_poison_e.png",
     "texture": "spider_warrior_poison.png"

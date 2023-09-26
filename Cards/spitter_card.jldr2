@@ -12,6 +12,7 @@
     "specialStatIcon": "Ants",
     "abilities": ["Sniper"],
     "tribes": ["Insect"],
+    "specialAbilities": ["Ant"],
     "traits": ["Ant"],
     "appearanceBehaviour": ["RedEmission"],
     "emissionTexture": "spitter_e.png",

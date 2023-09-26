@@ -11,6 +11,7 @@
     "specialStatIcon": "Ants",
     "tribes": ["Insect", "empathymp3.inscryption.dontstarve.Lunar"],
     "traits": ["Ant"],
+    "specialAbilities": ["Ant"],
     "emissionTexture": "shattered_spider_e.png",
     "texture": "shattered_spider.png"
 }
