@@ -1,0 +1,17 @@
+{
+    "name": "terrorclaw",
+    "modPrefix": "dontstarve",
+    "displayedName": "Terrorclaw",
+    "description": "perish",
+    "metaCategories": [ "TraderOffer", "ChoiceNode"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "gemsCost": ["Blue"],
+    "abilities": [ "TailOnHit", "GemDependant" ],
+    "tailName": "donstarve_terrorclaw_tail",
+    "tailLostPortrait": "terrorclaw_tail_lost.png",
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "texture": "terrorclaw.png"
+  }

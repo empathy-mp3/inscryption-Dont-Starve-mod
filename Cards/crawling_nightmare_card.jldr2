@@ -12,6 +12,7 @@
     "abilities": [ "Strafe", "GainGemGreen" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
     "appearanceBehaviour": ["RareCardBackground"],
+    "traits": ["Gem"],
     "texture": "crawling_nightmare.png",
     "pixelTexture": "px_crawling_nightmare.png"
   }

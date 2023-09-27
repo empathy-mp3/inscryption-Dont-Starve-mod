@@ -1,0 +1,14 @@
+{
+    "name": "mr_skitts",
+    "modPrefix": "dontstarve",
+    "displayedName": "Mr. Skitts",
+    "description": "perish",
+    "metaCategories": [ "TraderOffer", "ChoiceNode"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "abilities": ["GemDependant"],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "texture": "mr_skitts.png"
+  }

@@ -3,7 +3,7 @@
     "modPrefix": "dontstarve",
     "displayedName": "Moose",
     "description": "perish",
-    "metaCategories": ["TraderOffer", "ChoiceNode"],
+    "metaCategories": ["Rare"],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
@@ -12,6 +12,7 @@
     "abilities": ["GainGemOrange"],
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Mosling Spawn"],
     "tribes": ["Hooved", "Bird"],
+    "appearanceBehaviour": ["RareCardBackground"],
     "texture": "goose.png",
     "emissionTexture": "goose_e.png"
   }

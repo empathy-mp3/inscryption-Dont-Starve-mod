@@ -1,0 +1,15 @@
+{
+    "name": "night_hand",
+    "modPrefix": "dontstarve",
+    "displayedName": "Night Hand",
+    "description": "The night hand. Be careful, lest it snuff out one of your candles.",
+    "metaCategories": [ "TraderOffer", "ChoiceNode"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "gemsCost": ["Orange"],
+    "abilities": [ "BuffGems", "GemDependant" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "texture": "night_hand.png"
+  }

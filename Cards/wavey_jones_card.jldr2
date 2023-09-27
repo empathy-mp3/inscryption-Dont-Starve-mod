@@ -1,0 +1,14 @@
+{
+    "name": "wavey_jones",
+    "modPrefix": "dontstarve",
+    "displayedName": "Wavey Jones",
+    "description": "perish",
+    "metaCategories": [ "TraderOffer", "ChoiceNode"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "abilities": [ "Sentry", "GemDependant" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "texture": "wavey_jones.png"
+  }

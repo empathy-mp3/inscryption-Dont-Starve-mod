@@ -11,6 +11,7 @@
     "gemsCost": ["Green"],
     "abilities": [ "Strafe", "GemDependant" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "evolveIntoName": "donstarve_crawling_nightmare",
     "texture": "crawling_horror.png",
     "pixelTexture": "px_crawling_horror.png"
   }

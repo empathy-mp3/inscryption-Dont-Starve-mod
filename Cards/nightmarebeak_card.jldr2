@@ -11,6 +11,7 @@
     "gemsCost": ["Blue"],
     "abilities": [ "StrafePush", "GainGemBlue"],
     "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "traits": ["Gem"],
     "appearanceBehaviour": ["RareCardBackground"],
     "texture": "nightmarebeak.png",
     "pixelTexture": "px_nightmarebeak.png"

@@ -1,0 +1,16 @@
+{
+    "name": "swimming_horror",
+    "modPrefix": "dontstarve",
+    "displayedName": "Swimming Horror",
+    "description": "Be wary of this, or it may drag your ship down.",
+    "metaCategories": [ "TraderOffer", "ChoiceNode"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 1,
+    "gemsCost": ["Orange"],
+    "energyCost": 2,
+    "abilities": [ "Submerge", "GemDependant" ],
+    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
+    "texture": "swimming_horror.png"
+  }
