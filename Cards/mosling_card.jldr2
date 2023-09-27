@@ -1,0 +1,16 @@
+{
+    "name": "mosling",
+    "modPrefix": "dontstarve",
+    "displayedName": "Mosling",
+    "description": "perish",
+    "metaCategories": ["TraderOffer", "ChoiceNode"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bloodCost": 2,
+    "abilities": ["Evolve", "BoneDigger"],
+    "tribes": ["Hooved", "Bird"],
+    "texture": "mosling.png",
+    "emissionTexture": "mosling_e.png"
+  }
