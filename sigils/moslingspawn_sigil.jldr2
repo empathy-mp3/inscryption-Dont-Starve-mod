@@ -1,0 +1,39 @@
+{
+    "name": "Mosling Spawn",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnResolveOnBoard"
+            },
+            "drawCards": [
+                {
+                    "card": {
+                        "name": "dontstarve_mosling"
+                    }
+                },
+                {
+                    "card": {
+                        "name": "dontstarve_mosling"
+                    }
+                },
+                {
+                    "card": {
+                        "name": "dontstarve_mosling"
+                    }
+                },
+                {
+                    "card": {
+                        "name": "dontstarve_mosling"
+                    }
+                },
+                {
+                    "card": {
+                        "name": "dontstarve_mosling"
+                    }
+                }
+            ]
+        }
+    ]
+}
