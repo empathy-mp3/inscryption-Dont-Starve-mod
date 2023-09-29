@@ -1,0 +1,16 @@
+{
+    "name": "misshapen_bird",
+    "modPrefix": "dontstarve",
+    "displayedName": "Misshapen Bird",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bonesCost": 3,
+    "abilities": ["Flying"],
+    "tribes": ["Bird", "empathymp3.inscryption.dontstarve.Lunar"],
+    "emissionTexture": "misshapen_bird_e.png",
+    "texture": "misshapen_bird.png"
+}

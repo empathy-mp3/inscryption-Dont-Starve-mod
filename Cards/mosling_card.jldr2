@@ -8,7 +8,7 @@
     "baseAttack": 1,
     "baseHealth": 1,
     "bonesCost": 3,
-    "gemsCost": ["Green"],
+    "gemsCost": ["Orange"],
     "tribes": ["Hooved", "Bird"],
     "texture": "mosling.png",
     "emissionTexture": "mosling_e.png"

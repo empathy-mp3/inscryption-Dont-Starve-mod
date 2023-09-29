@@ -1,0 +1,16 @@
+{
+    "name": "wanda_young",
+    "modPrefix": "dontstarve",
+    "displayedName": "Wanda",
+    "description": "perish",
+    "metaCategories": [ "Rare" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 3,
+    "energyCost": 3,
+    "abilities": ["Evolve"],
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "pixelTexture": "px_wanda.png",
+    "texture": "wanda.png"
+  }

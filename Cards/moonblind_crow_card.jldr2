@@ -1,0 +1,16 @@
+{
+    "name": "moonblind_crow",
+    "modPrefix": "dontstarve",
+    "displayedName": "Moonblind Crow",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bloodCost": 1,
+    "abilities": ["Flying"],
+    "tribes": ["Bird", "empathymp3.inscryption.dontstarve.Lunar"],
+    "emissionTexture": "moonblind_crow_e.png",
+    "texture": "moonblind_crow.png"
+}
