@@ -1,16 +1,15 @@
 {
-    "name": "wanda_young",
+    "name": "wanda_middle_aged",
     "modPrefix": "dontstarve",
     "displayedName": "Wanda",
     "description": "perish",
-    "metaCategories": [ "Rare" ],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 2,
     "baseHealth": 2,
-    "energyCost": 3,
+    "energyCost": 2,
     "abilities": ["Evolve"],
+    "evolveIntoName": "dontstarve_wanda_elderly",
     "appearanceBehaviour": [ "RareCardBackground" ],
-    "pixelTexture": "px_wanda.png",
     "texture": "wanda.png"
   }

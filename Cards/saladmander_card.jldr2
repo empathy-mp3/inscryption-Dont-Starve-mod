@@ -1,0 +1,16 @@
+{
+    "name": "saladmander",
+    "modPrefix": "dontstarve",
+    "displayedName": "Saladmander",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 8,
+    "bloodCost": 2,
+    "tribes": ["Reptile", "empathymp3.inscryption.dontstarve.Lunar", "empathymp3.inscryption.dontstarve.Plant"],
+    "appearanceBehaviour": ["DefaultEmission"],
+    "emissionTexture": "saladmander_e.png",
+    "texture": "saladmander.png"
+}

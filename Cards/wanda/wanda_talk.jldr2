@@ -1,0 +1,64 @@
+{
+    "cardName": "dontstarve_wanda_young",
+    "faceSprite": "wanda_face.png",
+    "eyeSprites": {
+      "open": "wanda_eyes.png",
+      "closed": "wanda_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "wanda_mouth_open.png",
+      "closed": "wanda_mouth_closed.png"
+    },
+    "emissionSprites": {
+      "open": "wanda_eyes_e.png",
+      "closed": "_"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 3,
+      "voiceSoundPitch": 1.1
+    },
+    "emotions": [
+        {
+          "emotion": "Anger",
+          "eyeSprites": {
+            "open": "wanda_eyes.png",
+            "closed": "wanda_eyes_closed.png"
+          }
+        }
+    ],
+    "dialogueEvents": [
+        {
+            "eventName": "OnDrawn",
+            "mainLines": [
+                "Sorry[w:0.2], No time to chat."   
+            ],
+            "repeatLines": [
+                ["Sorry[w:0.2], No time to chat."],
+                ["I'm afraid I can't stay long."]
+            ]
+        },
+        {
+            "eventName": "OnSacrificed",
+            "mainLines": [
+                "My time...[w:0.2] Cut short..."
+            ],
+            "repeatLines": [
+                ["My time...[w:0.2] Cut short..."],
+                ["It was only a matter of time..."],
+                ["No, wait! I need more time!!"]
+            ]
+        },
+        {
+            "eventName": "OnAttacked",
+            "mainLines": [
+                "Dial it back a notch[w:0.2], would you?"
+            ],
+            "repeatLines": [
+                ["Dial it back a notch[w:0.2], would you?"],
+                ["You ruffian!"],
+                ["I don't have time for this!"]
+            ]
+        }
+    ]
+  }

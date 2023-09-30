@@ -1,0 +1,14 @@
+{
+    "name": "snaptooth_flytrap",
+    "modPrefix": "dontstarve",
+    "displayedName": "Snaptooth Flytrap",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 6,
+    "baseHealth": 6,
+    "bloodCost": 4,
+    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
+    "texture": "snaptooth_flytrap.png"
+}

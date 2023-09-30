@@ -1,0 +1,15 @@
+{
+    "name": "horror_hound",
+    "modPrefix": "dontstarve",
+    "displayedName": "Horror Hound",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 1,
+    "bonesCost": 5,
+    "tribes": ["Canine", "empathymp3.inscryption.dontstarve.Lunar"],
+    "emissionTexture": "horror_hound_e.png",
+    "texture": "horror_hound.png"
+}

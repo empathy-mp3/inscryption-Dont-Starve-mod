@@ -1,0 +1,16 @@
+{
+    "name": "snaptooth_seedling3",
+    "modPrefix": "dontstarve",
+    "displayedName": "Snaptooth Seedling",
+    "description": "perish",
+    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 3,
+    "baseHealth": 3,
+    "bloodCost": 3,
+    "abilities": ["Evolve", "StrafeSwap"],
+    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
+    "evolveIntoName": "dontstarve_snaptooth_flytrap",
+    "texture": "snaptooth_seedling3.png"
+}
