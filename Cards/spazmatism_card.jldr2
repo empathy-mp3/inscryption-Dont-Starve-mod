@@ -2,7 +2,7 @@
     "name": "spazmatism",
     "modPrefix": "dontstarve",
     "displayedName": "Spazmatism",
-    "description": "Beware of its accurate laser.",
+    "description": "An eye is not complete without another.",
     "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

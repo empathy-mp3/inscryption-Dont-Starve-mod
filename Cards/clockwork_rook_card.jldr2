@@ -2,7 +2,7 @@
     "name": "clockwork_rook",
     "modPrefix": "dontstarve",
     "displayedName": "Clockwork Rook",
-    "description": "The rook. This complete powerhouse finds difficulty slowing down.",
+    "description": "The rook. It may be strong, but it can only move in a straight line.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

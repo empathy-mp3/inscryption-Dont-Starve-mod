@@ -2,7 +2,7 @@
     "name": "sea_strider",
     "modPrefix": "dontstarve",
     "displayedName": "Sea Strider",
-    "description": "perish",
+    "description": "A creature of that size shouldn't be able to float over water, but...",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

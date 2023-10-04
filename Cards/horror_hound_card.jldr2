@@ -2,7 +2,7 @@
     "name": "horror_hound",
     "modPrefix": "dontstarve",
     "displayedName": "Horror Hound",
-    "description": "perish",
+    "description": "Another moon-induced mutation. It defies death.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

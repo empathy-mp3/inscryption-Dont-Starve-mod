@@ -2,7 +2,7 @@
     "name": "baby_doydoy",
     "modPrefix": "dontstarve",
     "displayedName": "Baby Doydoy",
-    "description": "The young Doydoy. Its life will certainly be one of hardship.",
+    "description": "A dim-witted creature. How long will it survive?",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

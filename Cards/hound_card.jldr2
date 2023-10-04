@@ -11,6 +11,7 @@
     "bloodCost": 2,
     "abilities": ["GuardDog"],
     "tribes": ["Canine"],
+    "iceCubeName": "dontstarve_horror_hound",
     "emissionTexture": "hound_e.png",
     "texture": "hound.png"
 }

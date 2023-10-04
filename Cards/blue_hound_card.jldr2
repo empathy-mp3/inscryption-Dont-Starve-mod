@@ -2,7 +2,7 @@
     "name": "blue_hound",
     "modPrefix": "dontstarve",
     "displayedName": "Blue Hound",
-    "description": "The Blue Hound. The power of its gem can be bizzare properties.",
+    "description": "It has a cold, dead heart.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
@@ -12,6 +12,7 @@
     "gemsCost": ["Blue"],
     "abilities": ["GuardDog", "GemsDraw"],
     "tribes": ["Canine"],
+    "iceCubeName": "dontstarve_horror_hound",
     "emissionTexture": "blue_hound_e.png",
     "texture": "blue_hound.png"
 }

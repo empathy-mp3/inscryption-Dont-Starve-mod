@@ -2,7 +2,7 @@
     "name": "teen_doydoy",
     "modPrefix": "dontstarve",
     "displayedName": "Teen Doydoy",
-    "description": "An adolescent Doydoy. I doubt it'll live much longer.",
+    "description": "It's a miracle it's survived this long.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

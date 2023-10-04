@@ -2,7 +2,7 @@
     "name": "pipspook",
     "modPrefix": "dontstarve",
     "displayedName": "Pipspook",
-    "description": "The quiet Pipspook. Having returned from the grave, it understands death.",
+    "description": "A grim reminder of mortality... For some people, at least.",
     "cardComplexity": "Simple",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "temple": "Nature",

@@ -2,7 +2,7 @@
     "name": "dangling_depth_dweller",
     "modPrefix": "dontstarve",
     "displayedName": "Dangling Depths Dweller",
-    "description": "perish",
+    "description": "It has adapted to life on the cave ceiling.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

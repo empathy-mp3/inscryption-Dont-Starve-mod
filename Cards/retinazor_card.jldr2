@@ -2,7 +2,7 @@
     "name": "retinazor",
     "modPrefix": "dontstarve",
     "displayedName": "Retinazor",
-    "description": "Beware of its hefty charges.",
+    "description": "An eye is not complete without another.",
     "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

@@ -2,7 +2,7 @@
     "name": "spider",
     "modPrefix": "dontstarve",
     "displayedName": "Spider",
-    "description": "perish",
+    "description": "This spider is much larger than it should be.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

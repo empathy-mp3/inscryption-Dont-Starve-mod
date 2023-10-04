@@ -2,7 +2,7 @@
     "name": "crawling_horror",
     "modPrefix": "dontstarve",
     "displayedName": "Crawling Horror",
-    "description": "The Crawling Horror. It slowly crawls towards you, driving you insane.",
+    "description": "The Crawling Horror. It lives off insanity.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

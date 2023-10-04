@@ -2,7 +2,7 @@
     "name": "piko",
     "modPrefix": "dontstarve",
     "displayedName": "Piko",
-    "description": "A very swift creature. It will always follow you.",
+    "description": "A vermin that hides in the trees.",
     "cardComplexity": "Simple",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "temple": "Nature",

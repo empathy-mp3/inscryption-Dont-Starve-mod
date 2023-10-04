@@ -2,7 +2,7 @@
     "name": "poison_birchnut_tree",
     "modPrefix": "dontstarve",
     "displayedName": "Poison Birchnut Tree",
-    "description": "The angered Birchnut Tree. It may stay in one spot, but watch for its followers.",
+    "description": "A sickened tree, angered from the death of others.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

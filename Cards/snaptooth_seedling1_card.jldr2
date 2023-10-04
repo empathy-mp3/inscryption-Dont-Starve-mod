@@ -2,7 +2,7 @@
     "name": "snaptooth_seedling1",
     "modPrefix": "dontstarve",
     "displayedName": "Snaptooth Seedling",
-    "description": "perish",
+    "description": "A plant with both legs and teeth... clearly something has gone wrong.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

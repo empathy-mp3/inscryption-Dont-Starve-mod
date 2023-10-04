@@ -2,7 +2,7 @@
     "name": "snaptooth_seedling3",
     "modPrefix": "dontstarve",
     "displayedName": "Snaptooth Seedling",
-    "description": "perish",
+    "description": "Many had to die for it to grow like this...",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

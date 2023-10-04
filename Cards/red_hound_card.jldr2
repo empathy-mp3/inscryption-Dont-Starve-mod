@@ -2,7 +2,7 @@
     "name": "red_hound",
     "modPrefix": "dontstarve",
     "displayedName": "Red Hound",
-    "description": "The red hound. Its gem holds the power of fire.",
+    "description": "It lives to burn.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
@@ -12,6 +12,7 @@
     "gemsCost": ["Orange"],
     "abilities": ["GuardDog", "DropRubyOnDeath"],
     "tribes": ["Canine"],
+    "iceCubeName": "dontstarve_horror_hound",
     "emissionTexture": "red_hound_e.png",
     "texture": "red_hound.png"
 }

@@ -2,7 +2,7 @@
     "name": "moonrock_pengull",
     "modPrefix": "dontstarve",
     "displayedName": "Moonrock Pengull",
-    "description": "perish",
+    "description": "Its insides are horribly malformed.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

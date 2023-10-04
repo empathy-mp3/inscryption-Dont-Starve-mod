@@ -2,7 +2,7 @@
     "name": "saladmander",
     "modPrefix": "dontstarve",
     "displayedName": "Saladmander",
-    "description": "perish",
+    "description": "Be it vegetable or animal...",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

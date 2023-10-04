@@ -2,7 +2,7 @@
     "name": "nightmarebeak",
     "modPrefix": "dontstarve",
     "displayedName": "Nightmarebeak",
-    "description": "A terrifying visage. A mere sight of it will drive you to insanity.",
+    "description": "A terrifying visage. It lives off the fear of its enemies.",
     "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

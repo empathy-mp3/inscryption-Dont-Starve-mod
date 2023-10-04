@@ -2,7 +2,7 @@
     "name": "snaptooth_flytrap",
     "modPrefix": "dontstarve",
     "displayedName": "Snaptooth Flytrap",
-    "description": "perish",
+    "description": "An enormous carnivorous plant.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

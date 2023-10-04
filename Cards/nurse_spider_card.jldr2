@@ -2,7 +2,7 @@
     "name": "nurse_spider",
     "modPrefix": "dontstarve",
     "displayedName": "Nurse Spider",
-    "description": "perish",
+    "description": "This arachnid has evolved the ability to heal others around it.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

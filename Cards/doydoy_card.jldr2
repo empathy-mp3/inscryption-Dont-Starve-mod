@@ -2,7 +2,7 @@
     "name": "doydoy",
     "modPrefix": "dontstarve",
     "displayedName": "Doydoy",
-    "description": "A grown Doydoy. It's a miracle it's survived this long.",
+    "description": "This sad creature has no chance of survival.",
     "metaCategories": [ "TraderOffer", "ChoiceNode", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

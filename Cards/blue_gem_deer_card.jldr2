@@ -2,7 +2,7 @@
     "name": "blue_gem_deer",
     "modPrefix": "dontstarve",
     "displayedName": "Blue Gem Deer",
-    "description": "A hasty deer. Its blue gem is valuable.",
+    "description": "The poor creature has been forcibly fused to a magic gem.",
     "metaCategories": [ "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

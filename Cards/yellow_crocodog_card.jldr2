@@ -12,6 +12,7 @@
     "gemsCost": ["Green"],
     "abilities": ["GuardDog", "Deathtouch"],
     "tribes": ["Canine", "Reptile"],
+    "iceCubeName": "dontstarve_horror_hound",
     "emissionTexture": "crocodog_e.png",
     "texture": "yellow_crocodog.png"
 }

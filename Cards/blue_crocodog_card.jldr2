@@ -2,7 +2,7 @@
     "name": "blue_crocodog",
     "modPrefix": "dontstarve",
     "displayedName": "Blue Crocodog",
-    "description": "The Blue Crocodog. If let live for long enough, it can become quite a nuisance.",
+    "description": "A damp death awaits its enemies.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
@@ -13,6 +13,7 @@
     "tribes": ["Canine", "Reptile"],
     "abilities": ["Submerge"],
     "specialAbilities": ["CardsInHand"],
+    "iceCubeName": "dontstarve_horror_hound",
     "emissionTexture": "crocodog_e.png",
     "texture": "yellow_crocodog.png"
 }

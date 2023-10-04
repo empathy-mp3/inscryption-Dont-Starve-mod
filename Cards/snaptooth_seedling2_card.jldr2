@@ -2,7 +2,7 @@
     "name": "snaptooth_seedling2",
     "modPrefix": "dontstarve",
     "displayedName": "Snaptooth Seedling",
-    "description": "perish",
+    "description": "The abomination has grown a little, through sacrifice.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

@@ -2,7 +2,7 @@
     "name": "crawling_nightmare",
     "modPrefix": "dontstarve",
     "displayedName": "Crawling Nightmare",
-    "description": "The Crawling Nightmare. It slowly crawls towards you, driving you insane.",
+    "description": "The Crawling Nightmare. It has moved past the need for insanity.",
     "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

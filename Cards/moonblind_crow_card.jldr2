@@ -2,7 +2,7 @@
     "name": "moonblind_crow",
     "modPrefix": "dontstarve",
     "displayedName": "Moonblind Crow",
-    "description": "perish",
+    "description": "This creature has seen better days.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

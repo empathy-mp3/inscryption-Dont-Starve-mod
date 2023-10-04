@@ -2,7 +2,7 @@
     "name": "cave_spider",
     "modPrefix": "dontstarve",
     "displayedName": "Cave Spider",
-    "description": "perish",
+    "description": "An arachnid with a thick carapace.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

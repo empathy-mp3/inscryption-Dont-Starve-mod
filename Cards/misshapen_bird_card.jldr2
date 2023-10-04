@@ -2,7 +2,7 @@
     "name": "misshapen_bird",
     "modPrefix": "dontstarve",
     "displayedName": "Misshapen Bird",
-    "description": "perish",
+    "description": "The poor thing appears to have been altered by its proximity to the storm.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

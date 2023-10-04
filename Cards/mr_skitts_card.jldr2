@@ -2,7 +2,7 @@
     "name": "mr_skitts",
     "modPrefix": "dontstarve",
     "displayedName": "Mr. Skitts",
-    "description": "perish",
+    "description": "A wispy shadow.",
     "metaCategories": [ "TraderOffer", "ChoiceNode"],
     "cardComplexity": "Simple",
     "temple": "Nature",

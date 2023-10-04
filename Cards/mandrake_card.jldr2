@@ -2,7 +2,7 @@
     "name": "mandrake",
     "modPrefix": "dontstarve",
     "displayedName": "Mandrake",
-    "description": "A mandrake. This annoying thing won't stop following you arround.",
+    "description": "Its screech is of a remarkably annoying register.",
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 0,

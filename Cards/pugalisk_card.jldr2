@@ -2,7 +2,7 @@
     "name": "pugalisk",
     "modPrefix": "dontstarve",
     "displayedName": "Pugalisk",
-    "description": "Fear for how it digs up and down.",
+    "description": "This stalwart defender is larger than it might seem.",
     "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

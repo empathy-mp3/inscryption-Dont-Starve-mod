@@ -9,7 +9,7 @@
     "baseAttack": 2,
     "baseHealth": 1,
     "gemsCost": ["Blue"],
-    "abilities": [ "Submerge", "GemDependant" ],
+    "abilities": [ "MoveBeside", "GemDependant" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
     "texture": "terrorclaw.png"
   }
