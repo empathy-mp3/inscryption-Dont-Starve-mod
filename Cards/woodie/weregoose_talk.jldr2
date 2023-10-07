@@ -29,7 +29,7 @@
     ],
     "dialogueEvents": [
         {
-            "eventName": "OnDrawn",
+            "eventName": "OnBecomeSelectableNegative",
             "mainLines": [
                 ""   
             ],

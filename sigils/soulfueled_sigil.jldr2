@@ -1,0 +1,18 @@
+{
+    "name": "Soul Fueled",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "isSpecialAbility": true,
+    "priority": 6,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnKill"
+            },
+            "buffCards": [
+                {
+                    "heal": "2"
+                }
+            ]
+        }
+    ]
+}

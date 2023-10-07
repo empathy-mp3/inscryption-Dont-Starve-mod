@@ -11,5 +11,6 @@
     "bonesCost": 3,
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Twins Of Death"],
     "appearanceBehaviour": [ "RareCardBackground" ],
-    "pixelTexture": "px_wendy.png"
+    "pixelTexture": "px_wendy.png",
+    "onePerDeck": true
   }

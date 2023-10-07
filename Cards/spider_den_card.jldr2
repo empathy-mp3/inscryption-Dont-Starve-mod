@@ -2,7 +2,7 @@
     "name": "spider_den",
     "modPrefix": "dontstarve",
     "displayedName": "Spider Den",
-    "description": "perish",
+    "description": "They grow big here.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

@@ -30,25 +30,44 @@
     "dialogueEvents": [
         {
             "eventName": "OnDrawn",
-            "mainLines": ["Heya."],
+            "mainLines": ["Hey, bud!"],
             "repeatLines": [
-                ["Heya."]
+                ["Heya."],
+                ["Hey bud!"],
+                ["How you doin'[w:0.2],", "ya big hoser?"],
+                ["How ya doin', buddy?"],
+                ["Fancy seeing another Canadian here."]
             ]
         },
         {
-            "eventName": "OnAttacked",
+            "eventName": "OnBecomeSelectableNegative",
             "mainLines": [
-                "[c:R]fuck[w:0.3]",
-                "[c:O]shit[w:0.3]",
-                "[c:B]fuck[w:0.3]",
-                "[c:dB]shit[w:0.3]"
+                "Nah[w:0.2], that ain't right."
             ],
             "repeatLines": [
-                ["[c:R]fuck[w:0.3]"],
-                ["[c:O]shit[w:0.3]"],
-                ["[c:B]fuck[w:0.3]"],
-                ["[c:dB]shit[w:0.3]"]
+                ["Nah[w:0.2], that ain't right."],
+                ["Well that's not right."],
+                ["That's just impolite, eh."],
+                ["Not today."]
             ]
+        },
+        {
+          "eventName": "OnBecomeSelectablePositive",
+          "mainLines": ["That one looks nice, eh?"],
+          "repeatLines": [
+            ["That one looks nice, eh?"],
+            ["If ya don't mind..."],
+            ["That's not half bad, eh?"],
+            ["How aboot ya choose me?"]
+          ]
+        },
+        {
+          "eventName": "OnSelectedForCardRemove",
+          "mainLines": ["The stuff of nightmares!"],
+          "repeatLines": [
+            ["The stuff of nightmares!"],
+            ["Hold on, wait!"]
+          ]
         }
     ]
 }

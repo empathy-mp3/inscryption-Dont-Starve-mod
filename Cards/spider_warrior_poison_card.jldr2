@@ -2,7 +2,7 @@
     "name": "spider_warrior_poison",
     "modPrefix": "dontstarve",
     "displayedName": "Spider Warrior",
-    "description": "perish",
+    "description": "Beware of its sickly venom.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

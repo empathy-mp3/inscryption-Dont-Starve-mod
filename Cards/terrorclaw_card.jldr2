@@ -2,7 +2,7 @@
     "name": "terrorclaw",
     "modPrefix": "dontstarve",
     "displayedName": "Terrorclaw",
-    "description": "perish",
+    "description": "It latches onto its enemies, and it doesn't let them go.",
     "metaCategories": [ "TraderOffer", "ChoiceNode"],
     "cardComplexity": "Simple",
     "temple": "Nature",

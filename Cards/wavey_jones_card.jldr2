@@ -2,7 +2,7 @@
     "name": "wavey_jones",
     "modPrefix": "dontstarve",
     "displayedName": "Wavey Jones",
-    "description": "perish",
+    "description": "It drags its enemies down into the abyss.",
     "metaCategories": [ "TraderOffer", "ChoiceNode"],
     "cardComplexity": "Simple",
     "temple": "Nature",

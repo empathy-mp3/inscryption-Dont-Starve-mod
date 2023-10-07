@@ -2,7 +2,7 @@
     "name": "spider_monkey",
     "modPrefix": "dontstarve",
     "displayedName": "Spider Monkey",
-    "description": "perish",
+    "description": "Two types of terrifying.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

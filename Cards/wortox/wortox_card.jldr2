@@ -7,10 +7,11 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
-    "baseHealth": 3,
+    "baseHealth": 4,
     "bonesCost": 4,
-    "abilities": ["GainAttackOnKill"],
-    "specialAbilities": ["empathymp3.inscryption.dontstarve.Soul Hop"],
+    "abilities": ["GainAttackOnKill", "WhackAMole"],
+    "specialAbilities": ["empathymp3.inscryption.dontstarve.Soul Fueled"],
     "appearanceBehaviour": [ "RareCardBackground" ],
-    "texture": "wortox.png"
+    "texture": "wortox.png",
+    "onePerDeck": true
   }

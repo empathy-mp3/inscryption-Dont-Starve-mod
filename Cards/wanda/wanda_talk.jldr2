@@ -41,10 +41,10 @@
         {
             "eventName": "OnSacrificed",
             "mainLines": [
-                "My time...[w:0.2] Cut short..."
+                "My life...[w:0.2] Cut short..."
             ],
             "repeatLines": [
-                ["My time...[w:0.2] Cut short..."],
+                ["My life...[w:0.2] Cut short..."],
                 ["It was only a matter of time..."],
                 ["No, wait! I need more time!!"]
             ]

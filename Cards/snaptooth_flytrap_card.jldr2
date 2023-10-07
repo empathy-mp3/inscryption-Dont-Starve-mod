@@ -6,8 +6,8 @@
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
-    "baseAttack": 6,
-    "baseHealth": 6,
+    "baseAttack": 4,
+    "baseHealth": 3,
     "bloodCost": 4,
     "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "texture": "snaptooth_flytrap.png"

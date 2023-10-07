@@ -9,6 +9,7 @@
     "baseAttack": 1,
     "baseHealth": 1,
     "gemsCost": ["Orange"],
+    "energyCost": 3,
     "abilities": ["OpponentBones"],
     "appearanceBehaviour": [ "DefaultEmission" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Lunar"],

@@ -10,5 +10,6 @@
     "baseHealth": 1,
     "energyCost": 2,
     "abilities": ["CellTriStrike"],
-    "appearanceBehaviour": [ "RareCardBackground" ]
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "onePerDeck": true
   }

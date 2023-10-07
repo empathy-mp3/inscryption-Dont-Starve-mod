@@ -2,7 +2,7 @@
     "name": "spitter",
     "modPrefix": "dontstarve",
     "displayedName": "Spitter",
-    "description": "perish",
+    "description": "It's learned to spit webs at its enemies.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",

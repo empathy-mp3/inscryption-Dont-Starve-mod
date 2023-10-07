@@ -10,7 +10,7 @@
     "bonesCost": 2,
     "gemsCost": ["Blue"],
     "specialStatIcon": "Ants",
-    "abilities": ["BuffGems"],
+    "abilities": ["BuffGems", "BuffEnemy"],
     "tribes": ["Insect"],
     "specialAbilities": ["Ant"],
     "traits": ["Ant"],

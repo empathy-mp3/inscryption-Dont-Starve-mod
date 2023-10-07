@@ -12,5 +12,6 @@
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Full Moon"],
     "appearanceBehaviour": [ "RareCardBackground" ],
     "texture": "woodie.png",
-    "pixelTexture": "px_woodie.png"
+    "pixelTexture": "px_woodie.png",
+    "onePerDeck": true
 }

@@ -7,7 +7,7 @@
     "temple": "Nature",
     "baseAttack": 3,
     "baseHealth": 1,
-    "energyCost": 2,
+    "energyCost": 4,
     "abilities": ["Brittle"],
     "appearanceBehaviour": [ "RareCardBackground" ],
     "texture": "wanda.png"

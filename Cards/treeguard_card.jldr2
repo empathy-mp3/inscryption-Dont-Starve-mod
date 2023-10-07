@@ -2,7 +2,7 @@
     "name": "treeguard",
     "modPrefix": "dontstarve",
     "displayedName": "Treeguard",
-    "description": "The trees are angered, and their fury is not to be underestimated.",
+    "description": "An ancient woodland being. It has friends in the trees.",
     "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",

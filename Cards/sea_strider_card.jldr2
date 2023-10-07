@@ -9,7 +9,7 @@
     "baseHealth": 1,
     "gemsCost": ["Green"],
     "specialStatIcon": "Ants",
-    "abilities": ["Submerge"],
+    "abilities": ["Submerge", "BuffEnemy"],
     "specialAbilities": ["Ant"],
     "tribes": ["Insect"],
     "traits": ["Ant"],

@@ -11,5 +11,6 @@
   "energyCost": 2,
   "appearanceBehaviour": [ "RareCardBackground" ],
   "abilities": ["Sentry"],
-  "pixelTexture": "px_wilson.png"
+  "pixelTexture": "px_wilson.png",
+  "onePerDeck": true
 }

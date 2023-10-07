@@ -2,7 +2,7 @@
     "name": "swimming_horror",
     "modPrefix": "dontstarve",
     "displayedName": "Swimming Horror",
-    "description": "Be wary of this, or it may drag your ship down.",
+    "description": "Be wary of it, or it may drag your ship down.",
     "metaCategories": [ "TraderOffer", "ChoiceNode"],
     "cardComplexity": "Simple",
     "temple": "Nature",

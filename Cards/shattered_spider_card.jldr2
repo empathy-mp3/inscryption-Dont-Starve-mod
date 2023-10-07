@@ -6,11 +6,12 @@
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
-    "baseHealth": 1,
+    "baseHealth": 2,
     "gemsCost": ["Orange"],
     "specialStatIcon": "Ants",
     "tribes": ["Insect", "empathymp3.inscryption.dontstarve.Lunar"],
     "traits": ["Ant"],
+    "abilities": ["BuffEnemy"],
     "specialAbilities": ["Ant"],
     "emissionTexture": "shattered_spider_e.png",
     "texture": "shattered_spider.png"

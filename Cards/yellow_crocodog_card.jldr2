@@ -2,7 +2,7 @@
     "name": "yellow_crocodog",
     "modPrefix": "dontstarve",
     "displayedName": "Yellow Crocodog",
-    "description": "The Yellow Crocodog. Its yellow color warns of its deathly touch.",
+    "description": "Its yellow color warns of its deathly touch.",
     "metaCategories": ["ChoiceNode", "TraderOffer"],
     "cardComplexity": "Simple",
     "temple": "Nature",
