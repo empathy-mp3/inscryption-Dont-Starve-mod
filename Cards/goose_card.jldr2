@@ -12,6 +12,7 @@
     "abilities": ["GainGemOrange"],
     "specialAbilities": ["empathymp3.inscryption.dontstarve.Mosling Spawn"],
     "tribes": ["Hooved", "Bird"],
+    "traits": ["Gem"],
     "appearanceBehaviour": ["RareCardBackground"],
     "texture": "goose.png",
     "emissionTexture": "goose_e.png"

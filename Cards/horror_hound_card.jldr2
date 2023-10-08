@@ -11,5 +11,6 @@
     "bonesCost": 5,
     "tribes": ["Canine", "empathymp3.inscryption.dontstarve.Lunar"],
     "emissionTexture": "horror_hound_e.png",
-    "texture": "horror_hound.png"
+    "texture": "horror_hound.png",
+    "pixelTexture": "px_horror_hound.png"
 }

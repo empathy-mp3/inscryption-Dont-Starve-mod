@@ -1,0 +1,34 @@
+{
+    "name": "Bifurcated Strike 2",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "description": "A card bearing this sigil will gain Bifurcated Strike after 2 turns on the board.",
+    "texture": "split_strike_2.png",
+    "powerLevel": 2,
+    "priority": 7,
+    "opponentUsable": false,
+    "canStack": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnStartOfTurn"
+            },
+            "buffCards": [
+                {
+                    "addAbilities": [
+                        {
+                            "name": "empathymp3.inscryption.dontstarve.Bifurcated Strike 1",
+                            "infused": "true"
+                        }
+                    ]
+                },
+                {
+                    "removeAbilities": [
+                        {
+                            "name": "empathymp3.inscryption.dontstarve.Bifurcated Strike 2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

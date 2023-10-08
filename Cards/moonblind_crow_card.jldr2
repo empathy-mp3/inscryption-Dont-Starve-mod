@@ -12,5 +12,6 @@
     "abilities": ["Flying"],
     "tribes": ["Bird", "empathymp3.inscryption.dontstarve.Lunar"],
     "emissionTexture": "moonblind_crow_e.png",
+    "pixelTexture": "px_moonblind_crow.png",
     "texture": "moonblind_crow.png"
 }

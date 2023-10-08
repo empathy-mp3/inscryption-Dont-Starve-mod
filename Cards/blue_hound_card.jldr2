@@ -14,5 +14,6 @@
     "tribes": ["Canine"],
     "iceCubeName": "dontstarve_horror_hound",
     "emissionTexture": "blue_hound_e.png",
+    "pixelTexture": "px_blue_hound.png",
     "texture": "blue_hound.png"
 }

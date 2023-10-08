@@ -2,7 +2,7 @@
     "name": "wanda_elderly",
     "modPrefix": "dontstarve",
     "displayedName": "Wanda",
-    "description": "perish",
+    "description": "A survivor. Time will catch up to her soon enough.",
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 3,
@@ -10,5 +10,6 @@
     "energyCost": 4,
     "abilities": ["Brittle"],
     "appearanceBehaviour": [ "RareCardBackground" ],
-    "texture": "wanda.png"
+    "texture": "wanda.png",
+    "pixelTexture": "px_wanda.png"
   }

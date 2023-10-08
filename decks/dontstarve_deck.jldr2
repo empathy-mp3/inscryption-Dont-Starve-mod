@@ -6,14 +6,29 @@
             "cards": [ "dontstarve_wilson", "dontstarve_crawling_horror", "dontstarve_terrorbeak" ]
         },
         {
+            "name": "wendy_deck",
+            "iconTexture": "wendy_deck.png",
+            "cards": ["dontstarve_wendy", "dontstarve_pipspook", "dontstarve_gestalt"]
+        },
+        {
+            "name": "wx_78_deck",
+            "iconTexture": "wx_78_deck.png",
+            "cards": ["dontstarve_wx_78", "dontstarve_clockwork_bishop", "dontstarve_moonblind_crow"]
+        },
+        {
             "name": "woodie_deck",
             "iconTexture": "woodie_deck.png",
             "cards": ["dontstarve_woodie", "dontstarve_poison_birchnut_tree", "dontstarve_piko"]
         },
         {
-            "name": "wendy_deck",
-            "iconTexture": "deck3.png",
-            "cards": ["dontstarve_wendy", "dontstarve_pipspook", "dontstarve_gestalt"]
+            "name": "wortox_deck",
+            "iconTexture": "wortox_deck.png",
+            "cards": ["dontstarve_wortox", "dontstarve_krampus", "dontstarve_blue_hound"]
+        },
+        {
+            "name": "wanda_deck",
+            "iconTexture": "wanda_deck.png",
+            "cards": ["dontstarve_wanda_young", "dontstarve_clockwork_rook", "dontstarve_horror_hound"]
         }
     ]
 }

@@ -3,7 +3,7 @@
     "GUID": "empathymp3.inscryption.dontstarve",
     "description": "When a card bearing this sigil is played, a spider is created in your hand.",
     "texture": "spiderspawner.png",
-    "powerLevel": 1,
+    "powerLevel": 3,
     "priority": 4,
     "opponentUsable": false,
     "canStack": true,

@@ -7,7 +7,7 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseHealth": 3,
-    "bonesCost": 2,
+    "bonesCost": 1,
     "energyCost": 3,
     "specialStatIcon": "Ants",
     "tribes": ["Insect"],

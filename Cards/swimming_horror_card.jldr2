@@ -9,7 +9,7 @@
     "baseAttack": 2,
     "baseHealth": 1,
     "gemsCost": ["Orange"],
-    "energyCost": 2,
+    "energyCost": 3,
     "abilities": [ "CellBuffSelf", "GemDependant" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
     "texture": "swimming_horror.png"

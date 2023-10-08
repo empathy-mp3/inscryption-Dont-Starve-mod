@@ -2,7 +2,7 @@
     "name": "wanda_young",
     "modPrefix": "dontstarve",
     "displayedName": "Wanda",
-    "description": "perish",
+    "description": "A survivor. Time will catch up to her soon enough.",
     "metaCategories": [ "Rare" ],
     "cardComplexity": "Simple",
     "temple": "Nature",
@@ -13,5 +13,6 @@
     "evolveIntoName": "dontstarve_wanda_middle_aged",
     "appearanceBehaviour": [ "RareCardBackground" ],
     "texture": "wanda.png",
+    "pixelTexture": "px_wanda.png",
     "onePerDeck": true
   }
