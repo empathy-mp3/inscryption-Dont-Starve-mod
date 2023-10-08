@@ -8,7 +8,7 @@
     "temple": "Nature",
     "baseAttack": 1,
     "baseHealth": 1,
-    "energyCost": 3,
+    "energyCost": 2,
     "abilities": ["CellTriStrike"],
     "appearanceBehaviour": [ "RareCardBackground" ],
     "pixelTexture": "px_wx_78.png",

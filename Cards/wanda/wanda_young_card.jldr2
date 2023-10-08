@@ -8,7 +8,7 @@
     "temple": "Nature",
     "baseAttack": 1,
     "baseHealth": 3,
-    "energyCost": 4,
+    "energyCost": 3,
     "abilities": ["Evolve"],
     "evolveIntoName": "dontstarve_wanda_middle_aged",
     "appearanceBehaviour": [ "RareCardBackground" ],

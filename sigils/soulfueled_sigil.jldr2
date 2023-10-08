@@ -10,7 +10,8 @@
             },
             "buffCards": [
                 {
-                    "heal": "2"
+                    "addStats": "0/2",
+                    "heal": "1"
                 }
             ]
         }

@@ -1,6 +1,6 @@
 {
-    "name": "krampus",
-    "modPrefix": "dontstarve",
+    "name": "PackRat",
+    "modPrefix": "Base",
     "displayedName": "Krampus",
     "description": "Someone's been naughty.",
     "cardComplexity": "Simple",
