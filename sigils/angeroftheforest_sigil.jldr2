@@ -10,7 +10,7 @@
             },
             "transformCards": [
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(0, false, 'Card'), Trait('Terrain')))",
+                    "runOnCondition": "(if(isNull(GetSlot(0, false, 'Card')), false, HasTrait(GetSlot(0, false, 'Card'), Trait('Terrain'))))",
                     "targetCard": "(GetSlot(0, false, 'Card'))",
                     "card": {
                         "retainMods": "true",
@@ -18,7 +18,7 @@
                     }
                 },
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(1, false, 'Card'), Trait('Terrain')))",
+                    "runOnCondition": "(if(isNull(GetSlot(1, false, 'Card')), false, HasTrait(GetSlot(1, false, 'Card'), Trait('Terrain'))))",
                     "targetCard": "(GetSlot(1, false, 'Card'))",
                     "card": {
                         "retainMods": "true",
@@ -26,7 +26,7 @@
                     }
                 },
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(2, false, 'Card'), Trait('Terrain')))",
+                    "runOnCondition": "(if(isNull(GetSlot(2, false, 'Card')), false, HasTrait(GetSlot(2, false, 'Card'), Trait('Terrain'))))",
                     "targetCard": "(GetSlot(2, false, 'Card'))",
                     "card": {
                         "retainMods": "true",
@@ -34,7 +34,7 @@
                     }
                 },
                 {   
-                    "runOnCondition": "(HasTrait(GetSlot(3, false, 'Card'), Trait('Terrain')))",
+                    "runOnCondition": "(if(isNull(GetSlot(3, false, 'Card')), false, HasTrait(GetSlot(3, false, 'Card'), Trait('Terrain'))))",
                     "targetCard": "(GetSlot(3, false, 'Card'))",
                     "card": {
                         "retainMods": "true",

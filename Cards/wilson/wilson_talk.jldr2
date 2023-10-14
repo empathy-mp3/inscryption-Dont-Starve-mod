@@ -46,9 +46,9 @@
         "mainLines": ["Ow!"],
         "repeatLines": [
           ["Youch!"],
-          ["[c:bR]OW!"],
-          ["[c:R]Ow![w:0.2] Quit it!"],
-          ["[c:bR]Agh![w:0.2] Stay away!"]
+          ["OW!"],
+          ["Ow![w:0.2] Quit it!"],
+          ["Agh![w:0.2] Stay away!"]
         ]
       },
       {
@@ -98,9 +98,9 @@
       },
       {
         "eventName": "OnSelectedForCardRemove",
-        "mainLines": ["[c:R]NO![w:0.2]STOP!"],
+        "mainLines": ["NO![w:0.2]STOP!"],
         "repeatLines": [
-          ["[c:R]NO![w:0.2]STOP!"]
+          ["NO![w:0.2]STOP!"]
         ]
       }
     ]

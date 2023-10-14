@@ -8,7 +8,7 @@
     "temple": "Nature",
     "baseHealth": 1,
     "bloodCost": 1,
-    "energyCost": 3,
+    "energyCost": 2,
     "specialStatIcon": "Ants",
     "abilities": ["Sniper"],
     "tribes": ["Insect"],
