@@ -33,3 +33,9 @@ v1.0.0:
   - 1 sigil, and many hidden abilities (rare cards)
   - 6 starter decks, 1 for each talking card
   - A gem deer side deck
+
+v1.0.1:
+- Fixed treeguard trying to transform air (and freezing the game)
+- Added an optional side deck that makes the mod even harder
+- Made it so that you can no longer one shot giant cards
+- Other balancing

@@ -1,0 +1,28 @@
+{
+    "name": "e_blue_gem_deer",
+    "modPrefix": "dontstarve",
+    "displayedName": "Blue Gem Deer",
+    "description": "The poor creature has been forcibly fused to a magic gem.",
+    "metaCategories": [ "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "energyCost": 1,
+    "extensionProperties": {
+        "CSDIsSideDeck": "true",
+        "CSDSideDeckType": "Configurable",
+        "CSDNumCards": "10",
+        "CSDNumOptions": "3",
+        "CSDOption1": "dontstarve_e_blue_gem_deer",
+        "CSDOption2": "dontstarve_e_green_gem_deer",
+        "CSDOption3": "dontstarve_e_orange_gem_deer"
+      },
+    "abilities": [ "Strafe", "GainGemBlue", "ConduitNull" ],
+    "appearanceBehaviour": [ "DefaultEmission" ],
+    "traits": ["Gem"],
+    "tailName": "Tail_Furry",
+    "emissionTexture": "blue_gem_deer_e.png",
+    "texture": "blue_gem_deer.png",
+    "pixelTexture": "px_blue_gem_deer.png"
+  }

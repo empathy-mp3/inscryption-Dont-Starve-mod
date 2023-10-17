@@ -10,5 +10,6 @@
     "baseHealth": 3,
     "bloodCost": 4,
     "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
+    "traits": ["Terrain"],
     "texture": "snaptooth_flytrap.png"
 }

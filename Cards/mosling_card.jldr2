@@ -1,7 +1,7 @@
 {
-    "name": "mosling",
+    "name": "mossling",
     "modPrefix": "dontstarve",
-    "displayedName": "Mosling",
+    "displayedName": "Mossling",
     "description": "It'll grow up to be one fine Canadian.",
     "cardComplexity": "Simple",
     "temple": "Nature",

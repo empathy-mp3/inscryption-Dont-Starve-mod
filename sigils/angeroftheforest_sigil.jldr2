@@ -10,32 +10,32 @@
             },
             "transformCards": [
                 {   
-                    "runOnCondition": "(if(isNull(GetSlot(0, false, 'Card')), false, HasTrait(GetSlot(0, false, 'Card'), Trait('Terrain'))))",
-                    "targetCard": "(GetSlot(0, false, 'Card'))",
+                    "runOnCondition": "(GetSlot(0, [BaseCard.OpponentCard], 'Card') != null && HasTrait(GetSlot(0, [BaseCard.OpponentCard], 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(0, [BaseCard.OpponentCard], 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"
                     }
                 },
                 {   
-                    "runOnCondition": "(if(isNull(GetSlot(1, false, 'Card')), false, HasTrait(GetSlot(1, false, 'Card'), Trait('Terrain'))))",
-                    "targetCard": "(GetSlot(1, false, 'Card'))",
+                    "runOnCondition": "(GetSlot(1, [BaseCard.OpponentCard], 'Card') != null && HasTrait(GetSlot(1, [BaseCard.OpponentCard], 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(1, [BaseCard.OpponentCard], 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"
                     }
                 },
                 {   
-                    "runOnCondition": "(if(isNull(GetSlot(2, false, 'Card')), false, HasTrait(GetSlot(2, false, 'Card'), Trait('Terrain'))))",
-                    "targetCard": "(GetSlot(2, false, 'Card'))",
+                    "runOnCondition": "(GetSlot(2, [BaseCard.OpponentCard], 'Card') != null && HasTrait(GetSlot(2, [BaseCard.OpponentCard], 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(2, [BaseCard.OpponentCard], 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"
                     }
                 },
                 {   
-                    "runOnCondition": "(if(isNull(GetSlot(3, false, 'Card')), false, HasTrait(GetSlot(3, false, 'Card'), Trait('Terrain'))))",
-                    "targetCard": "(GetSlot(3, false, 'Card'))",
+                    "runOnCondition": "(GetSlot(3, [BaseCard.OpponentCard], 'Card') != null && HasTrait(GetSlot(3, [BaseCard.OpponentCard], 'Card'), Trait('Terrain')))",
+                    "targetCard": "(GetSlot(3, [BaseCard.OpponentCard], 'Card'))",
                     "card": {
                         "retainMods": "true",
                         "name": "dontstarve_lesser_treeguard"

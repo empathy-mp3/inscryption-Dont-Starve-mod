@@ -6,7 +6,7 @@
     "dependencies": [
         "BepInEx-BepInExPack_Inscryption-5.4.1902",
         "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
-        "API_dev-API-2.17.0",
+        "API_dev-API-2.18.1",
         "MADH95Mods-JSONCardLoader-2.4.5",
         "Infiniscryption-Pack_Management_API-1.1.4",
         "TVFLabs-CustomSideDeck-1.2.0"

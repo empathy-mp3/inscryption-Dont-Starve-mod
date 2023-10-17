@@ -10,6 +10,7 @@
     "baseHealth": 2,
     "bloodCost": 3,
     "abilities": ["Evolve", "StrafeSwap"],
+    "traits": ["Terrain"],
     "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "evolveIntoName": "dontstarve_snaptooth_flytrap",
     "texture": "snaptooth_seedling3.png"

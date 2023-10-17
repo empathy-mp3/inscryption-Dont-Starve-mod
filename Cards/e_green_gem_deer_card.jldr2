@@ -1,0 +1,18 @@
+{
+    "name": "e_green_gem_deer",
+    "modPrefix": "dontstarve",
+    "displayedName": "Green Gem Deer",
+    "description": "The poor creature has been forcibly fused to a magic gem.",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "energyCost": 1,
+    "abilities": [ "Strafe", "GainGemGreen", "ConduitNull" ],
+    "appearanceBehaviour": [ "DefaultEmission" ],
+    "traits": ["Gem"],
+    "tailName": "Tail_Furry",
+    "emissionTexture": "green_gem_deer_e.png",
+    "texture": "green_gem_deer.png",
+    "pixelTexture": "px_green_gem_deer.png"
+  }

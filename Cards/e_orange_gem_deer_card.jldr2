@@ -1,0 +1,19 @@
+{
+    "name": "e_orange_gem_deer",
+    "modPrefix": "dontstarve",
+    "displayedName": "Orange Gem Deer",
+    "description": "The poor creature has been forcibly fused to a magic gem.",
+    "metaCategories": [ "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "energyCost": 1,
+    "abilities": [ "Strafe", "GainGemOrange", "ConduitNull" ],
+    "appearanceBehaviour": [ "DefaultEmission" ],
+    "traits": ["Gem"],
+    "tailName": "Tail_Furry",
+    "emissionTexture": "orange_gem_deer_e.png",
+    "texture": "orange_gem_deer.png",
+    "pixelTexture": "px_orange_gem_deer.png"
+  }
