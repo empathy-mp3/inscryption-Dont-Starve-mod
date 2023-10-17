@@ -1,0 +1,16 @@
+{
+    "name": "wes",
+    "modPrefix": "dontstarve",
+    "displayedName": "Wes",
+    "description": "A survivor. Don't expect him to speak... or be useful.",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "energyCost": 4,
+    "bonesCost": 2,
+    "gemsCost": ["Orange"],
+    "appearanceBehaviour": [ "RareCardBackground" ],
+    "onePerDeck": true
+  }

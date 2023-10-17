@@ -1,0 +1,35 @@
+{
+    "cardName": "dontstarve_wes",
+    "faceSprite": "wes_face.png",
+    "eyeSprites": {
+      "open": "wes_eyes_open.png",
+      "closed": "wes_eyes_closed.png"
+    },
+    "mouthSprites": {
+      "open": "wes_mouth.png",
+      "closed": "wes_mouth.png"
+    },
+    "faceInfo": {
+      "voiceId": "female1_voice",
+      "blinkRate": 3,
+      "voiceSoundPitch": 1
+    },
+    "emotions": [
+      {
+        "emotion": "Anger",
+        "eyeSprites": {
+          "open": "wes_eyes_open.png",
+          "closed": "wes_eyes_closed.png"
+        }
+      }
+    ],
+      "dialogueEvents": [
+        {
+          "eventName": "OnDiscoveredInExploration",
+          "mainLines": ["you shouldnt see this dialogue"],
+          "repeatLines": [
+            ["you shouldnt see this dialogue"]
+          ]
+        }
+      ]
+  }

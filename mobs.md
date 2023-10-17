@@ -17,6 +17,7 @@ fin=finished
 | wx-78                        | tribeless            | tech           | yes  | fin  |
 | wickerbottom                 | tribeless            | wizard         | yes  |      |
 | woodie                       | tribeless            | nature         | yes  | fin  |
+| wes                          | tribeless            | all            | yes  | fin  |
 | maxwell                      | shadow               | wizard         | yes  |      |
 | wagstaff                     | tribeless            | tech           | yes  |      |
 | wigfrid                      | tribeless            | death          | yes  |      |
