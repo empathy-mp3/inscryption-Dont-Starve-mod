@@ -11,6 +11,7 @@
     "bloodCost": 1,
     "abilities": ["Evolve", "Strafe"],
     "traits": ["Terrain"],
+    "appearanceBehaviour": ["TerrainBackground"],
     "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "evolveIntoName": "dontstarve_snaptooth_seedling2",
     "texture": "snaptooth_seedling1.png"

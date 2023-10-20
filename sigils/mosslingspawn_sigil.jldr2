@@ -1,5 +1,5 @@
 {
-    "name": "Mosling Spawn",
+    "name": "Mossling Spawn",
     "GUID": "empathymp3.inscryption.dontstarve",
     "isSpecialAbility": true,
     "abilityBehaviour": [
@@ -10,27 +10,27 @@
             "drawCards": [
                 {
                     "card": {
-                        "name": "dontstarve_mosling"
+                        "name": "dontstarve_mossling"
                     }
                 },
                 {
                     "card": {
-                        "name": "dontstarve_mosling"
+                        "name": "dontstarve_mossling"
                     }
                 },
                 {
                     "card": {
-                        "name": "dontstarve_mosling"
+                        "name": "dontstarve_mossling"
                     }
                 },
                 {
                     "card": {
-                        "name": "dontstarve_mosling"
+                        "name": "dontstarve_mossling"
                     }
                 },
                 {
                     "card": {
-                        "name": "dontstarve_mosling"
+                        "name": "dontstarve_mossling"
                     }
                 }
             ]

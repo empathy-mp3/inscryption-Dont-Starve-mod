@@ -8,8 +8,6 @@ Use of the Gem Deer side deck is highly recommended for the balance of the mod!
 
 Made entirely by me, empathy.mp3 (code, art, etc.)
 
-By the way, I fully intend to add more content; I just want to get this much of the mod out for now.
-
 # Installation
 
 If you're installing the mod manually:
@@ -39,3 +37,7 @@ v1.0.1:
 - Added an optional side deck that makes the mod even harder
 - Made it so that you can no longer one shot giant cards
 - Other balancing
+
+v1.1.0:
+- Added wes and his own starter deck (it's much harder)
+- nerfed some cards

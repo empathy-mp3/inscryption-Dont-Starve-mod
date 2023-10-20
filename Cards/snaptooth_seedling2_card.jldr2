@@ -12,6 +12,7 @@
     "abilities": ["Evolve", "StrafePush"],
     "traits": ["Terrain"],
     "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
+    "appearanceBehaviour": ["TerrainBackground"],
     "evolveIntoName": "dontstarve_snaptooth_seedling3",
     "texture": "snaptooth_seedling2.png"
 }

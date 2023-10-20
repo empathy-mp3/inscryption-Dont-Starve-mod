@@ -9,8 +9,10 @@
     "baseAttack": 1,
     "baseHealth": 1,
     "energyCost": 4,
-    "bonesCost": 2,
+    "bloodCost": 1,
     "gemsCost": ["Orange"],
-    "appearanceBehaviour": [ "RareCardBackground" ],
+    "appearanceBehaviour": [ "GoldEmission" ],
+    "traits": ["Terrain"],
+    "pixelTexture": "px_wes.png",
     "onePerDeck": true
   }

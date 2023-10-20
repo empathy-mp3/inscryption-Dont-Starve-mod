@@ -10,6 +10,6 @@
     "bonesCost": 3,
     "gemsCost": ["Orange"],
     "tribes": ["Hooved", "Bird"],
-    "texture": "mosling.png",
-    "emissionTexture": "mosling_e.png"
+    "texture": "mossling.png",
+    "emissionTexture": "mossling_e.png"
   }

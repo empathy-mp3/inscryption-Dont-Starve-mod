@@ -21,9 +21,14 @@
             "cards": ["dontstarve_woodie", "dontstarve_poison_birchnut_tree", "dontstarve_piko"]
         },
         {
+            "name": "wes_deck",
+            "iconTexture": "wes_deck.png",
+            "cards": ["dontstarve_wes", "dontstarve_doydoy", "dontstarve_teen_doydoy", "dontstarve_baby_doydoy"]
+        },
+        {
             "name": "wortox_deck",
             "iconTexture": "wortox_deck.png",
-            "cards": ["dontstarve_wortox", "dontstarve_krampus", "dontstarve_blue_hound"]
+            "cards": ["dontstarve_wortox", "PackRat", "dontstarve_blue_hound"]
         },
         {
             "name": "wanda_deck",

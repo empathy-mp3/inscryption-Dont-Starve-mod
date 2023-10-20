@@ -10,7 +10,6 @@
     "baseHealth": 8,
     "bloodCost": 2,
     "tribes": ["Reptile", "empathymp3.inscryption.dontstarve.Lunar", "empathymp3.inscryption.dontstarve.Plant"],
-    "appearanceBehaviour": ["DefaultEmission"],
     "emissionTexture": "saladmander_e.png",
     "texture": "saladmander.png"
 }

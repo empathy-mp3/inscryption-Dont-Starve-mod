@@ -11,5 +11,6 @@
     "bloodCost": 4,
     "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
     "traits": ["Terrain"],
+    "appearanceBehaviour": ["TerrainBackground"],
     "texture": "snaptooth_flytrap.png"
 }
