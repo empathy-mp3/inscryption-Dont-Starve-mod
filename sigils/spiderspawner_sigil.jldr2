@@ -15,7 +15,7 @@
             "drawCards": [
                 {
                     "card": {
-                        "name": "(Random('dontstarve_spider', 'dontstarve_spider_warrior', 'dontstarve_warrior_poison', 'dontstarve_spitter', 'dontstarve_spider_monkey', 'dontstarve_shattered_spider', 'dontstarve_nurse_spider', 'dontstarve_cave_spider', 'dontstarve_dangling_depth_dweller', 'dontstarve_sea_strider'))"
+                        "name": "(Random('dontstarve_spider', 'dontstarve_spider_warrior', 'dontstarve_spider_warrior_poison', 'dontstarve_spitter', 'dontstarve_spider_monkey', 'dontstarve_shattered_spider', 'dontstarve_nurse_spider', 'dontstarve_cave_spider', 'dontstarve_dangling_depth_dweller', 'dontstarve_sea_strider'))"
                     }
                 }
             ]

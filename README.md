@@ -41,3 +41,7 @@ v1.0.1:
 v1.1.0:
 - Added wes and his own starter deck (it's much harder)
 - nerfed some cards
+
+v1.1.1:
+- Fixed 2 sigils that don't work exactly 10% of the time
+- balanced a few gem cards

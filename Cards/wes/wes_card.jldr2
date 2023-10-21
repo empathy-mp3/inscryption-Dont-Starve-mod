@@ -10,7 +10,7 @@
     "baseHealth": 1,
     "energyCost": 4,
     "bloodCost": 1,
-    "gemsCost": ["Orange"],
+    "gemsCost": ["Green"],
     "appearanceBehaviour": [ "GoldEmission" ],
     "traits": ["Terrain"],
     "pixelTexture": "px_wes.png",

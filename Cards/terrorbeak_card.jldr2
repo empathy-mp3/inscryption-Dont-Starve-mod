@@ -9,6 +9,7 @@
     "baseAttack": 2,
     "baseHealth": 1,
     "gemsCost": ["Blue"],
+    "energyCost": 1,
     "abilities": [ "StrafePush", "GemDependant" ],
     "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
     "evolveIntoName": "donstarve_nightmarebeak",
