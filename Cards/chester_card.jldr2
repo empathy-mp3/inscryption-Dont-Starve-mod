@@ -1,0 +1,14 @@
+{
+    "name": "chester",
+    "modPrefix": "dontstarve",
+    "displayedName": "Chester",
+    "description": "A mobile storage chest. He comes with useful tools.",
+    "metaCategories": [ "TraderOffer", "ChoiceNode" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "energyCost": 3,
+    "abilities": ["empathymp3.inscryption.dontstarve.Spare Tools"],
+    "texture": "chester.png"
+  }

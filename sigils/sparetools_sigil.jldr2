@@ -1,0 +1,24 @@
+{
+    "name": "Spare Tools",
+    "GUID": "empathymp3.inscryption.dontstarve",
+    "description": "When a card bearing this sigil perishes, a tool card is created in your hand.",
+    "texture": "sparetools.png",
+    "powerLevel": 3,
+    "priority": 2,
+    "opponentUsable": true,
+    "canStack": true,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnPreDeath"
+            },
+            "drawCards": [
+                {
+                    "card": {
+                        "name": "(Random('dontstarve_spider', 'dontstarve_sea_strider'))"
+                    }
+                }
+            ]
+        }
+    ]
+}
