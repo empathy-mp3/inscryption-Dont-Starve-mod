@@ -1,0 +1,23 @@
+{
+    "name": "ro_bin",
+    "modPrefix": "dontstarve",
+    "displayedName": "Ro Bin",
+    "description": "A bird with remarkable storage capacity.",
+    "metaCategories": [
+        "TraderOffer",
+        "ChoiceNode"
+    ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bonesCost": 5,
+    "abilities": [
+        "empathymp3.inscryption.dontstarve.Spare Tools",
+        "Flying"
+    ],
+    "tribes": [
+        "Bird"
+    ],
+    "texture": "ro_bin.png"
+}

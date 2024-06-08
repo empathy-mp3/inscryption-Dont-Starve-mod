@@ -1,0 +1,21 @@
+{
+    "name": "hutch",
+    "modPrefix": "dontstarve",
+    "displayedName": "Hutch",
+    "description": "A chest-like creature that evolved to live underground.",
+    "metaCategories": [
+        "TraderOffer",
+        "ChoiceNode"
+    ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 4,
+    "bloodCost": 2,
+    "abilities": [
+        "empathymp3.inscryption.dontstarve.Spare Tools",
+        "WhackAMole"
+    ],
+    "texture": "hutch.png",
+    "emissionTexture": "hutch_e.png"
+}

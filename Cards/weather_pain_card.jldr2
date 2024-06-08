@@ -1,0 +1,15 @@
+{
+    "name": "weather_pain",
+    "modPrefix": "dontstarve",
+    "displayedName": "Weather Pain",
+    "description": "you're not supposed to see this",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 3,
+    "bloodCost": 2,
+    "abilities": [
+        "AllStrike"
+    ],
+    "texture": "weather_pain.png"
+}

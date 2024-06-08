@@ -15,7 +15,7 @@
             "drawCards": [
                 {
                     "card": {
-                        "name": "(Random('dontstarve_spider', 'dontstarve_sea_strider'))"
+                        "name": "(Random('dontstarve_dark_sword', 'dontstarve_poison_spear', 'dontstarve_weather_pain'))"
                     }
                 }
             ]
