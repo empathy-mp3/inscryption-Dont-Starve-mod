@@ -1,0 +1,20 @@
+{
+    "name": "RingWorm",
+    "modPrefix": "Base",
+    "displayedName": "Doydoy",
+    "description": "This sad creature has no chance of survival.",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "tribes": [
+        "Bird"
+    ],
+    "abilities": [
+        "Brittle"
+    ],
+    "bloodCost": 0,
+    "texture": "doydoy.png",
+    "pixelTexture": "px_doydoy.png",
+    "emissionTexture": "doydoy_e.png"
+}

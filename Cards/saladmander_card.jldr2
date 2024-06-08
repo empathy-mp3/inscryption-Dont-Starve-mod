@@ -2,14 +2,21 @@
     "name": "saladmander",
     "modPrefix": "dontstarve",
     "displayedName": "Saladmander",
-    "description": "Be it vegetable or animal...",
-    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "description": "Be it vegetable or animal?",
+    "metaCategories": [
+        "ChoiceNode",
+        "TraderOffer"
+    ],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
     "baseHealth": 8,
     "bloodCost": 2,
-    "tribes": ["Reptile", "empathymp3.inscryption.dontstarve.Lunar", "empathymp3.inscryption.dontstarve.Plant"],
+    "tribes": [
+        "Reptile",
+        "empathymp3.inscryption.dontstarve.Lunar",
+        "empathymp3.inscryption.dontstarve.Plant"
+    ],
     "emissionTexture": "saladmander_e.png",
     "texture": "saladmander.png"
 }

@@ -1,0 +1,22 @@
+{
+    "name": "Opossum",
+    "modPrefix": "Base",
+    "displayedName": "Birchnutter",
+    "description": "A loyal Birchnutter, a tiny warrior of the forest.",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "bonesCost": 2,
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground"
+    ],
+    "tribes": [
+        "empathymp3.inscryption.dontstarve.Plant"
+    ],
+    "texture": "birchnutter.png",
+    "pixelTexture": "px_birchnutter.png"
+}

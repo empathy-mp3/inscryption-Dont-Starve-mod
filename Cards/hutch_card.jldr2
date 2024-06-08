@@ -16,6 +16,9 @@
         "empathymp3.inscryption.dontstarve.Spare Tools",
         "WhackAMole"
     ],
+    "tribes": [
+        "Reptile"
+    ],
     "texture": "hutch.png",
     "emissionTexture": "hutch_e.png"
 }

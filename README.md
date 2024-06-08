@@ -1,4 +1,4 @@
-# IKEA
+# Don't Starve Inscryption Mod
 
 This mod adds 64 cards to Act 1, Act 2, and Kaycee's Mod, based on the various mobs from Don't Starve, its DLC, and Don't Starve Together.
 
@@ -45,3 +45,8 @@ v1.1.0:
 v1.1.1:
 - Fixed 2 sigils that don't work exactly 10% of the time
 - balanced a few gem cards
+
+v1.2.0:
+- Added 4 cards, 3 of which use a new sigil
+- No more opossums and ring worms!
+- Finally changed the top heading of the README lol

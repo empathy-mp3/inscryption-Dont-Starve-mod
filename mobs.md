@@ -105,7 +105,7 @@ fin=finished
 | antlion                      | bug                  | nature         | yes  |      |
 | grumble bee                  | bug                  | nature         | no   |      |
 | bee queen                    | bug                  | nature         | yes  |      |
-| lavae                        | bug                  | nature         | no   |      |
+| lavae                        | bug                  | nature         | no   | fin  |
 | broodling                    | bug, reptile         | nature         | no   |      |
 | fruit fly                    | bug                  | nature         | no   |      |
 | friendly fruit fly           | bug                  | nature         | no   |      |
@@ -131,7 +131,7 @@ fin=finished
 | koalefant                    | hooved               | nature         | no   |      |
 | winter koalefant             | hooved               | nature         | no   |      |
 | deerclops                    | hooved               | nature         | yes  |      |
-| chester                      | tribeless            | nature         | yes  |      |
+| chester                      | tribeless            | nature         | yes  | fin  |
 | ancient guardian             | hooved, shadow       | nature         | yes  |      |
 | krampus                      | hooved               | nature         | yes  | fin  |
 | moose/goose                  | hooved, avian        | nature         | yes  | fin  |
@@ -181,7 +181,7 @@ fin=finished
 | kingfisher                   | avian                | nature         | no   |      |
 | peagawk                      | avian, plant         | nature         | no   |      |
 | thunderbird                  | avian                | nature         | no   |      |
-| ro bin                       | avian                | nature         | no   |      |
+| ro bin                       | avian                | nature         | no   | fin  |
 | BFB (big fucking bird)       | avian                | nature         | yes  | fin  |
 | puffin                       | avian                | nature         | no   |      |
 | canary                       | avian                | nature         | no   |      |
@@ -207,7 +207,7 @@ fin=finished
 | maxameleon                   | reptile              | nature         | no   |      |
 | grass gekko                  | reptile, plant       | nature         | no   |      |
 | grass gator                  | reptile, plant       | nature         | no   |      |
-| hutch                        | reptile              | nature         | yes  |      |
+| hutch                        | reptile              | nature         | yes  | fin  |
 | loyal merm guard             | reptile              | nature         | no   |      |
 | king of the merms            | reptile              | nature         | no   |      |
 | toadstool                    | reptile, plant       | nature         | yes  |      |

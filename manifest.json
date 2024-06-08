@@ -1,14 +1,14 @@
 {
     "name": "DontStarveExpansion",
-    "version_number": "1.1.1",
+    "version_number": "1.2.0",
     "website_url": "https://github.com/empathy-mp3/inscryption-Dont-Starve-mod",
     "description": "Play with the many beasts (and other things) from the Constant.",
     "dependencies": [
         "BepInEx-BepInExPack_Inscryption-5.4.1902",
         "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
-        "API_dev-API-2.18.2",
-        "MADH95Mods-JSONCardLoader-2.4.5",
-        "Infiniscryption-Pack_Management_API-1.1.4",
+        "API_dev-API-2.19.5",
+        "MADH95Mods-JSONCardLoader-2.5.4",
+        "Infiniscryption-Pack_Management_API-1.2.2",
         "TVFLabs-CustomSideDeck-1.2.0"
     ]
 }

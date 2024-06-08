@@ -2,7 +2,7 @@
     "name": "lavae",
     "modPrefix": "dontstarve",
     "displayedName": "Lavae",
-    "description": "A bird with remarkable storage capacity.",
+    "description": "A small burning larva.",
     "metaCategories": [
         "TraderOffer",
         "ChoiceNode"
@@ -10,13 +10,16 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
-    "baseHealth": 3,
+    "baseHealth": 1,
     "gemsCost": [
         "Orange"
     ],
-    "bonesCost": 1,
+    "bonesCost": 2,
     "abilities": [
-        "MadeOfStone"
+        "Loot"
+    ],
+    "tribes": [
+        "Insect"
     ],
     "texture": "lavae.png",
     "emissionTexture": "lavae_e.png",
