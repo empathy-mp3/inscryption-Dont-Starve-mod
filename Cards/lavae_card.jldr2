@@ -10,13 +10,13 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
-    "baseHealth": 1,
+    "baseHealth": 3,
     "gemsCost": [
         "Orange"
     ],
     "bonesCost": 2,
     "abilities": [
-        "Loot"
+        "MadeOfStone"
     ],
     "tribes": [
         "Insect"

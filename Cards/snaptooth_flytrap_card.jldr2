@@ -3,14 +3,23 @@
     "modPrefix": "dontstarve",
     "displayedName": "Snaptooth Flytrap",
     "description": "An enormous carnivorous plant.",
-    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "metaCategories": [
+        "ChoiceNode",
+        "TraderOffer"
+    ],
     "cardComplexity": "Simple",
     "temple": "Nature",
-    "baseAttack": 4,
+    "baseAttack": 3,
     "baseHealth": 3,
-    "bloodCost": 4,
-    "tribes": ["empathymp3.inscryption.dontstarve.Plant"],
-    "traits": ["Terrain"],
-    "appearanceBehaviour": ["TerrainBackground"],
+    "bloodCost": 3,
+    "tribes": [
+        "empathymp3.inscryption.dontstarve.Plant"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground"
+    ],
     "texture": "snaptooth_flytrap.png"
 }

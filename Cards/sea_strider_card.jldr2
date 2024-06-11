@@ -2,18 +2,34 @@
     "name": "sea_strider",
     "modPrefix": "dontstarve",
     "displayedName": "Sea Strider",
-    "description": "A creature of that size shouldn't be able to float over water, but...",
-    "metaCategories": ["ChoiceNode", "TraderOffer"],
+    "description": "A creature of that size shouldn't be able to float over water.",
+    "metaCategories": [
+        "ChoiceNode",
+        "TraderOffer"
+    ],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseHealth": 1,
-    "gemsCost": ["Green"],
+    "gemsCost": [
+        "Green"
+    ],
     "specialStatIcon": "Ants",
-    "abilities": ["Submerge", "BuffEnemy"],
-    "specialAbilities": ["Ant"],
-    "tribes": ["Insect"],
-    "traits": ["Ant"],
-    "appearanceBehaviour": ["RedEmission"],
+    "abilities": [
+        "Submerge",
+        "BuffEnemy"
+    ],
+    "specialAbilities": [
+        "Ant"
+    ],
+    "tribes": [
+        "Insect"
+    ],
+    "traits": [
+        "Ant"
+    ],
+    "appearanceBehaviour": [
+        "RedEmission"
+    ],
     "emissionTexture": "sea_strider_e.png",
     "texture": "sea_strider.png"
 }

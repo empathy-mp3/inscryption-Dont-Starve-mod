@@ -6,7 +6,7 @@
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
-    "baseHealth": 3,
+    "baseHealth": 1,
     "bloodCost": 2,
     "abilities": [
         "AllStrike"

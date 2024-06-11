@@ -1,18 +1,34 @@
 {
-    "name": "nightmarebeak",
-    "modPrefix": "dontstarve",
-    "displayedName": "Nightmarebeak",
-    "description": "A terrifying visage. It lives off the fear of its enemies.",
-    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
-    "cardComplexity": "Simple",
-    "temple": "Nature",
-    "baseAttack": 2,
-    "baseHealth": 1,
-    "gemsCost": ["Blue"],
-    "abilities": [ "StrafePush", "GainGemBlue"],
-    "tribes": ["empathymp3.inscryption.dontstarve.Shadow"],
-    "traits": ["Gem"],
-    "appearanceBehaviour": ["RareCardBackground"],
-    "texture": "nightmarebeak.png",
-    "pixelTexture": "px_nightmarebeak.png"
-  }
+  "name": "nightmarebeak",
+  "modPrefix": "dontstarve",
+  "displayedName": "Nightmarebeak",
+  "description": "A terrifying visage. It lives off the fear of its enemies.",
+  "metaCategories": [
+    "Rare",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "gemsCost": [
+    "Blue"
+  ],
+  "energyCost": 1,
+  "abilities": [
+    "StrafePush",
+    "GainGemBlue"
+  ],
+  "tribes": [
+    "empathymp3.inscryption.dontstarve.Shadow"
+  ],
+  "traits": [
+    "Gem"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "nightmarebeak.png",
+  "pixelTexture": "px_nightmarebeak.png"
+}

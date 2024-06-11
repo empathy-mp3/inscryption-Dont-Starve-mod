@@ -2,9 +2,7 @@
 
 ### notes: 
 
-every "lunar aligned" enemy should be blue gem
-every "shadow aligned" enemy should be other gem?
-useful page: https://dontstarve.fandom.com/wiki/Mobs#All
+useful page: https://dontstarve.wiki.gg/wiki/Mobs
 custom tribes: shadow, moon, plant
 fin=finished
 
